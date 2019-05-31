@@ -1,0 +1,168 @@
+Rank,player,club,nationality,position,shots,shotsOnTarget,shotsOnTargetPercent
+3,Ryan Fraser,AFC Bournemouth,Scotland,MID,51,25,49
+4,David Brooks,AFC Bournemouth,Wales,MID,41,20,49
+5,Junior Stanislas,AFC Bournemouth,England,MID,34,10,29
+6,Jefferson Lerma,AFC Bournemouth,Colombia,MID,31,8,26
+8,Dan Gosling,AFC Bournemouth,England,MID,21,7,33
+13,Jordon Ibe,AFC Bournemouth,England,MID,9,3,33
+13,Andrew Surman,AFC Bournemouth,England,MID,9,1,11
+17,Lewis Cook,AFC Bournemouth,England,MID,4,0,0
+3,Henrikh Mkhitaryan,Arsenal,Armenia,MID,49,14,29
+4,Alex Iwobi,Arsenal,Nigeria,MID,35,14,40
+5,Aaron Ramsey,Arsenal,Wales,MID,33,13,39
+6,Granit Xhaka,Arsenal,Switzerland,MID,29,12,41
+7,Lucas Torreira,Arsenal,Uruguay,MID,25,6,24
+10,Matteo Guendouzi,Arsenal,France,MID,16,4,25
+11,Mesut Özil,Arsenal,Germany,MID,11,6,55
+14,Mohamed Elneny,Arsenal,Egypt,MID,7,0,0
+16,Ainsley Maitland-Niles,Arsenal,England,MID,5,3,60
+20,Joe Willock,Arsenal,England,MID,2,0,0
+2,Solly March,Brighton and Hove Albion,England,MID,43,9,21
+4,Yves Bissouma,Brighton and Hove Albion,Mali,MID,31,3,10
+6,Anthony Knockaert,Brighton and Hove Albion,France,MID,27,9,33
+7,Pascal Groß,Brighton and Hove Albion,Germany,MID,24,9,38
+11,Davy Pröpper,Brighton and Hove Albion,Netherlands,MID,15,2,13
+13,Dale Stephens,Brighton and Hove Albion,England,MID,11,1,9
+16,Beram Kayal,Brighton and Hove Albion,Israel,MID,5,2,40
+3,Johann Gudmundsson,Burnley,Iceland,MID,33,9,27
+5,Ashley Westwood,Burnley,England,MID,22,7,32
+9,Jeff Hendrick,Burnley,Ireland,MID,19,6,32
+10,Jack Cork,Burnley,England,MID,17,2,12
+11,Robbie Brady,Burnley,Ireland,MID,12,2,17
+16,Aaron Lennon,Burnley,England,MID,4,2,50
+1,Josh Murphy,Cardiff City,England,MID,46,15,33
+2,Víctor Camarasa,Cardiff City,Spain,MID,41,12,29
+3,Bobby De Cordova-Reid,Cardiff City,England,MID,27,9,33
+4,Harry Arter,Cardiff City,Ireland,MID,23,5,22
+4,Joe Ralls,Cardiff City,England,MID,23,3,13
+6,Aron Gunnarsson,Cardiff City,Iceland,MID,20,4,20
+7,Leandro Bacuna,Cardiff City,Curacao,MID,5,1,20
+7,Kadeem Harris,Cardiff City,England,MID,5,3,60
+9,Loïc Damour,Cardiff City,France,MID,1,0,0
+1,Ross Barkley,Chelsea,England,MID,41,9,22
+2,N'Golo Kanté,Chelsea,France,MID,29,6,21
+3,Mateo Kovacic,Chelsea,Croatia,MID,28,4,14
+3,Ruben Loftus-Cheek,Chelsea,England,MID,28,8,29
+5,Jorginho,Chelsea,Italy,MID,19,7,37
+6,Cesc Fàbregas,Chelsea,Spain,MID,1,0,0
+1,Andros Townsend,Crystal Palace,England,MID,63,19,30
+2,Luka Milivojevic,Crystal Palace,Serbia,MID,57,25,44
+3,Max Meyer,Crystal Palace,Germany,MID,38,8,21
+4,James McArthur,Crystal Palace,Scotland,MID,34,8,24
+5,Cheikhou Kouyaté,Crystal Palace,Senegal,MID,20,8,40
+6,Aaron Wan-Bissaka,Crystal Palace,England,MID,9,1,11
+1,Gylfi Sigurdsson,Everton,Iceland,MID,86,34,40
+2,Bernard,Everton,Brazil,MID,23,5,22
+3,André Gomes,Everton,Portugal,MID,21,5,24
+4,Idrissa Gueye,Everton,Senegal,MID,19,4,21
+5,Tom Davies,Everton,England,MID,7,2,29
+6,Morgan Schneiderlin,Everton,France,MID,3,0,0
+1,André Schürrle,Fulham,Germany,MID,55,18,33
+2,Ryan Sessegnon,Fulham,England,MID,28,11,39
+3,Ryan Babel,Fulham,Netherlands,MID,27,9,33
+4,Tom Cairney,Fulham,Scotland,MID,24,5,21
+5,André-Frank Zambo Anguissa,Fulham,Cameroon,MID,21,5,24
+6,Jean Michael Seri,Fulham,Cote D'Ivoire,MID,19,6,32
+7,Kevin McDonald,Fulham,Scotland,MID,4,0,0
+8,Harvey Elliott,Fulham,England,MID,1,1,100
+8,Stefan Johansen,Fulham,Norway,MID,1,0,0
+1,Alex Pritchard,Huddersfield Town,England,MID,47,13,28
+2,Aaron Mooy,Huddersfield Town,Australia,MID,43,14,33
+3,Philip Billing,Huddersfield Town,Denmark,MID,42,9,21
+4,Juninho Bacuna,Huddersfield Town,Netherlands,MID,19,8,42
+5,Isaac Mbenza,Huddersfield Town,Belgium,MID,16,5,31
+6,Jonathan Hogg,Huddersfield Town,England,MID,8,1,13
+7,Jason Puncheon,Huddersfield Town,England,MID,6,0,0
+8,Rajiv van La Parra,Huddersfield Town,Netherlands,MID,5,0,0
+9,Danny Williams,Huddersfield Town,United States,MID,1,0,0
+1,James Maddison,Leicester City,England,MID,83,28,34
+2,Wilfred Ndidi,Leicester City,Nigeria,MID,55,9,16
+3,Demarai Gray,Leicester City,England,MID,47,19,40
+4,Harvey Barnes,Leicester City,England,MID,40,10,25
+5,Youri Tielemans,Leicester City,Belgium,MID,31,12,39
+6,Marc Albrighton,Leicester City,England,MID,19,7,37
+6,Rachid Ghezzal,Leicester City,Algeria,MID,19,5,26
+8,Daniel Amartey,Leicester City,Ghana,MID,4,1,25
+8,Hamza Choudhury,Leicester City,England,MID,4,2,50
+10,Vicente Iborra,Leicester City,Spain,MID,2,1,50
+10,Nampalys Mendy,Leicester City,France,MID,2,0,0
+1,Georginio Wijnaldum,Liverpool,Netherlands,MID,30,10,33
+2,Naby Keita,Liverpool,Guinea,MID,27,10,37
+3,James Milner,Liverpool,England,MID,24,8,33
+4,Fabinho,Liverpool,Brazil,MID,17,4,24
+5,Jordan Henderson,Liverpool,England,MID,16,1,6
+6,Adam Lallana,Liverpool,England,MID,5,2,40
+7,Alex Oxlade-Chamberlain,Liverpool,England,MID,1,1,100
+3,Bernardo Silva,Manchester City,Portugal,MID,62,22,35
+5,Riyad Mahrez,Manchester City,Algeria,MID,54,25,46
+6,David Silva,Manchester City,Spain,MID,51,20,39
+7,Ilkay Gündogan,Manchester City,Germany,MID,43,11,26
+9,Kevin De Bruyne,Manchester City,Belgium,MID,31,12,39
+10,Fernandinho,Manchester City,Brazil,MID,30,7,23
+14,Phil Foden,Manchester City,England,MID,14,6,43
+16,Oleksandr Zinchenko,Manchester City,Ukraine,MID,7,1,14
+1,Paul Pogba,Manchester United,France,MID,105,50,48
+2,Jesse Lingard,Manchester United,England,MID,32,14,44
+3,Ander Herrera,Manchester United,Spain,MID,21,8,38
+4,Juan Mata,Manchester United,Spain,MID,19,6,32
+5,Fred,Manchester United,Brazil,MID,17,2,12
+6,Scott McTominay,Manchester United,Scotland,MID,15,6,40
+7,Nemanja Matic,Manchester United,Serbia,MID,12,3,25
+8,Andreas Pereira,Manchester United,Brazil,MID,8,2,25
+9,Marouane Fellaini,Manchester United,Belgium,MID,7,3,43
+10,Tahith Chong,Manchester United,Netherlands,MID,2,1,50
+10,Angel Gomes,Manchester United,England,MID,2,1,50
+1,Matt Ritchie,Newcastle United,Scotland,MID,41,10,24
+2,Kenedy,Newcastle United,Brazil,MID,31,6,19
+3,Christian Atsu,Newcastle United,Ghana,MID,28,14,50
+4,Jonjo Shelvey,Newcastle United,England,MID,23,8,35
+5,Isaac Hayden,Newcastle United,England,MID,22,5,23
+6,Mohamed Diamé,Newcastle United,Senegal,MID,20,3,15
+7,Miguel Almirón,Newcastle United,Paraguay,MID,19,8,42
+8,Ki Sung-yueng,Newcastle United,South Korea,MID,9,2,22
+9,Sean Longstaff,Newcastle United,England,MID,8,2,25
+10,Jacob Murphy,Newcastle United,England,MID,2,1,50
+1,Nathan Redmond,Southampton,England,MID,74,22,30
+2,Pierre-Emile Højbjerg,Southampton,Denmark,MID,53,19,36
+3,Stuart Armstrong,Southampton,Scotland,MID,32,12,38
+4,James Ward-Prowse,Southampton,England,MID,31,16,52
+5,Mario Lemina,Southampton,Gabon,MID,25,5,20
+6,Mohamed Elyounoussi,Southampton,Norway,MID,20,6,30
+7,Oriol Romeu,Southampton,Spain,MID,10,4,40
+8,Josh Sims,Southampton,England,MID,5,1,20
+9,Callum Slattery,Southampton,England,MID,1,0,0
+1,Christian Eriksen,Tottenham Hotspur,Denmark,MID,83,30,36
+2,Lucas Moura,Tottenham Hotspur,Brazil,MID,45,20,44
+3,Dele Alli,Tottenham Hotspur,England,MID,39,19,49
+4,Erik Lamela,Tottenham Hotspur,Argentina,MID,29,11,38
+5,Moussa Sissoko,Tottenham Hotspur,France,MID,15,3,20
+6,Eric Dier,Tottenham Hotspur,England,MID,9,3,33
+6,Harry Winks,Tottenham Hotspur,England,MID,9,2,22
+8,Victor Wanyama,Tottenham Hotspur,Kenya,MID,7,2,29
+9,Oliver Skipp,Tottenham Hotspur,England,MID,2,0,0
+10,Mousa Dembélé,Tottenham Hotspur,Belgium,MID,1,0,0
+1,Roberto Pereyra,Watford,Argentina,MID,57,21,37
+2,Abdoulaye Doucouré,Watford,France,MID,52,17,33
+3,Will Hughes,Watford,England,MID,31,7,23
+4,Etienne Capoue,Watford,France,MID,18,4,22
+5,Ken Sema,Watford,Sweden,MID,12,4,33
+6,Domingos Quina,Watford,Portugal,MID,5,1,20
+7,Tom Cleverley,Watford,England,MID,4,2,50
+8,Nathaniel Chalobah,Watford,England,MID,2,1,50
+1,Michail Antonio,West Ham United,England,MID,65,25,38
+3,Felipe Anderson,West Ham United,Brazil,MID,58,25,43
+5,Robert Snodgrass,West Ham United,Scotland,MID,30,7,23
+6,Declan Rice,West Ham United,England,MID,22,5,23
+8,Mark Noble,West Ham United,England,MID,17,8,47
+9,Pedro Obiang,West Ham United,Equatorial Guinea,MID,15,1,7
+13,Manuel Lanzini,West Ham United,Argentina,MID,11,4,36
+15,Grady Diangana,West Ham United,England,MID,10,3,30
+21,Samir Nasri,West Ham United,France,MID,3,0,0
+21,Carlos Sánchez,West Ham United,Colombia,MID,3,0,0
+23,Jack Wilshere,West Ham United,England,MID,2,1,50
+3,Diogo Jota,Wolverhampton Wanderers,Portugal,MID,58,24,41
+9,João Moutinho,Wolverhampton Wanderers,Portugal,MID,18,3,17
+10,Leander Dendoncker,Wolverhampton Wanderers,Belgium,MID,17,10,59
+13,Romain Saïss,Wolverhampton Wanderers,Morocco,MID,11,5,45
+14,Léo Bonatini,Wolverhampton Wanderers,Brazil,MID,9,1,11
+15,Morgan Gibbs-White,Wolverhampton Wanderers,England,MID,8,1,13
