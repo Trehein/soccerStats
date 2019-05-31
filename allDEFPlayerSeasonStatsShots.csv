@@ -1,0 +1,158 @@
+Rank,player,club,nationality,position,shots,shotsOnTarget,shotsOnTargetPercent
+7,Nathan Aké,AFC Bournemouth,Netherlands,DEF,25,9,36
+8,Steve Cook,AFC Bournemouth,England,DEF,21,9,43
+10,Charlie Daniels,AFC Bournemouth,England,DEF,12,3,25
+13,Diego Rico,AFC Bournemouth,Spain,DEF,9,0,0
+16,Adam Smith,AFC Bournemouth,England,DEF,7,1,14
+18,Simon Francis,AFC Bournemouth,England,DEF,3,1,33
+19,Nathaniel Clyne,AFC Bournemouth,England,DEF,2,0,0
+19,Chris Mepham,AFC Bournemouth,Wales,DEF,2,0,0
+19,Jack Simpson,AFC Bournemouth,England,DEF,2,0,0
+8,Héctor Bellerín,Arsenal,Spain,DEF,18,4,22
+8,Shkodran Mustafi,Arsenal,Germany,DEF,18,9,50
+11,Sokratis,Arsenal,Greece,DEF,11,2,18
+13,Sead Kolasinac,Arsenal,Bosnia And Herzegovina,DEF,9,2,22
+14,Nacho Monreal,Arsenal,Spain,DEF,7,4,57
+16,Laurent Koscielny,Arsenal,France,DEF,5,4,80
+20,Rob Holding,Arsenal,England,DEF,2,0,0
+20,Konstantinos Mavropanos,Arsenal,Greece,DEF,2,0,0
+23,Stephan Lichtsteiner,Arsenal,Switzerland,DEF,1,0,0
+3,Shane Duffy,Brighton and Hove Albion,Ireland,DEF,37,16,43
+9,Lewis Dunk,Brighton and Hove Albion,England,DEF,20,4,20
+14,Bernardo,Brighton and Hove Albion,Brazil,DEF,8,3,38
+14,Martín Montoya,Brighton and Hove Albion,Spain,DEF,8,1,13
+17,Gaëtan Bong,Brighton and Hove Albion,Cameroon,DEF,2,0,0
+17,Bruno,Brighton and Hove Albion,Spain,DEF,2,0,0
+19,Leon Balogun,Brighton and Hove Albion,Nigeria,DEF,1,1,100
+5,James Tarkowski,Burnley,England,DEF,22,10,45
+8,Ben Mee,Burnley,England,DEF,21,4,19
+11,Phil Bardsley,Burnley,Scotland,DEF,12,1,8
+13,Charlie Taylor,Burnley,England,DEF,6,0,0
+16,Matthew Lowton,Burnley,England,DEF,4,1,25
+18,Ben Gibson,Burnley,England,DEF,1,1,100
+18,Kevin Long,Burnley,Ireland,DEF,1,0,0
+18,Stephen Ward,Burnley,Ireland,DEF,1,1,100
+1,Callum Paterson,Cardiff City,Scotland,DEF,41,8,20
+2,Sean Morrison,Cardiff City,England,DEF,34,10,29
+3,Sol Bamba,Cardiff City,Cote D'Ivoire,DEF,22,7,32
+4,Joe Bennett,Cardiff City,England,DEF,10,3,30
+4,Bruno Ecuele Manga,Cardiff City,Gabon,DEF,10,4,40
+6,Greg Cunningham,Cardiff City,Ireland,DEF,2,1,50
+7,Lee Peltier,Cardiff City,England,DEF,1,1,100
+1,Marcos Alonso,Chelsea,Spain,DEF,45,7,16
+2,David Luiz,Chelsea,Brazil,DEF,34,8,24
+3,Antonio Rüdiger,Chelsea,Germany,DEF,27,6,22
+4,César Azpilicueta,Chelsea,Spain,DEF,17,7,41
+5,Emerson,Chelsea,Italy,DEF,5,1,20
+6,Davide Zappacosta,Chelsea,Italy,DEF,2,1,50
+1,Patrick van Aanholt,Crystal Palace,Netherlands,DEF,45,11,24
+2,Jeffrey Schlupp,Crystal Palace,Ghana,DEF,28,8,29
+3,James Tomkins,Crystal Palace,England,DEF,22,7,32
+4,Scott Dann,Crystal Palace,England,DEF,6,1,17
+5,Mamadou Sakho,Crystal Palace,France,DEF,4,1,25
+6,Martin Kelly,Crystal Palace,England,DEF,3,1,33
+7,Joel Ward,Crystal Palace,England,DEF,2,1,50
+1,Lucas Digne,Everton,France,DEF,34,10,29
+2,Michael Keane,Everton,England,DEF,31,9,29
+3,Kurt Zouma,Everton,France,DEF,19,3,16
+4,Seamus Coleman,Everton,Ireland,DEF,15,7,47
+5,Yerry Mina,Everton,Colombia,DEF,4,1,25
+6,Jonjoe Kenny,Everton,England,DEF,3,0,0
+7,Leighton Baines,Everton,England,DEF,2,1,50
+8,Phil Jagielka,Everton,England,DEF,1,1,100
+1,Calum Chambers,Fulham,England,DEF,35,11,31
+2,Joe Bryan,Fulham,England,DEF,21,7,33
+3,Cyrus Christie,Fulham,Ireland,DEF,12,3,25
+4,Denis Odoi,Fulham,Belgium,DEF,10,1,10
+5,Maxime Le Marchand,Fulham,France,DEF,5,0,0
+6,Timothy Fosu-Mensah,Fulham,Netherlands,DEF,4,1,25
+7,Alfie Mawson,Fulham,England,DEF,2,1,50
+8,Neeskens Kebano,Fulham,The Democratic Republic Of Congo,DEF,1,0,0
+8,Tim Ream,Fulham,United States,DEF,1,0,0
+1,Chris Löwe,Huddersfield Town,Germany,DEF,18,6,33
+2,Terence Kongolo,Huddersfield Town,Netherlands,DEF,14,4,29
+3,Christopher Schindler,Huddersfield Town,Germany,DEF,13,3,23
+4,Erik Durm,Huddersfield Town,Germany,DEF,9,0,0
+4,Jon Gorenc Stankovic,Huddersfield Town,Slovenia,DEF,9,2,22
+6,Zanka,Huddersfield Town,Denmark,DEF,8,4,50
+7,Florent Hadergjonaj,Huddersfield Town,Switzerland,DEF,6,2,33
+8,Tommy Smith,Huddersfield Town,England,DEF,3,0,0
+1,Harry Maguire,Leicester City,England,DEF,30,13,43
+2,Ricardo Pereira,Leicester City,Portugal,DEF,25,9,36
+3,Ben Chilwell,Leicester City,England,DEF,22,10,45
+4,Wes Morgan,Leicester City,Jamaica,DEF,14,5,36
+5,Jonny Evans,Leicester City,Northern Ireland,DEF,11,3,27
+6,Christian Fuchs,Leicester City,Austria,DEF,2,0,0
+6,Çaglar Söyüncü,Leicester City,Turkey,DEF,2,0,0
+1,Virgil van Dijk,Liverpool,Netherlands,DEF,31,8,26
+2,Trent Alexander-Arnold,Liverpool,England,DEF,29,9,31
+3,Andrew Robertson,Liverpool,Scotland,DEF,16,5,31
+4,Joel Matip,Liverpool,Cameroon,DEF,8,2,25
+5,Dejan Lovren,Liverpool,Croatia,DEF,6,1,17
+6,Joseph Gomez,Liverpool,England,DEF,5,1,20
+7,Nathaniel Clyne,Liverpool,England,DEF,3,1,33
+8,Alberto Moreno,Liverpool,Spain,DEF,1,0,0
+11,Aymeric Laporte,Manchester City,France,DEF,26,7,27
+12,Kyle Walker,Manchester City,England,DEF,21,4,19
+13,Nicolás Otamendi,Manchester City,Argentina,DEF,15,3,20
+14,Danilo,Manchester City,Brazil,DEF,14,3,21
+16,Benjamin Mendy,Manchester City,France,DEF,7,3,43
+18,Vincent Kompany,Manchester City,Belgium,DEF,5,1,20
+18,John Stones,Manchester City,England,DEF,5,1,20
+20,Fabian Delph,Manchester City,England,DEF,4,3,75
+1,Luke Shaw,Manchester United,England,DEF,21,7,33
+2,Diogo Dalot,Manchester United,Portugal,DEF,15,0,0
+3,Ashley Young,Manchester United,England,DEF,12,3,25
+4,Chris Smalling,Manchester United,England,DEF,11,2,18
+5,Victor Lindelöf,Manchester United,Sweden,DEF,8,1,13
+6,Marcos Rojo,Manchester United,Argentina,DEF,6,4,67
+7,Phil Jones,Manchester United,England,DEF,5,2,40
+8,Eric Bailly,Manchester United,Cote D'Ivoire,DEF,3,1,33
+9,Antonio Valencia,Manchester United,Ecuador,DEF,2,0,0
+10,Matteo Darmian,Manchester United,Italy,DEF,1,1,100
+1,Fabian Schär,Newcastle United,Switzerland,DEF,25,7,28
+2,Jamaal Lascelles,Newcastle United,England,DEF,11,1,9
+2,DeAndre Yedlin,Newcastle United,United States,DEF,11,2,18
+4,Paul Dummett,Newcastle United,Wales,DEF,9,1,11
+5,Ciaran Clark,Newcastle United,Ireland,DEF,7,3,43
+5,Florian Lejeune,Newcastle United,France,DEF,7,2,29
+7,Federico Fernández,Newcastle United,Argentina,DEF,4,1,25
+8,Javier Manquillo,Newcastle United,Spain,DEF,2,1,50
+1,Ryan Bertrand,Southampton,England,DEF,16,2,13
+2,Jannik Vestergaard,Southampton,Denmark,DEF,14,1,7
+3,Maya Yoshida,Southampton,Japan,DEF,13,3,23
+4,Matt Targett,Southampton,England,DEF,11,3,27
+5,Cédric Soares,Southampton,Portugal,DEF,10,3,30
+6,Jack Stephens,Southampton,England,DEF,7,5,71
+7,Wesley Hoedt,Southampton,Netherlands,DEF,6,1,17
+7,Yan Valery,Southampton,France,DEF,6,5,83
+9,Jan Bednarek,Southampton,Poland,DEF,5,1,20
+1,Toby Alderweireld,Tottenham Hotspur,Belgium,DEF,19,5,26
+2,Danny Rose,Tottenham Hotspur,England,DEF,15,2,13
+2,Jan Vertonghen,Tottenham Hotspur,Belgium,DEF,15,2,13
+4,Ben Davies,Tottenham Hotspur,Wales,DEF,14,1,7
+4,Davinson Sánchez,Tottenham Hotspur,Colombia,DEF,14,3,21
+6,Kieran Trippier,Tottenham Hotspur,England,DEF,8,3,38
+7,Serge Aurier,Tottenham Hotspur,Cote D'Ivoire,DEF,4,1,25
+7,Juan Foyth,Tottenham Hotspur,Argentina,DEF,4,1,25
+9,Kyle Walker-Peters,Tottenham Hotspur,England,DEF,2,0,0
+1,José Holebas,Watford,Greece,DEF,17,5,29
+2,Craig Cathcart,Watford,Northern Ireland,DEF,13,5,38
+3,Daryl Janmaat,Watford,Netherlands,DEF,11,1,9
+4,Christian Kabasele,Watford,Belgium,DEF,8,2,25
+5,Adrian Mariappa,Watford,Jamaica,DEF,7,1,14
+6,Kiko Femenía,Watford,Spain,DEF,6,2,33
+7,Adam Masina,Watford,Italy,DEF,3,0,0
+7,Fabián Balbuena,West Ham United,Paraguay,DEF,19,2,11
+10,Angelo Ogbonna,West Ham United,Italy,DEF,14,5,36
+12,Issa Diop,West Ham United,France,DEF,12,5,42
+13,Aaron Cresswell,West Ham United,England,DEF,11,0,0
+18,Pablo Zabaleta,West Ham United,Argentina,DEF,7,1,14
+19,Ryan Fredericks,West Ham United,England,DEF,5,2,40
+20,Arthur Masuaku,West Ham United,The Democratic Republic Of Congo,DEF,4,1,25
+2,Rúben Neves,Wolverhampton Wanderers,Portugal,DEF,74,16,22
+4,Matt Doherty,Wolverhampton Wanderers,Ireland,DEF,46,18,39
+5,Jonny,Wolverhampton Wanderers,Spain,DEF,25,8,32
+7,Willy Boly,Wolverhampton Wanderers,France,DEF,24,6,25
+11,Ryan Bennett,Wolverhampton Wanderers,England,DEF,15,4,27
+16,Rúben Vinagre,Wolverhampton Wanderers,Portugal,DEF,4,3,75

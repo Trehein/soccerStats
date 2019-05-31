@@ -1,0 +1,174 @@
+rank,player,club,nationality,position,passes
+1,Nathan Aké,AFC Bournemouth,Netherlands,DEF,"1,696"
+2,Steve Cook,AFC Bournemouth,England,DEF,"1,501"
+3,Adam Smith,AFC Bournemouth,England,DEF,872
+4,Charlie Daniels,AFC Bournemouth,England,DEF,840
+5,Simon Francis,AFC Bournemouth,England,DEF,654
+6,Nathaniel Clyne,AFC Bournemouth,England,DEF,459
+7,Chris Mepham,AFC Bournemouth,Wales,DEF,405
+8,Diego Rico,AFC Bournemouth,Spain,DEF,285
+9,Jack Simpson,AFC Bournemouth,England,DEF,236
+10,Tyrone Mings,AFC Bournemouth,England,DEF,87
+1,Shkodran Mustafi,Arsenal,Germany,DEF,"1,765"
+2,Sokratis,Arsenal,Greece,DEF,"1,387"
+3,Nacho Monreal,Arsenal,Spain,DEF,"1,168"
+4,Sead Kolasinac,Arsenal,Bosnia And Herzegovina,DEF,971
+5,Laurent Koscielny,Arsenal,France,DEF,891
+6,Héctor Bellerín,Arsenal,Spain,DEF,785
+7,Rob Holding,Arsenal,England,DEF,614
+8,Stephan Lichtsteiner,Arsenal,Switzerland,DEF,480
+9,Konstantinos Mavropanos,Arsenal,Greece,DEF,137
+10,Carl Jenkinson,Arsenal,England,DEF,75
+1,Lewis Dunk,Brighton and Hove Albion,England,DEF,"1,490"
+2,Shane Duffy,Brighton and Hove Albion,Ireland,DEF,"1,305"
+3,Martín Montoya,Brighton and Hove Albion,Spain,DEF,858
+4,Bernardo,Brighton and Hove Albion,Brazil,DEF,785
+5,Gaëtan Bong,Brighton and Hove Albion,Cameroon,DEF,602
+6,Bruno,Brighton and Hove Albion,Spain,DEF,510
+7,Leon Balogun,Brighton and Hove Albion,Nigeria,DEF,216
+1,Ben Mee,Burnley,England,DEF,"1,502"
+2,Charlie Taylor,Burnley,England,DEF,"1,175"
+3,James Tarkowski,Burnley,England,DEF,"1,135"
+4,Matthew Lowton,Burnley,England,DEF,638
+5,Phil Bardsley,Burnley,Scotland,DEF,555
+6,Kevin Long,Burnley,Ireland,DEF,168
+7,Stephen Ward,Burnley,Ireland,DEF,113
+8,Ben Gibson,Burnley,England,DEF,33
+1,Bruno Ecuele Manga,Cardiff City,Gabon,DEF,957
+2,Sean Morrison,Cardiff City,England,DEF,737
+3,Joe Bennett,Cardiff City,England,DEF,694
+4,Callum Paterson,Cardiff City,Scotland,DEF,552
+5,Sol Bamba,Cardiff City,Cote D'Ivoire,DEF,550
+6,Lee Peltier,Cardiff City,England,DEF,342
+7,Greg Cunningham,Cardiff City,Ireland,DEF,179
+8,Jazz Richards,Cardiff City,Wales,DEF,26
+1,David Luiz,Chelsea,Brazil,DEF,"2,620"
+2,Antonio Rüdiger,Chelsea,Germany,DEF,"2,537"
+3,César Azpilicueta,Chelsea,Spain,DEF,"2,483"
+4,Marcos Alonso,Chelsea,Spain,DEF,"1,881"
+5,Andreas Christensen,Chelsea,Denmark,DEF,458
+6,Emerson,Chelsea,Italy,DEF,436
+7,Davide Zappacosta,Chelsea,Italy,DEF,75
+8,Gary Cahill,Chelsea,England,DEF,18
+1,Patrick van Aanholt,Crystal Palace,Netherlands,DEF,"1,610"
+2,Mamadou Sakho,Crystal Palace,France,DEF,"1,321"
+3,James Tomkins,Crystal Palace,England,DEF,"1,111"
+4,Jeffrey Schlupp,Crystal Palace,Ghana,DEF,630
+5,Martin Kelly,Crystal Palace,England,DEF,357
+6,Scott Dann,Crystal Palace,England,DEF,264
+7,Joel Ward,Crystal Palace,England,DEF,190
+8,Pape Souaré,Crystal Palace,Senegal,DEF,3
+1,Michael Keane,Everton,England,DEF,"1,592"
+2,Lucas Digne,Everton,France,DEF,"1,457"
+3,Kurt Zouma,Everton,France,DEF,"1,442"
+4,Seamus Coleman,Everton,Ireland,DEF,"1,194"
+5,Yerry Mina,Everton,Colombia,DEF,504
+6,Jonjoe Kenny,Everton,England,DEF,427
+7,Mason Holgate,Everton,England,DEF,253
+8,Phil Jagielka,Everton,England,DEF,192
+9,Leighton Baines,Everton,England,DEF,191
+1,Calum Chambers,Fulham,England,DEF,"1,484"
+2,Maxime Le Marchand,Fulham,France,DEF,"1,386"
+3,Denis Odoi,Fulham,Belgium,DEF,"1,332"
+4,Tim Ream,Fulham,United States,DEF,"1,053"
+5,Joe Bryan,Fulham,England,DEF,951
+6,Cyrus Christie,Fulham,Ireland,DEF,884
+7,Alfie Mawson,Fulham,England,DEF,477
+8,Timothy Fosu-Mensah,Fulham,Netherlands,DEF,406
+9,Håvard Nordtveit,Fulham,Norway,DEF,225
+10,Neeskens Kebano,Fulham,The Democratic Republic Of Congo,DEF,29
+1,Christopher Schindler,Huddersfield Town,Germany,DEF,"1,551"
+2,Zanka,Huddersfield Town,Denmark,DEF,"1,173"
+3,Terence Kongolo,Huddersfield Town,Netherlands,DEF,"1,149"
+4,Chris Löwe,Huddersfield Town,Germany,DEF,840
+5,Erik Durm,Huddersfield Town,Germany,DEF,774
+6,Florent Hadergjonaj,Huddersfield Town,Switzerland,DEF,726
+7,Tommy Smith,Huddersfield Town,England,DEF,486
+8,Jon Gorenc Stankovic,Huddersfield Town,Slovenia,DEF,294
+9,Demeaco Duhaney,Huddersfield Town,England,DEF,19
+1,Harry Maguire,Leicester City,England,DEF,"1,747"
+2,Ben Chilwell,Leicester City,England,DEF,"1,684"
+3,Ricardo Pereira,Leicester City,Portugal,DEF,"1,532"
+4,Jonny Evans,Leicester City,Northern Ireland,DEF,"1,029"
+5,Wes Morgan,Leicester City,Jamaica,DEF,892
+6,Çaglar Söyüncü,Leicester City,Turkey,DEF,220
+7,Christian Fuchs,Leicester City,Austria,DEF,118
+8,Danny Simpson,Leicester City,England,DEF,110
+1,Virgil van Dijk,Liverpool,Netherlands,DEF,"3,037"
+2,Andrew Robertson,Liverpool,Scotland,DEF,"2,396"
+3,Trent Alexander-Arnold,Liverpool,England,DEF,"1,697"
+4,Joel Matip,Liverpool,Cameroon,DEF,"1,341"
+5,Dejan Lovren,Liverpool,Croatia,DEF,821
+6,Joseph Gomez,Liverpool,England,DEF,787
+7,Alberto Moreno,Liverpool,Spain,DEF,105
+8,Nathaniel Clyne,Liverpool,England,DEF,59
+1,Aymeric Laporte,Manchester City,France,DEF,"2,998"
+2,Kyle Walker,Manchester City,England,DEF,"2,389"
+6,John Stones,Manchester City,England,DEF,"1,751"
+9,Nicolás Otamendi,Manchester City,Argentina,DEF,"1,245"
+10,Vincent Kompany,Manchester City,Belgium,DEF,"1,227"
+16,Danilo,Manchester City,Brazil,DEF,767
+18,Fabian Delph,Manchester City,England,DEF,693
+19,Benjamin Mendy,Manchester City,France,DEF,650
+1,Luke Shaw,Manchester United,England,DEF,"1,658"
+2,Victor Lindelöf,Manchester United,Sweden,DEF,"1,490"
+3,Ashley Young,Manchester United,England,DEF,"1,376"
+4,Chris Smalling,Manchester United,England,DEF,954
+5,Phil Jones,Manchester United,England,DEF,754
+6,Diogo Dalot,Manchester United,Portugal,DEF,423
+7,Eric Bailly,Manchester United,Cote D'Ivoire,DEF,302
+8,Antonio Valencia,Manchester United,Ecuador,DEF,271
+9,Matteo Darmian,Manchester United,Italy,DEF,175
+10,Marcos Rojo,Manchester United,Argentina,DEF,124
+1,Jamaal Lascelles,Newcastle United,England,DEF,"1,104"
+2,Fabian Schär,Newcastle United,Switzerland,DEF,994
+3,Paul Dummett,Newcastle United,Wales,DEF,758
+4,DeAndre Yedlin,Newcastle United,United States,DEF,732
+5,Federico Fernández,Newcastle United,Argentina,DEF,611
+6,Florian Lejeune,Newcastle United,France,DEF,563
+7,Javier Manquillo,Newcastle United,Spain,DEF,352
+8,Ciaran Clark,Newcastle United,Ireland,DEF,304
+9,Antonio Barreca,Newcastle United,Italy,DEF,2
+1,Jannik Vestergaard,Southampton,Denmark,DEF,845
+2,Jan Bednarek,Southampton,Poland,DEF,822
+3,Ryan Bertrand,Southampton,England,DEF,774
+4,Jack Stephens,Southampton,England,DEF,767
+5,Wesley Hoedt,Southampton,Netherlands,DEF,621
+6,Cédric Soares,Southampton,Portugal,DEF,594
+7,Maya Yoshida,Southampton,Japan,DEF,556
+8,Matt Targett,Southampton,England,DEF,443
+9,Yan Valery,Southampton,France,DEF,399
+10,Kayne Ramsay,Southampton,England,DEF,14
+1,Toby Alderweireld,Tottenham Hotspur,Belgium,DEF,"2,358"
+2,Kieran Trippier,Tottenham Hotspur,England,DEF,"1,542"
+3,Jan Vertonghen,Tottenham Hotspur,Belgium,DEF,"1,531"
+4,Davinson Sánchez,Tottenham Hotspur,Colombia,DEF,"1,440"
+5,Ben Davies,Tottenham Hotspur,Wales,DEF,"1,085"
+6,Danny Rose,Tottenham Hotspur,England,DEF,929
+7,Juan Foyth,Tottenham Hotspur,Argentina,DEF,586
+8,Serge Aurier,Tottenham Hotspur,Cote D'Ivoire,DEF,269
+9,Kyle Walker-Peters,Tottenham Hotspur,England,DEF,188
+1,Craig Cathcart,Watford,Northern Ireland,DEF,"1,280"
+2,Kiko Femenía,Watford,Spain,DEF,925
+3,Adrian Mariappa,Watford,Jamaica,DEF,882
+4,José Holebas,Watford,Greece,DEF,833
+5,Daryl Janmaat,Watford,Netherlands,DEF,599
+6,Christian Kabasele,Watford,Belgium,DEF,550
+7,Adam Masina,Watford,Italy,DEF,436
+8,Miguel Britos,Watford,Uruguay,DEF,59
+9,Marc Navarro,Watford,Spain,DEF,23
+10,Ben Wilmot,Watford,England,DEF,9
+11,Sebastian Prödl,Watford,Austria,DEF,3
+1,Declan Rice,West Ham United,England,DEF,"1,518"
+2,Issa Diop,West Ham United,France,DEF,"1,134"
+3,Arthur Masuaku,West Ham United,The Democratic Republic Of Congo,DEF,880
+4,Pablo Zabaleta,West Ham United,Argentina,DEF,860
+5,Fabián Balbuena,West Ham United,Paraguay,DEF,832
+6,Aaron Cresswell,West Ham United,England,DEF,812
+7,Angelo Ogbonna,West Ham United,Italy,DEF,795
+8,Ryan Fredericks,West Ham United,England,DEF,436
+1,Willy Boly,Wolverhampton Wanderers,France,DEF,"1,715"
+2,Matt Doherty,Wolverhampton Wanderers,Ireland,DEF,"1,399"
+3,Ryan Bennett,Wolverhampton Wanderers,England,DEF,"1,346"
+4,Jonny,Wolverhampton Wanderers,Spain,DEF,"1,075"
+5,Rúben Vinagre,Wolverhampton Wanderers,Portugal,DEF,286
