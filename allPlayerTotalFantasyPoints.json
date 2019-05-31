@@ -1,0 +1,4006 @@
+{
+   "Aubameyang": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 6,
+         "Position": "FWD",
+         "Points": 205
+      }
+   ],
+   "Agüero": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 4,
+         "Position": "FWD",
+         "Points": 201
+      }
+   ],
+   "Jiménez": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 195,
+         "Position": "FWD",
+         "Points": 181
+      }
+   ],
+   "Vardy": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 18,
+         "Position": "FWD",
+         "Points": 174
+      }
+   ],
+   "Wilson": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 90,
+         "Position": "FWD",
+         "Points": 168
+      }
+   ],
+   "Lacazette": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 16,
+         "Position": "FWD",
+         "Points": 166
+      }
+   ],
+   "Kane": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 2,
+         "Position": "FWD",
+         "Points": 160
+      }
+   ],
+   "Firmino": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 13,
+         "Position": "FWD",
+         "Points": 160
+      }
+   ],
+   "Rondón": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 122,
+         "Position": "FWD",
+         "Points": 148
+      }
+   ],
+   "Zaha": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 35,
+         "Position": "FWD",
+         "Points": 143
+      }
+   ],
+   "Pérez": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 55,
+         "Position": "FWD",
+         "Points": 141
+      }
+   ],
+   "King": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 57,
+         "Position": "FWD",
+         "Points": 141
+      }
+   ],
+   "Mitrovic": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 73,
+         "Position": "FWD",
+         "Points": 134
+      }
+   ],
+   "Wood": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 59,
+         "Position": "FWD",
+         "Points": 131
+      }
+   ],
+   "Murray": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 56,
+         "Position": "FWD",
+         "Points": 129
+      }
+   ],
+   "Rashford": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 38,
+         "Position": "FWD",
+         "Points": 128
+      }
+   ],
+   "Barnes": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 94,
+         "Position": "FWD",
+         "Points": 122
+      },
+      {
+         "Team": "Leicester",
+         "Draft Rank": 113,
+         "Position": "MID",
+         "Points": 43
+      }
+   ],
+   "Arnautovic": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 34,
+         "Position": "FWD",
+         "Points": 117
+      }
+   ],
+   "Deeney": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 101,
+         "Position": "FWD",
+         "Points": 116
+      }
+   ],
+   "Lukaku": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 5,
+         "Position": "FWD",
+         "Points": 115
+      }
+   ],
+   "Calvert-Lewin": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 148,
+         "Position": "FWD",
+         "Points": 92
+      }
+   ],
+   "Ings": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 182,
+         "Position": "FWD",
+         "Points": 90
+      }
+   ],
+   "Chicharito": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 62,
+         "Position": "FWD",
+         "Points": 86
+      }
+   ],
+   "Gray": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 97,
+         "Position": "FWD",
+         "Points": 83
+      },
+      {
+         "Team": "Leicester",
+         "Draft Rank": 156,
+         "Position": "MID",
+         "Points": 84
+      }
+   ],
+   "Reid": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 190,
+         "Position": "FWD",
+         "Points": 80
+      }
+   ],
+   "Jesus": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 9,
+         "Position": "FWD",
+         "Points": 79
+      }
+   ],
+   "Mounie": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 95,
+         "Position": "FWD",
+         "Points": 69
+      }
+   ],
+   "Long": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 269,
+         "Position": "FWD",
+         "Points": 66
+      },
+      {
+         "Team": "Burnley",
+         "Draft Rank": 428,
+         "Position": "DEF",
+         "Points": 16
+      }
+   ],
+   "Iheanacho": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 105,
+         "Position": "FWD",
+         "Points": 58
+      }
+   ],
+   "Tosun": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 40,
+         "Position": "FWD",
+         "Points": 56
+      }
+   ],
+   "Giroud": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 25,
+         "Position": "FWD",
+         "Points": 55
+      }
+   ],
+   "Higuaín": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 11,
+         "Position": "FWD",
+         "Points": 53
+      }
+   ],
+   "Locadia": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 183,
+         "Position": "FWD",
+         "Points": 52
+      }
+   ],
+   "Batshuayi": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 47,
+         "Position": "FWD",
+         "Points": 48
+      }
+   ],
+   "Vokes": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 168,
+         "Position": "FWD",
+         "Points": 48
+      }
+   ],
+   "Vietto": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 202,
+         "Position": "FWD",
+         "Points": 47
+      }
+   ],
+   "Morata": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 20,
+         "Position": "FWD",
+         "Points": 46
+      }
+   ],
+   "Austin": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 102,
+         "Position": "FWD",
+         "Points": 46
+      }
+   ],
+   "Ayew": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 126,
+         "Position": "FWD",
+         "Points": 46
+      }
+   ],
+   "Grant": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 215,
+         "Position": "FWD",
+         "Points": 45
+      }
+   ],
+   "Success": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 561,
+         "Position": "FWD",
+         "Points": 42
+      }
+   ],
+   "Llorente": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 109,
+         "Position": "FWD",
+         "Points": 41
+      }
+   ],
+   "Andone": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 342,
+         "Position": "FWD",
+         "Points": 38
+      }
+   ],
+   "Sturridge": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 119,
+         "Position": "FWD",
+         "Points": 34
+      }
+   ],
+   "Depoitre": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 145,
+         "Position": "FWD",
+         "Points": 34
+      }
+   ],
+   "Benteke": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 64,
+         "Position": "FWD",
+         "Points": 33
+      }
+   ],
+   "Lucas": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 75,
+         "Position": "FWD",
+         "Points": 33
+      }
+   ],
+   "Zohore": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 347,
+         "Position": "FWD",
+         "Points": 33
+      }
+   ],
+   "Origi": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 209,
+         "Position": "FWD",
+         "Points": 32
+      }
+   ],
+   "Niasse": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 153,
+         "Position": "FWD",
+         "Points": 30
+      }
+   ],
+   "Joselu": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 257,
+         "Position": "FWD",
+         "Points": 30
+      }
+   ],
+   "Kachunga": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 279,
+         "Position": "FWD",
+         "Points": 29
+      }
+   ],
+   "Mousset": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 284,
+         "Position": "FWD",
+         "Points": 28
+      }
+   ],
+   "Kamara": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 516,
+         "Position": "FWD",
+         "Points": 28
+      }
+   ],
+   "Okazaki": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 161,
+         "Position": "FWD",
+         "Points": 25
+      }
+   ],
+   "Muto": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 120,
+         "Position": "FWD",
+         "Points": 24
+      }
+   ],
+   "Gabbiadini": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 103,
+         "Position": "FWD",
+         "Points": 23
+      }
+   ],
+   "Vydra": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 123,
+         "Position": "FWD",
+         "Points": 21
+      }
+   ],
+   "Welbeck": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 66,
+         "Position": "FWD",
+         "Points": 19
+      }
+   ],
+   "Solanke": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 283,
+         "Position": "FWD",
+         "Points": 15
+      }
+   ],
+   "Obafemi": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 211,
+         "Position": "FWD",
+         "Points": 13
+      }
+   ],
+   "Carroll": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 177,
+         "Position": "FWD",
+         "Points": 12
+      }
+   ],
+   "Sørloth": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 300,
+         "Position": "FWD",
+         "Points": 12
+      }
+   ],
+   "Nketiah": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 212,
+         "Position": "FWD",
+         "Points": 10
+      }
+   ],
+   "Bonatini": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 354,
+         "Position": "FWD",
+         "Points": 10
+      }
+   ],
+   "Wickham": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 357,
+         "Position": "FWD",
+         "Points": 9
+      }
+   ],
+   "Crouch": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 328,
+         "Position": "FWD",
+         "Points": 8
+      }
+   ],
+   "Madine": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 507,
+         "Position": "FWD",
+         "Points": 5
+      }
+   ],
+   "Defoe": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 104,
+         "Position": "FWD",
+         "Points": 4
+      }
+   ],
+   "Gallagher": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 303,
+         "Position": "FWD",
+         "Points": 4
+      }
+   ],
+   "Greenwood": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 313,
+         "Position": "FWD",
+         "Points": 4
+      }
+   ],
+   "Healey": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 304,
+         "Position": "FWD",
+         "Points": 3
+      }
+   ],
+   "Janssen": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 315,
+         "Position": "FWD",
+         "Points": 3
+      }
+   ],
+   "Surridge": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 331,
+         "Position": "FWD",
+         "Points": 2
+      }
+   ],
+   "Quaner": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 447,
+         "Position": "FWD",
+         "Points": 2
+      }
+   ],
+   "Okaka": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 291,
+         "Position": "FWD",
+         "Points": 1
+      }
+   ],
+   "Xande Silva": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 383,
+         "Position": "FWD",
+         "Points": 1
+      }
+   ],
+   "Salah": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 1,
+         "Position": "MID",
+         "Points": 259
+      }
+   ],
+   "Hazard": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 7,
+         "Position": "MID",
+         "Points": 238
+      }
+   ],
+   "Sterling": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 3,
+         "Position": "MID",
+         "Points": 234
+      }
+   ],
+   "Mané": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 15,
+         "Position": "MID",
+         "Points": 231
+      }
+   ],
+   "Sigurdsson": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 30,
+         "Position": "MID",
+         "Points": 182
+      }
+   ],
+   "Fraser": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 143,
+         "Position": "MID",
+         "Points": 181
+      }
+   ],
+   "Pogba": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 24,
+         "Position": "MID",
+         "Points": 179
+      }
+   ],
+   "Milivojevic": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 52,
+         "Position": "MID",
+         "Points": 166
+      }
+   ],
+   "Eriksen": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 12,
+         "Position": "MID",
+         "Points": 161
+      }
+   ],
+   "Son": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 21,
+         "Position": "MID",
+         "Points": 159
+      }
+   ],
+   "Sané": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 14,
+         "Position": "MID",
+         "Points": 156
+      }
+   ],
+   "Felipe Anderson": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 43,
+         "Position": "MID",
+         "Points": 155
+      }
+   ],
+   "Bernardo Silva": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 29,
+         "Position": "MID",
+         "Points": 154
+      }
+   ],
+   "Richarlison": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 54,
+         "Position": "MID",
+         "Points": 153
+      }
+   ],
+   "David Silva": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 22,
+         "Position": "MID",
+         "Points": 143
+      }
+   ],
+   "Jota": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 72,
+         "Position": "MID",
+         "Points": 139
+      }
+   ],
+   "Maddison": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 70,
+         "Position": "MID",
+         "Points": 137
+      }
+   ],
+   "Redmond": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 165,
+         "Position": "MID",
+         "Points": 137
+      }
+   ],
+   "Townsend": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 83,
+         "Position": "MID",
+         "Points": 135
+      }
+   ],
+   "Deulofeu": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 181,
+         "Position": "MID",
+         "Points": 133
+      }
+   ],
+   "Lucas Moura": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 42,
+         "Position": "MID",
+         "Points": 131
+      }
+   ],
+   "Doucouré": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 80,
+         "Position": "MID",
+         "Points": 124
+      }
+   ],
+   "Brooks": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 341,
+         "Position": "MID",
+         "Points": 123
+      }
+   ],
+   "Martial": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 28,
+         "Position": "MID",
+         "Points": 122
+      }
+   ],
+   "Pereyra": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 96,
+         "Position": "MID",
+         "Points": 122
+      }
+   ],
+   "McArthur": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 230,
+         "Position": "MID",
+         "Points": 121
+      }
+   ],
+   "Moutinho": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 204,
+         "Position": "MID",
+         "Points": 119
+      }
+   ],
+   "Antonio": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 39,
+         "Position": "MID",
+         "Points": 118
+      }
+   ],
+   "Kanté": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 229,
+         "Position": "MID",
+         "Points": 116
+      }
+   ],
+   "Gündogan": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 155,
+         "Position": "MID",
+         "Points": 113
+      }
+   ],
+   "Pedro": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 65,
+         "Position": "MID",
+         "Points": 112
+      }
+   ],
+   "Westwood": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 454,
+         "Position": "MID",
+         "Points": 111
+      }
+   ],
+   "Ritchie": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 85,
+         "Position": "MID",
+         "Points": 110
+      }
+   ],
+   "Willian": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 27,
+         "Position": "MID",
+         "Points": 108
+      }
+   ],
+   "Wijnaldum": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 151,
+         "Position": "MID",
+         "Points": 108
+      }
+   ],
+   "Camarasa": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 559,
+         "Position": "MID",
+         "Points": 106
+      }
+   ],
+   "Neves": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 352,
+         "Position": "MID",
+         "Points": 104
+      }
+   ],
+   "Mahrez": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 17,
+         "Position": "MID",
+         "Points": 102
+      }
+   ],
+   "Walcott": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 67,
+         "Position": "MID",
+         "Points": 101
+      }
+   ],
+   "Milner": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 160,
+         "Position": "MID",
+         "Points": 101
+      }
+   ],
+   "Iwobi": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 146,
+         "Position": "MID",
+         "Points": 99
+      }
+   ],
+   "Noble": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 241,
+         "Position": "MID",
+         "Points": 99
+      }
+   ],
+   "Mkhitaryan": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 37,
+         "Position": "MID",
+         "Points": 98
+      }
+   ],
+   "Jorginho": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 364,
+         "Position": "MID",
+         "Points": 96
+      }
+   ],
+   "Alli": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 19,
+         "Position": "MID",
+         "Points": 94
+      }
+   ],
+   "Sessegnon": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 69,
+         "Position": "MID",
+         "Points": 94
+      }
+   ],
+   "Ward-Prowse": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 152,
+         "Position": "MID",
+         "Points": 94
+      }
+   ],
+   "March": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 252,
+         "Position": "MID",
+         "Points": 94
+      }
+   ],
+   "Gudmundsson": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 84,
+         "Position": "MID",
+         "Points": 92
+      }
+   ],
+   "Ramsey": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 26,
+         "Position": "MID",
+         "Points": 91
+      }
+   ],
+   "Xhaka": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 139,
+         "Position": "MID",
+         "Points": 90
+      }
+   ],
+   "Højbjerg": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 452,
+         "Position": "MID",
+         "Points": 90
+      }
+   ],
+   "Özil": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 23,
+         "Position": "MID",
+         "Points": 89
+      }
+   ],
+   "Ndidi": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 249,
+         "Position": "MID",
+         "Points": 89
+      }
+   ],
+   "Shaqiri": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 32,
+         "Position": "MID",
+         "Points": 88
+      }
+   ],
+   "Bernard": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 125,
+         "Position": "MID",
+         "Points": 88
+      }
+   ],
+   "Cork": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 231,
+         "Position": "MID",
+         "Points": 87
+      }
+   ],
+   "Hughes": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 270,
+         "Position": "MID",
+         "Points": 87
+      }
+   ],
+   "Snodgrass": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 200,
+         "Position": "MID",
+         "Points": 85
+      }
+   ],
+   "Hoilett": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 188,
+         "Position": "MID",
+         "Points": 82
+      }
+   ],
+   "Groß": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 33,
+         "Position": "MID",
+         "Points": 80
+      }
+   ],
+   "Paterson": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 189,
+         "Position": "MID",
+         "Points": 80
+      }
+   ],
+   "Barkley": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 115,
+         "Position": "MID",
+         "Points": 79
+      }
+   ],
+   "Fernandinho": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 133,
+         "Position": "MID",
+         "Points": 79
+      }
+   ],
+   "Loftus-Cheek": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 159,
+         "Position": "MID",
+         "Points": 79
+      }
+   ],
+   "Capoue": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 276,
+         "Position": "MID",
+         "Points": 79
+      }
+   ],
+   "Lingard": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 36,
+         "Position": "MID",
+         "Points": 78
+      }
+   ],
+   "Gueye": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 237,
+         "Position": "MID",
+         "Points": 78
+      }
+   ],
+   "Torreira": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 360,
+         "Position": "MID",
+         "Points": 78
+      }
+   ],
+   "Mooy": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 137,
+         "Position": "MID",
+         "Points": 76
+      }
+   ],
+   "Henderson": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 162,
+         "Position": "MID",
+         "Points": 76
+      }
+   ],
+   "Sissoko": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 266,
+         "Position": "MID",
+         "Points": 76
+      }
+   ],
+   "Murphy": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 346,
+         "Position": "MID",
+         "Points": 76
+      },
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 273,
+         "Position": "MID",
+         "Points": 16
+      }
+   ],
+   "Babel": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 114,
+         "Position": "MID",
+         "Points": 75
+      }
+   ],
+   "Schürrle": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 118,
+         "Position": "MID",
+         "Points": 75
+      }
+   ],
+   "Armstrong": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 193,
+         "Position": "MID",
+         "Points": 75
+      }
+   ],
+   "McNeil": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 397,
+         "Position": "MID",
+         "Points": 75
+      }
+   ],
+   "Lerma": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 558,
+         "Position": "MID",
+         "Points": 75
+      }
+   ],
+   "Knockaert": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 147,
+         "Position": "MID",
+         "Points": 74
+      }
+   ],
+   "Hendrick": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 150,
+         "Position": "MID",
+         "Points": 73
+      }
+   ],
+   "Seri": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 196,
+         "Position": "MID",
+         "Points": 72
+      }
+   ],
+   "Pröpper": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 236,
+         "Position": "MID",
+         "Points": 72
+      }
+   ],
+   "Cairney": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 348,
+         "Position": "MID",
+         "Points": 71
+      }
+   ],
+   "Mata": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 60,
+         "Position": "MID",
+         "Points": 70
+      }
+   ],
+   "Pritchard": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 282,
+         "Position": "MID",
+         "Points": 69
+      }
+   ],
+   "Hayden": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 450,
+         "Position": "MID",
+         "Points": 69
+      }
+   ],
+   "Keita": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 31,
+         "Position": "MID",
+         "Points": 67
+      }
+   ],
+   "Lamela": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 68,
+         "Position": "MID",
+         "Points": 67
+      }
+   ],
+   "Kouyaté": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 239,
+         "Position": "MID",
+         "Points": 67
+      }
+   ],
+   "Fabinho": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 116,
+         "Position": "MID",
+         "Points": 65
+      }
+   ],
+   "Stephens": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 404,
+         "Position": "MID",
+         "Points": 65
+      },
+      {
+         "Team": "Southampton",
+         "Draft Rank": 426,
+         "Position": "DEF",
+         "Points": 47
+      }
+   ],
+   "Gunnarsson": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 502,
+         "Position": "MID",
+         "Points": 65
+      }
+   ],
+   "Kovacic": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 127,
+         "Position": "MID",
+         "Points": 64
+      }
+   ],
+   "André Gomes": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 203,
+         "Position": "MID",
+         "Points": 64
+      }
+   ],
+   "Tielemans": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 76,
+         "Position": "MID",
+         "Points": 63
+      }
+   ],
+   "Albrighton": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 140,
+         "Position": "MID",
+         "Points": 63
+      }
+   ],
+   "Mendez-Laing": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 345,
+         "Position": "MID",
+         "Points": 63
+      }
+   ],
+   "Billing": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 471,
+         "Position": "MID",
+         "Points": 63
+      }
+   ],
+   "Herrera": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 280,
+         "Position": "MID",
+         "Points": 62
+      }
+   ],
+   "Meyer": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 121,
+         "Position": "MID",
+         "Points": 60
+      }
+   ],
+   "De Bruyne": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 10,
+         "Position": "MID",
+         "Points": 59
+      }
+   ],
+   "Matic": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 232,
+         "Position": "MID",
+         "Points": 59
+      }
+   ],
+   "Mendy": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 564,
+         "Position": "MID",
+         "Points": 58
+      },
+      {
+         "Team": "Man City",
+         "Draft Rank": 110,
+         "Position": "DEF",
+         "Points": 59
+      }
+   ],
+   "Stanislas": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 100,
+         "Position": "MID",
+         "Points": 56
+      }
+   ],
+   "Dier": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 240,
+         "Position": "MID",
+         "Points": 56
+      }
+   ],
+   "Diamé": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 256,
+         "Position": "MID",
+         "Points": 56
+      }
+   ],
+   "Atsu": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 158,
+         "Position": "MID",
+         "Points": 55
+      }
+   ],
+   "Oriol Romeu": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 415,
+         "Position": "MID",
+         "Points": 55
+      }
+   ],
+   "Gosling": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 261,
+         "Position": "MID",
+         "Points": 54
+      }
+   ],
+   "Hogg": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 437,
+         "Position": "MID",
+         "Points": 54
+      }
+   ],
+   "Winks": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 180,
+         "Position": "MID",
+         "Points": 53
+      }
+   ],
+   "Costa": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 353,
+         "Position": "MID",
+         "Points": 52
+      }
+   ],
+   "Lemina": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 265,
+         "Position": "MID",
+         "Points": 50
+      }
+   ],
+   "Kenedy": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 358,
+         "Position": "MID",
+         "Points": 50
+      }
+   ],
+   "Masuaku": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 417,
+         "Position": "MID",
+         "Points": 49
+      }
+   ],
+   "Cavaleiro": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 194,
+         "Position": "MID",
+         "Points": 48
+      }
+   ],
+   "Arter": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 288,
+         "Position": "MID",
+         "Points": 48
+      }
+   ],
+   "Dendoncker": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 539,
+         "Position": "MID",
+         "Points": 48
+      }
+   ],
+   "Sánchez": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 8,
+         "Position": "MID",
+         "Points": 47
+      },
+      {
+         "Team": "Spurs",
+         "Draft Rank": 89,
+         "Position": "DEF",
+         "Points": 78
+      }
+   ],
+   "Guendouzi": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 536,
+         "Position": "MID",
+         "Points": 47
+      }
+   ],
+   "Ralls": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 344,
+         "Position": "MID",
+         "Points": 45
+      }
+   ],
+   "Traoré": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 199,
+         "Position": "MID",
+         "Points": 44
+      }
+   ],
+   "Zinchenko": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 296,
+         "Position": "MID",
+         "Points": 44
+      }
+   ],
+   "Bissouma": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 368,
+         "Position": "MID",
+         "Points": 43
+      }
+   ],
+   "Obiang": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 436,
+         "Position": "MID",
+         "Points": 43
+      }
+   ],
+   "Lennon": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 259,
+         "Position": "MID",
+         "Points": 41
+      }
+   ],
+   "Fred": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 117,
+         "Position": "MID",
+         "Points": 40
+      }
+   ],
+   "Shelvey": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 164,
+         "Position": "MID",
+         "Points": 39
+      }
+   ],
+   "Bacuna": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 517,
+         "Position": "MID",
+         "Points": 39
+      },
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 325,
+         "Position": "DEF",
+         "Points": 17
+      }
+   ],
+   "Mbenza": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 124,
+         "Position": "MID",
+         "Points": 38
+      }
+   ],
+   "Ki Sung-yueng": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 254,
+         "Position": "MID",
+         "Points": 38
+      }
+   ],
+   "McTominay": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 473,
+         "Position": "MID",
+         "Points": 38
+      }
+   ],
+   "Sema": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 356,
+         "Position": "MID",
+         "Points": 37
+      }
+   ],
+   "Gibbs-White": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 527,
+         "Position": "MID",
+         "Points": 37
+      }
+   ],
+   "Zambo Anguissa": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 549,
+         "Position": "MID",
+         "Points": 37
+      }
+   ],
+   "Surman": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 243,
+         "Position": "MID",
+         "Points": 36
+      }
+   ],
+   "Kayal": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 466,
+         "Position": "MID",
+         "Points": 36
+      }
+   ],
+   "Lookman": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 186,
+         "Position": "MID",
+         "Points": 34
+      }
+   ],
+   "Maitland-Niles": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 465,
+         "Position": "MID",
+         "Points": 34
+      }
+   ],
+   "Jahanbakhsh": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 45,
+         "Position": "MID",
+         "Points": 33
+      }
+   ],
+   "Ibe": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 149,
+         "Position": "MID",
+         "Points": 33
+      }
+   ],
+   "Lanzini": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 58,
+         "Position": "MID",
+         "Points": 31
+      }
+   ],
+   "Izquierdo": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 91,
+         "Position": "MID",
+         "Points": 31
+      }
+   ],
+   "Elyounoussi": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 71,
+         "Position": "MID",
+         "Points": 28
+      }
+   ],
+   "Almirón": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 74,
+         "Position": "MID",
+         "Points": 28
+      }
+   ],
+   "Ghezzal": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 207,
+         "Position": "MID",
+         "Points": 28
+      }
+   ],
+   "Schneiderlin": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 438,
+         "Position": "MID",
+         "Points": 28
+      }
+   ],
+   "Yarmolenko": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 44,
+         "Position": "MID",
+         "Points": 27
+      }
+   ],
+   "Pereira": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 367,
+         "Position": "MID",
+         "Points": 27
+      },
+      {
+         "Team": "Leicester",
+         "Draft Rank": 349,
+         "Position": "DEF",
+         "Points": 146
+      }
+   ],
+   "Davies": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 167,
+         "Position": "MID",
+         "Points": 26
+      },
+      {
+         "Team": "Spurs",
+         "Draft Rank": 78,
+         "Position": "DEF",
+         "Points": 66
+      }
+   ],
+   "Fellaini": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 278,
+         "Position": "MID",
+         "Points": 26
+      }
+   ],
+   "Longstaff": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 394,
+         "Position": "MID",
+         "Points": 26
+      }
+   ],
+   "Cleverley": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 267,
+         "Position": "MID",
+         "Points": 25
+      }
+   ],
+   "Foden": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 301,
+         "Position": "MID",
+         "Points": 25
+      }
+   ],
+   "Diangana": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 376,
+         "Position": "MID",
+         "Points": 25
+      }
+   ],
+   "Wanyama": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 286,
+         "Position": "MID",
+         "Points": 24
+      }
+   ],
+   "Harris": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 396,
+         "Position": "MID",
+         "Points": 24
+      }
+   ],
+   "Ayité": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 513,
+         "Position": "MID",
+         "Points": 24
+      }
+   ],
+   "Lallana": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 41,
+         "Position": "MID",
+         "Points": 23
+      }
+   ],
+   "Lewis Cook": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 263,
+         "Position": "MID",
+         "Points": 22
+      }
+   ],
+   "Ward": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 505,
+         "Position": "MID",
+         "Points": 22
+      },
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 534,
+         "Position": "DEF",
+         "Points": 13
+      },
+      {
+         "Team": "Burnley",
+         "Draft Rank": 227,
+         "Position": "DEF",
+         "Points": 7
+      }
+   ],
+   "Brady": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 172,
+         "Position": "MID",
+         "Points": 20
+      }
+   ],
+   "Choudhury": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 476,
+         "Position": "MID",
+         "Points": 20
+      }
+   ],
+   "Diakhaby": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 361,
+         "Position": "MID",
+         "Points": 19
+      }
+   ],
+   "Hudson-Odoi": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 492,
+         "Position": "MID",
+         "Points": 18
+      }
+   ],
+   "Wilshere": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 355,
+         "Position": "MID",
+         "Points": 17
+      }
+   ],
+   "McDonald": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 512,
+         "Position": "MID",
+         "Points": 17
+      }
+   ],
+   "Quina": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 543,
+         "Position": "MID",
+         "Points": 17
+      }
+   ],
+   "Amartey": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 475,
+         "Position": "MID",
+         "Points": 15
+      }
+   ],
+   "Puncheon": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 479,
+         "Position": "MID",
+         "Points": 15
+      }
+   ],
+   "Nasri": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 112,
+         "Position": "MID",
+         "Points": 14
+      }
+   ],
+   "Dembélé": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 271,
+         "Position": "MID",
+         "Points": 14
+      }
+   ],
+   "Skipp": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 377,
+         "Position": "MID",
+         "Points": 12
+      }
+   ],
+   "Johansen": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 191,
+         "Position": "MID",
+         "Points": 11
+      }
+   ],
+   "Sims": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 482,
+         "Position": "MID",
+         "Points": 11
+      }
+   ],
+   "Defour": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 169,
+         "Position": "MID",
+         "Points": 10
+      }
+   ],
+   "van La Parra": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 253,
+         "Position": "MID",
+         "Points": 10
+      }
+   ],
+   "Elneny": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 470,
+         "Position": "MID",
+         "Points": 10
+      }
+   ],
+   "Chalobah": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 478,
+         "Position": "MID",
+         "Points": 10
+      }
+   ],
+   "Davis": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 255,
+         "Position": "MID",
+         "Points": 9
+      }
+   ],
+   "Iborra": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 264,
+         "Position": "MID",
+         "Points": 9
+      }
+   ],
+   "Carlos Sánchez": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 541,
+         "Position": "MID",
+         "Points": 9
+      }
+   ],
+   "Kebano": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 514,
+         "Position": "MID",
+         "Points": 7
+      }
+   ],
+   "Fàbregas": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 63,
+         "Position": "MID",
+         "Points": 6
+      }
+   ],
+   "Williams": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 461,
+         "Position": "MID",
+         "Points": 6
+      }
+   ],
+   "Suárez": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 46,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Sobhi": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 272,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Sako": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 285,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Slattery": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 302,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Nkoudou": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 370,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Willock": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 386,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Cissé": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 563,
+         "Position": "MID",
+         "Points": 4
+      }
+   ],
+   "Silva": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 292,
+         "Position": "MID",
+         "Points": 3
+      }
+   ],
+   "Chamberlain": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 61,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Gomes": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 217,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Chong": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 309,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Daly": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 311,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Rowe": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 312,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Sabiri": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 480,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Damour": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 504,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Elliott": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 591,
+         "Position": "MID",
+         "Points": 2
+      }
+   ],
+   "Camacho": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 214,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Markovic": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 216,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Diabaté": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 294,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Garner": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 310,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Dreher": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 319,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Johnson": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 384,
+         "Position": "MID",
+         "Points": 1
+      },
+      {
+         "Team": "West Ham",
+         "Draft Rank": 583,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Saka": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 385,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "McCarthy": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 485,
+         "Position": "MID",
+         "Points": 1
+      },
+      {
+         "Team": "Southampton",
+         "Draft Rank": 441,
+         "Position": "GKP",
+         "Points": 73
+      }
+   ],
+   "Hyndman": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 493,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Amos": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 562,
+         "Position": "MID",
+         "Points": 1
+      }
+   ],
+   "Robertson": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 88,
+         "Position": "DEF",
+         "Points": 213
+      }
+   ],
+   "van Dijk": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 98,
+         "Position": "DEF",
+         "Points": 208
+      }
+   ],
+   "Alexander-Arnold": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 242,
+         "Position": "DEF",
+         "Points": 185
+      }
+   ],
+   "Laporte": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 178,
+         "Position": "DEF",
+         "Points": 177
+      }
+   ],
+   "David Luiz": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 179,
+         "Position": "DEF",
+         "Points": 164
+      }
+   ],
+   "Alonso": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 49,
+         "Position": "DEF",
+         "Points": 161
+      }
+   ],
+   "Azpilicueta": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 48,
+         "Position": "DEF",
+         "Points": 158
+      }
+   ],
+   "Digne": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 371,
+         "Position": "DEF",
+         "Points": 158
+      }
+   ],
+   "Walker": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 53,
+         "Position": "DEF",
+         "Points": 150
+      }
+   ],
+   "Doherty": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 524,
+         "Position": "DEF",
+         "Points": 144
+      }
+   ],
+   "van Aanholt": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 144,
+         "Position": "DEF",
+         "Points": 140
+      }
+   ],
+   "Keane": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 246,
+         "Position": "DEF",
+         "Points": 129
+      }
+   ],
+   "Coleman": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 176,
+         "Position": "DEF",
+         "Points": 125
+      },
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 581,
+         "Position": "GKP",
+         "Points": 2
+      }
+   ],
+   "Aké": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 226,
+         "Position": "DEF",
+         "Points": 120
+      }
+   ],
+   "Boly": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 523,
+         "Position": "DEF",
+         "Points": 120
+      }
+   ],
+   "Wan-Bissaka": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 604,
+         "Position": "DEF",
+         "Points": 120
+      }
+   ],
+   "Trippier": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 87,
+         "Position": "DEF",
+         "Points": 118
+      }
+   ],
+   "Chilwell": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 260,
+         "Position": "DEF",
+         "Points": 118
+      }
+   ],
+   "Rüdiger": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 86,
+         "Position": "DEF",
+         "Points": 116
+      }
+   ],
+   "Duffy": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 391,
+         "Position": "DEF",
+         "Points": 115
+      }
+   ],
+   "Zouma": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 250,
+         "Position": "DEF",
+         "Points": 112
+      }
+   ],
+   "Alderweireld": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 106,
+         "Position": "DEF",
+         "Points": 107
+      }
+   ],
+   "Jonny": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 551,
+         "Position": "DEF",
+         "Points": 103
+      }
+   ],
+   "Tarkowski": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 228,
+         "Position": "DEF",
+         "Points": 97
+      }
+   ],
+   "Morrison": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 343,
+         "Position": "DEF",
+         "Points": 97
+      }
+   ],
+   "Ecuele Manga": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 500,
+         "Position": "DEF",
+         "Points": 97
+      }
+   ],
+   "Lascelles": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 222,
+         "Position": "DEF",
+         "Points": 95
+      }
+   ],
+   "Bamba": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 499,
+         "Position": "DEF",
+         "Points": 95
+      }
+   ],
+   "Coady": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 528,
+         "Position": "DEF",
+         "Points": 94
+      }
+   ],
+   "Schär": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 365,
+         "Position": "DEF",
+         "Points": 93
+      }
+   ],
+   "Holebas": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 413,
+         "Position": "DEF",
+         "Points": 93
+      }
+   ],
+   "Cathcart": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 474,
+         "Position": "DEF",
+         "Points": 93
+      }
+   ],
+   "Maguire": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 135,
+         "Position": "DEF",
+         "Points": 92
+      }
+   ],
+   "Rice": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 451,
+         "Position": "DEF",
+         "Points": 92
+      }
+   ],
+   "Shaw": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 275,
+         "Position": "DEF",
+         "Points": 91
+      }
+   ],
+   "Dunk": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 398,
+         "Position": "DEF",
+         "Points": 91
+      }
+   ],
+   "Schlupp": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 443,
+         "Position": "DEF",
+         "Points": 91
+      }
+   ],
+   "Bennett": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 619,
+         "Position": "DEF",
+         "Points": 89
+      },
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 501,
+         "Position": "DEF",
+         "Points": 77
+      }
+   ],
+   "Sakho": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 245,
+         "Position": "DEF",
+         "Points": 88
+      }
+   ],
+   "Diop": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 521,
+         "Position": "DEF",
+         "Points": 87
+      }
+   ],
+   "Rose": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 108,
+         "Position": "DEF",
+         "Points": 86
+      }
+   ],
+   "Tomkins": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 393,
+         "Position": "DEF",
+         "Points": 86
+      }
+   ],
+   "Lindelöf": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 277,
+         "Position": "DEF",
+         "Points": 85
+      }
+   ],
+   "Steve Cook": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 407,
+         "Position": "DEF",
+         "Points": 85
+      }
+   ],
+   "Stones": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 166,
+         "Position": "DEF",
+         "Points": 83
+      }
+   ],
+   "Matip": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 247,
+         "Position": "DEF",
+         "Points": 83
+      }
+   ],
+   "Taylor": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 468,
+         "Position": "DEF",
+         "Points": 82
+      }
+   ],
+   "Kolasinac": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 224,
+         "Position": "DEF",
+         "Points": 81
+      }
+   ],
+   "Mee": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 233,
+         "Position": "DEF",
+         "Points": 81
+      }
+   ],
+   "Mustafi": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 138,
+         "Position": "DEF",
+         "Points": 80
+      }
+   ],
+   "Monreal": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 132,
+         "Position": "DEF",
+         "Points": 77
+      }
+   ],
+   "Evans": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 248,
+         "Position": "DEF",
+         "Points": 77
+      }
+   ],
+   "Schindler": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 390,
+         "Position": "DEF",
+         "Points": 76
+      }
+   ],
+   "Morgan": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 423,
+         "Position": "DEF",
+         "Points": 76
+      }
+   ],
+   "Young": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 92,
+         "Position": "DEF",
+         "Points": 73
+      }
+   ],
+   "Otamendi": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 50,
+         "Position": "DEF",
+         "Points": 70
+      }
+   ],
+   "Adam Smith": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 432,
+         "Position": "DEF",
+         "Points": 70
+      }
+   ],
+   "Vertonghen": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 79,
+         "Position": "DEF",
+         "Points": 67
+      }
+   ],
+   "Zanka": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 389,
+         "Position": "DEF",
+         "Points": 67
+      }
+   ],
+   "Dummett": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 440,
+         "Position": "DEF",
+         "Points": 67
+      }
+   ],
+   "Kiko Femenía": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 419,
+         "Position": "DEF",
+         "Points": 66
+      }
+   ],
+   "Sokratis": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 187,
+         "Position": "DEF",
+         "Points": 64
+      }
+   ],
+   "Lovren": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 223,
+         "Position": "DEF",
+         "Points": 63
+      }
+   ],
+   "Yedlin": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 403,
+         "Position": "DEF",
+         "Points": 63
+      }
+   ],
+   "Koscielny": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 141,
+         "Position": "DEF",
+         "Points": 62
+      }
+   ],
+   "Balbuena": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 537,
+         "Position": "DEF",
+         "Points": 61
+      }
+   ],
+   "Bellerín": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 131,
+         "Position": "DEF",
+         "Points": 60
+      }
+   ],
+   "Kongolo": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 459,
+         "Position": "DEF",
+         "Points": 60
+      }
+   ],
+   "Chambers": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 467,
+         "Position": "DEF",
+         "Points": 60
+      }
+   ],
+   "Kompany": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 170,
+         "Position": "DEF",
+         "Points": 58
+      }
+   ],
+   "Mariappa": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 427,
+         "Position": "DEF",
+         "Points": 57
+      }
+   ],
+   "Smalling": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 82,
+         "Position": "DEF",
+         "Points": 56
+      }
+   ],
+   "Bertrand": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 225,
+         "Position": "DEF",
+         "Points": 56
+      }
+   ],
+   "Zabaleta": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 402,
+         "Position": "DEF",
+         "Points": 56
+      }
+   ],
+   "Gomez": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 238,
+         "Position": "DEF",
+         "Points": 55
+      }
+   ],
+   "Valery": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 572,
+         "Position": "DEF",
+         "Points": 54
+      }
+   ],
+   "Manquillo": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 446,
+         "Position": "DEF",
+         "Points": 53
+      }
+   ],
+   "Bryan": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 366,
+         "Position": "DEF",
+         "Points": 52
+      }
+   ],
+   "Cédric": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 405,
+         "Position": "DEF",
+         "Points": 52
+      }
+   ],
+   "Janmaat": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 262,
+         "Position": "DEF",
+         "Points": 50
+      }
+   ],
+   "Vestergaard": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 359,
+         "Position": "DEF",
+         "Points": 50
+      }
+   ],
+   "Hadergjonaj": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 442,
+         "Position": "DEF",
+         "Points": 50
+      }
+   ],
+   "Ream": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 510,
+         "Position": "DEF",
+         "Points": 50
+      }
+   ],
+   "Löwe": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 425,
+         "Position": "DEF",
+         "Points": 49
+      }
+   ],
+   "Durm": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 542,
+         "Position": "DEF",
+         "Points": 49
+      }
+   ],
+   "Bednarek": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 601,
+         "Position": "DEF",
+         "Points": 49
+      }
+   ],
+   "Ogbonna": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 409,
+         "Position": "DEF",
+         "Points": 48
+      }
+   ],
+   "Bong": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 422,
+         "Position": "DEF",
+         "Points": 48
+      }
+   ],
+   "Saïss": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 525,
+         "Position": "DEF",
+         "Points": 47
+      }
+   ],
+   "Fernández": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 544,
+         "Position": "DEF",
+         "Points": 47
+      }
+   ],
+   "Danilo": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 142,
+         "Position": "DEF",
+         "Points": 46
+      }
+   ],
+   "Bruno": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 406,
+         "Position": "DEF",
+         "Points": 46
+      }
+   ],
+   "Montoya": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 560,
+         "Position": "DEF",
+         "Points": 45
+      }
+   ],
+   "Daniels": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 399,
+         "Position": "DEF",
+         "Points": 44
+      }
+   ],
+   "Yoshida": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 410,
+         "Position": "DEF",
+         "Points": 44
+      }
+   ],
+   "Odoi": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 511,
+         "Position": "DEF",
+         "Points": 44
+      }
+   ],
+   "Jones": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 136,
+         "Position": "DEF",
+         "Points": 43
+      }
+   ],
+   "Peltier": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 611,
+         "Position": "DEF",
+         "Points": 43
+      }
+   ],
+   "Clark": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 420,
+         "Position": "DEF",
+         "Points": 42
+      }
+   ],
+   "Christie": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 545,
+         "Position": "DEF",
+         "Points": 42
+      }
+   ],
+   "Francis": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 431,
+         "Position": "DEF",
+         "Points": 40
+      }
+   ],
+   "Bernardo": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 540,
+         "Position": "DEF",
+         "Points": 39
+      }
+   ],
+   "Fredericks": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 350,
+         "Position": "DEF",
+         "Points": 38
+      }
+   ],
+   "Le Marchand": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 547,
+         "Position": "DEF",
+         "Points": 38
+      }
+   ],
+   "Mina": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 205,
+         "Position": "DEF",
+         "Points": 36
+      }
+   ],
+   "Kabasele": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 416,
+         "Position": "DEF",
+         "Points": 36
+      }
+   ],
+   "Targett": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 548,
+         "Position": "DEF",
+         "Points": 36
+      }
+   ],
+   "Foyth": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 210,
+         "Position": "DEF",
+         "Points": 35
+      }
+   ],
+   "Lejeune": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 418,
+         "Position": "DEF",
+         "Points": 35
+      }
+   ],
+   "Cresswell": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 134,
+         "Position": "DEF",
+         "Points": 34
+      }
+   ],
+   "Lowton": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 234,
+         "Position": "DEF",
+         "Points": 34
+      }
+   ],
+   "Clyne": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 332,
+         "Position": "DEF",
+         "Points": 34
+      }
+   ],
+   "Bardsley": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 455,
+         "Position": "DEF",
+         "Points": 33
+      }
+   ],
+   "Delph": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 173,
+         "Position": "DEF",
+         "Points": 29
+      }
+   ],
+   "Hoedt": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 411,
+         "Position": "DEF",
+         "Points": 29
+      }
+   ],
+   "Walker-Peters": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 477,
+         "Position": "DEF",
+         "Points": 28
+      }
+   ],
+   "Dalot": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 192,
+         "Position": "DEF",
+         "Points": 27
+      }
+   ],
+   "Mepham": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 308,
+         "Position": "DEF",
+         "Points": 27
+      }
+   ],
+   "Masina": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 520,
+         "Position": "DEF",
+         "Points": 26
+      }
+   ],
+   "Kelly": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 597,
+         "Position": "DEF",
+         "Points": 26
+      }
+   ],
+   "Aurier": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 99,
+         "Position": "DEF",
+         "Points": 24
+      }
+   ],
+   "Holding": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 463,
+         "Position": "DEF",
+         "Points": 24
+      }
+   ],
+   "Vinagre": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 529,
+         "Position": "DEF",
+         "Points": 24
+      }
+   ],
+   "Stankovic": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 621,
+         "Position": "DEF",
+         "Points": 24
+      }
+   ],
+   "Dann": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 458,
+         "Position": "DEF",
+         "Points": 23
+      }
+   ],
+   "Christensen": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 157,
+         "Position": "DEF",
+         "Points": 22
+      }
+   ],
+   "Emerson": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 185,
+         "Position": "DEF",
+         "Points": 22
+      }
+   ],
+   "Jagielka": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 424,
+         "Position": "DEF",
+         "Points": 22
+      }
+   ],
+   "Mawson": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 369,
+         "Position": "DEF",
+         "Points": 19
+      }
+   ],
+   "Kenny": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 444,
+         "Position": "DEF",
+         "Points": 19
+      }
+   ],
+   "Valencia": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 51,
+         "Position": "DEF",
+         "Points": 17
+      }
+   ],
+   "Bailly": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 174,
+         "Position": "DEF",
+         "Points": 16
+      }
+   ],
+   "Balogun": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 496,
+         "Position": "DEF",
+         "Points": 15
+      }
+   ],
+   "Darmian": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 289,
+         "Position": "DEF",
+         "Points": 14
+      }
+   ],
+   "Lichtsteiner": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 340,
+         "Position": "DEF",
+         "Points": 14
+      }
+   ],
+   "Fosu-Mensah": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 550,
+         "Position": "DEF",
+         "Points": 14
+      }
+   ],
+   "Simpson": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 435,
+         "Position": "DEF",
+         "Points": 12
+      },
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 607,
+         "Position": "DEF",
+         "Points": 10
+      }
+   ],
+   "Zappacosta": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 171,
+         "Position": "DEF",
+         "Points": 9
+      }
+   ],
+   "Söyüncü": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 362,
+         "Position": "DEF",
+         "Points": 9
+      }
+   ],
+   "Smith": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 445,
+         "Position": "DEF",
+         "Points": 9
+      }
+   ],
+   "Cunningham": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 546,
+         "Position": "DEF",
+         "Points": 9
+      }
+   ],
+   "Nordtveit": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 327,
+         "Position": "DEF",
+         "Points": 8
+      }
+   ],
+   "Rico": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 555,
+         "Position": "DEF",
+         "Points": 8
+      },
+      {
+         "Team": "Fulham",
+         "Draft Rank": 552,
+         "Position": "GKP",
+         "Points": 86
+      }
+   ],
+   "Baines": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 154,
+         "Position": "DEF",
+         "Points": 7
+      }
+   ],
+   "Gibson": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 372,
+         "Position": "DEF",
+         "Points": 6
+      }
+   ],
+   "Holgate": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 453,
+         "Position": "DEF",
+         "Points": 5
+      }
+   ],
+   "Mings": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 490,
+         "Position": "DEF",
+         "Points": 5
+      }
+   ],
+   "Jenkinson": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 326,
+         "Position": "DEF",
+         "Points": 4
+      }
+   ],
+   "Moreno": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 439,
+         "Position": "DEF",
+         "Points": 4
+      }
+   ],
+   "Mavropanos": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 335,
+         "Position": "DEF",
+         "Points": 3
+      }
+   ],
+   "Fuchs": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 429,
+         "Position": "DEF",
+         "Points": 3
+      }
+   ],
+   "Britos": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 472,
+         "Position": "DEF",
+         "Points": 3
+      }
+   ],
+   "Moses": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 81,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Cahill": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 163,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Rojo": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 293,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Navarro": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 519,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Jazz Richards": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 612,
+         "Position": "DEF",
+         "Points": 2
+      }
+   ],
+   "Barreca": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 322,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Prödl": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 448,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Souaré": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 532,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Wilmot": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 568,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Ramsay": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 575,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Kilman": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 576,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Duhaney": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 585,
+         "Position": "DEF",
+         "Points": 1
+      }
+   ],
+   "Alisson": [
+      {
+         "Team": "Liverpool",
+         "Draft Rank": 197,
+         "Position": "GKP",
+         "Points": 176
+      }
+   ],
+   "Ederson": [
+      {
+         "Team": "Man City",
+         "Draft Rank": 128,
+         "Position": "GKP",
+         "Points": 169
+      }
+   ],
+   "Pickford": [
+      {
+         "Team": "Everton",
+         "Draft Rank": 219,
+         "Position": "GKP",
+         "Points": 161
+      }
+   ],
+   "Etheridge": [
+      {
+         "Team": "Cardiff",
+         "Draft Rank": 497,
+         "Position": "GKP",
+         "Points": 154
+      }
+   ],
+   "Lloris": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 129,
+         "Position": "GKP",
+         "Points": 145
+      }
+   ],
+   "Fabianski": [
+      {
+         "Team": "West Ham",
+         "Draft Rank": 374,
+         "Position": "GKP",
+         "Points": 143
+      }
+   ],
+   "Kepa": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 208,
+         "Position": "GKP",
+         "Points": 142
+      }
+   ],
+   "Dubravka": [
+      {
+         "Team": "Newcastle",
+         "Draft Rank": 268,
+         "Position": "GKP",
+         "Points": 131
+      }
+   ],
+   "Foster": [
+      {
+         "Team": "Watford",
+         "Draft Rank": 530,
+         "Position": "GKP",
+         "Points": 129
+      }
+   ],
+   "de Gea": [
+      {
+         "Team": "Man Utd",
+         "Draft Rank": 77,
+         "Position": "GKP",
+         "Points": 120
+      }
+   ],
+   "Schmeichel": [
+      {
+         "Team": "Leicester",
+         "Draft Rank": 221,
+         "Position": "GKP",
+         "Points": 120
+      }
+   ],
+   "Patrício": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 533,
+         "Position": "GKP",
+         "Points": 118
+      }
+   ],
+   "Leno": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 339,
+         "Position": "GKP",
+         "Points": 106
+      }
+   ],
+   "Ryan": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 375,
+         "Position": "GKP",
+         "Points": 104
+      }
+   ],
+   "Lössl": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 387,
+         "Position": "GKP",
+         "Points": 99
+      }
+   ],
+   "Guaita": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 508,
+         "Position": "GKP",
+         "Points": 81
+      }
+   ],
+   "Hart": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 557,
+         "Position": "GKP",
+         "Points": 69
+      }
+   ],
+   "Hennessey": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 392,
+         "Position": "GKP",
+         "Points": 67
+      }
+   ],
+   "Begovic": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 388,
+         "Position": "GKP",
+         "Points": 63
+      }
+   ],
+   "Heaton": [
+      {
+         "Team": "Burnley",
+         "Draft Rank": 299,
+         "Position": "GKP",
+         "Points": 58
+      }
+   ],
+   "Gunn": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 535,
+         "Position": "GKP",
+         "Points": 47
+      }
+   ],
+   "Boruc": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 609,
+         "Position": "GKP",
+         "Points": 46
+      }
+   ],
+   "Cech": [
+      {
+         "Team": "Arsenal",
+         "Draft Rank": 220,
+         "Position": "GKP",
+         "Points": 24
+      }
+   ],
+   "Bettinelli": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 509,
+         "Position": "GKP",
+         "Points": 15
+      }
+   ],
+   "Button": [
+      {
+         "Team": "Brighton",
+         "Draft Rank": 615,
+         "Position": "GKP",
+         "Points": 15
+      }
+   ],
+   "Caballero": [
+      {
+         "Team": "Chelsea",
+         "Draft Rank": 297,
+         "Position": "GKP",
+         "Points": 13
+      }
+   ],
+   "Gazzaniga": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 395,
+         "Position": "GKP",
+         "Points": 13
+      }
+   ],
+   "Travers": [
+      {
+         "Team": "Bournemouth",
+         "Draft Rank": 594,
+         "Position": "GKP",
+         "Points": 9
+      }
+   ],
+   "Hamer": [
+      {
+         "Team": "Huddersfield",
+         "Draft Rank": 606,
+         "Position": "GKP",
+         "Points": 9
+      }
+   ],
+   "Fabri": [
+      {
+         "Team": "Fulham",
+         "Draft Rank": 553,
+         "Position": "GKP",
+         "Points": 8
+      }
+   ],
+   "Ruddy": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 522,
+         "Position": "GKP",
+         "Points": 7
+      }
+   ],
+   "Vorm": [
+      {
+         "Team": "Spurs",
+         "Draft Rank": 337,
+         "Position": "GKP",
+         "Points": 5
+      }
+   ],
+   "Forster": [
+      {
+         "Team": "Southampton",
+         "Draft Rank": 412,
+         "Position": "GKP",
+         "Points": 2
+      }
+   ],
+   "Speroni": [
+      {
+         "Team": "Crystal Palace",
+         "Draft Rank": 596,
+         "Position": "GKP",
+         "Points": 1
+      }
+   ],
+   "Norris": [
+      {
+         "Team": "Wolves",
+         "Draft Rank": 616,
+         "Position": "GKP",
+         "Points": 1
+      }
+   ]
+}
