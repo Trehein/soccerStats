@@ -1,0 +1,506 @@
+Player,Team,Draft Rank,Position,Points
+Aubameyang,Arsenal,6,FWD,205
+Agüero,Man City,4,FWD,201
+Jiménez,Wolves,195,FWD,181
+Vardy,Leicester,18,FWD,174
+Wilson,Bournemouth,90,FWD,168
+Lacazette,Arsenal,16,FWD,166
+Kane,Spurs,2,FWD,160
+Firmino,Liverpool,13,FWD,160
+Rondón,Newcastle,122,FWD,148
+Zaha,Crystal Palace,35,FWD,143
+Pérez,Newcastle,55,FWD,141
+King,Bournemouth,57,FWD,141
+Mitrovic,Fulham,73,FWD,134
+Wood,Burnley,59,FWD,131
+Murray,Brighton,56,FWD,129
+Rashford,Man Utd,38,FWD,128
+Barnes,Burnley,94,FWD,122
+Arnautovic,West Ham,34,FWD,117
+Deeney,Watford,101,FWD,116
+Lukaku,Man Utd,5,FWD,115
+Calvert-Lewin,Everton,148,FWD,92
+Ings,Southampton,182,FWD,90
+Chicharito,West Ham,62,FWD,86
+Gray,Watford,97,FWD,83
+Reid,Cardiff,190,FWD,80
+Jesus,Man City,9,FWD,79
+Mounie,Huddersfield,95,FWD,69
+Long,Southampton,269,FWD,66
+Iheanacho,Leicester,105,FWD,58
+Tosun,Everton,40,FWD,56
+Giroud,Chelsea,25,FWD,55
+Higuaín,Chelsea,11,FWD,53
+Locadia,Brighton,183,FWD,52
+Batshuayi,Crystal Palace,47,FWD,48
+Vokes,Burnley,168,FWD,48
+Vietto,Fulham,202,FWD,47
+Morata,Chelsea,20,FWD,46
+Austin,Southampton,102,FWD,46
+Ayew,Crystal Palace,126,FWD,46
+Grant,Huddersfield,215,FWD,45
+Success,Watford,561,FWD,42
+Llorente,Spurs,109,FWD,41
+Andone,Brighton,342,FWD,38
+Sturridge,Liverpool,119,FWD,34
+Depoitre,Huddersfield,145,FWD,34
+Benteke,Crystal Palace,64,FWD,33
+Lucas,West Ham,75,FWD,33
+Zohore,Cardiff,347,FWD,33
+Origi,Liverpool,209,FWD,32
+Niasse,Cardiff,153,FWD,30
+Joselu,Newcastle,257,FWD,30
+Kachunga,Huddersfield,279,FWD,29
+Mousset,Bournemouth,284,FWD,28
+Kamara,Fulham,516,FWD,28
+Okazaki,Leicester,161,FWD,25
+Muto,Newcastle,120,FWD,24
+Gabbiadini,Southampton,103,FWD,23
+Vydra,Burnley,123,FWD,21
+Welbeck,Arsenal,66,FWD,19
+Solanke,Bournemouth,283,FWD,15
+Obafemi,Southampton,211,FWD,13
+Carroll,West Ham,177,FWD,12
+Sørloth,Crystal Palace,300,FWD,12
+Nketiah,Arsenal,212,FWD,10
+Bonatini,Wolves,354,FWD,10
+Wickham,Crystal Palace,357,FWD,9
+Crouch,Burnley,328,FWD,8
+Madine,Cardiff,507,FWD,5
+Defoe,Bournemouth,104,FWD,4
+Gallagher,Southampton,303,FWD,4
+Greenwood,Man Utd,313,FWD,4
+Healey,Cardiff,304,FWD,3
+Janssen,Spurs,315,FWD,3
+Surridge,Bournemouth,331,FWD,2
+Quaner,Huddersfield,447,FWD,2
+Okaka,Watford,291,FWD,1
+Xande Silva,West Ham,383,FWD,1
+Salah,Liverpool,1,MID,259
+Hazard,Chelsea,7,MID,238
+Sterling,Man City,3,MID,234
+Mané,Liverpool,15,MID,231
+Sigurdsson,Everton,30,MID,182
+Fraser,Bournemouth,143,MID,181
+Pogba,Man Utd,24,MID,179
+Milivojevic,Crystal Palace,52,MID,166
+Eriksen,Spurs,12,MID,161
+Son,Spurs,21,MID,159
+Sané,Man City,14,MID,156
+Felipe Anderson,West Ham,43,MID,155
+Bernardo Silva,Man City,29,MID,154
+Richarlison,Everton,54,MID,153
+David Silva,Man City,22,MID,143
+Jota,Wolves,72,MID,139
+Maddison,Leicester,70,MID,137
+Redmond,Southampton,165,MID,137
+Townsend,Crystal Palace,83,MID,135
+Deulofeu,Watford,181,MID,133
+Lucas Moura,Spurs,42,MID,131
+Doucouré,Watford,80,MID,124
+Brooks,Bournemouth,341,MID,123
+Martial,Man Utd,28,MID,122
+Pereyra,Watford,96,MID,122
+McArthur,Crystal Palace,230,MID,121
+Moutinho,Wolves,204,MID,119
+Antonio,West Ham,39,MID,118
+Kanté,Chelsea,229,MID,116
+Gündogan,Man City,155,MID,113
+Pedro,Chelsea,65,MID,112
+Westwood,Burnley,454,MID,111
+Ritchie,Newcastle,85,MID,110
+Willian,Chelsea,27,MID,108
+Wijnaldum,Liverpool,151,MID,108
+Camarasa,Cardiff,559,MID,106
+Neves,Wolves,352,MID,104
+Mahrez,Man City,17,MID,102
+Walcott,Everton,67,MID,101
+Milner,Liverpool,160,MID,101
+Iwobi,Arsenal,146,MID,99
+Noble,West Ham,241,MID,99
+Mkhitaryan,Arsenal,37,MID,98
+Jorginho,Chelsea,364,MID,96
+Alli,Spurs,19,MID,94
+Sessegnon,Fulham,69,MID,94
+Ward-Prowse,Southampton,152,MID,94
+March,Brighton,252,MID,94
+Gudmundsson,Burnley,84,MID,92
+Ramsey,Arsenal,26,MID,91
+Xhaka,Arsenal,139,MID,90
+Højbjerg,Southampton,452,MID,90
+Özil,Arsenal,23,MID,89
+Ndidi,Leicester,249,MID,89
+Shaqiri,Liverpool,32,MID,88
+Bernard,Everton,125,MID,88
+Cork,Burnley,231,MID,87
+Hughes,Watford,270,MID,87
+Snodgrass,West Ham,200,MID,85
+Gray,Leicester,156,MID,84
+Hoilett,Cardiff,188,MID,82
+Groß,Brighton,33,MID,80
+Paterson,Cardiff,189,MID,80
+Barkley,Chelsea,115,MID,79
+Fernandinho,Man City,133,MID,79
+Loftus-Cheek,Chelsea,159,MID,79
+Capoue,Watford,276,MID,79
+Lingard,Man Utd,36,MID,78
+Gueye,Everton,237,MID,78
+Torreira,Arsenal,360,MID,78
+Mooy,Huddersfield,137,MID,76
+Henderson,Liverpool,162,MID,76
+Sissoko,Spurs,266,MID,76
+Murphy,Cardiff,346,MID,76
+Babel,Fulham,114,MID,75
+Schürrle,Fulham,118,MID,75
+Armstrong,Southampton,193,MID,75
+McNeil,Burnley,397,MID,75
+Lerma,Bournemouth,558,MID,75
+Knockaert,Brighton,147,MID,74
+Hendrick,Burnley,150,MID,73
+Seri,Fulham,196,MID,72
+Pröpper,Brighton,236,MID,72
+Cairney,Fulham,348,MID,71
+Mata,Man Utd,60,MID,70
+Pritchard,Huddersfield,282,MID,69
+Hayden,Newcastle,450,MID,69
+Keita,Liverpool,31,MID,67
+Lamela,Spurs,68,MID,67
+Kouyaté,Crystal Palace,239,MID,67
+Fabinho,Liverpool,116,MID,65
+Stephens,Brighton,404,MID,65
+Gunnarsson,Cardiff,502,MID,65
+Kovacic,Chelsea,127,MID,64
+André Gomes,Everton,203,MID,64
+Tielemans,Leicester,76,MID,63
+Albrighton,Leicester,140,MID,63
+Mendez-Laing,Cardiff,345,MID,63
+Billing,Huddersfield,471,MID,63
+Herrera,Man Utd,280,MID,62
+Meyer,Crystal Palace,121,MID,60
+De Bruyne,Man City,10,MID,59
+Matic,Man Utd,232,MID,59
+Mendy,Leicester,564,MID,58
+Stanislas,Bournemouth,100,MID,56
+Dier,Spurs,240,MID,56
+Diamé,Newcastle,256,MID,56
+Atsu,Newcastle,158,MID,55
+Oriol Romeu,Southampton,415,MID,55
+Gosling,Bournemouth,261,MID,54
+Hogg,Huddersfield,437,MID,54
+Winks,Spurs,180,MID,53
+Costa,Wolves,353,MID,52
+Lemina,Southampton,265,MID,50
+Kenedy,Newcastle,358,MID,50
+Masuaku,West Ham,417,MID,49
+Cavaleiro,Wolves,194,MID,48
+Arter,Cardiff,288,MID,48
+Dendoncker,Wolves,539,MID,48
+Sánchez,Man Utd,8,MID,47
+Guendouzi,Arsenal,536,MID,47
+Ralls,Cardiff,344,MID,45
+Traoré,Wolves,199,MID,44
+Zinchenko,Man City,296,MID,44
+Barnes,Leicester,113,MID,43
+Bissouma,Brighton,368,MID,43
+Obiang,West Ham,436,MID,43
+Lennon,Burnley,259,MID,41
+Fred,Man Utd,117,MID,40
+Shelvey,Newcastle,164,MID,39
+Bacuna,Huddersfield,517,MID,39
+Mbenza,Huddersfield,124,MID,38
+Ki Sung-yueng,Newcastle,254,MID,38
+McTominay,Man Utd,473,MID,38
+Sema,Watford,356,MID,37
+Gibbs-White,Wolves,527,MID,37
+Zambo Anguissa,Fulham,549,MID,37
+Surman,Bournemouth,243,MID,36
+Kayal,Brighton,466,MID,36
+Lookman,Everton,186,MID,34
+Maitland-Niles,Arsenal,465,MID,34
+Jahanbakhsh,Brighton,45,MID,33
+Ibe,Bournemouth,149,MID,33
+Lanzini,West Ham,58,MID,31
+Izquierdo,Brighton,91,MID,31
+Elyounoussi,Southampton,71,MID,28
+Almirón,Newcastle,74,MID,28
+Ghezzal,Leicester,207,MID,28
+Schneiderlin,Everton,438,MID,28
+Yarmolenko,West Ham,44,MID,27
+Pereira,Man Utd,367,MID,27
+Davies,Everton,167,MID,26
+Fellaini,Man Utd,278,MID,26
+Longstaff,Newcastle,394,MID,26
+Cleverley,Watford,267,MID,25
+Foden,Man City,301,MID,25
+Diangana,West Ham,376,MID,25
+Wanyama,Spurs,286,MID,24
+Harris,Cardiff,396,MID,24
+Ayité,Fulham,513,MID,24
+Lallana,Liverpool,41,MID,23
+Lewis Cook,Bournemouth,263,MID,22
+Ward,Cardiff,505,MID,22
+Brady,Burnley,172,MID,20
+Choudhury,Leicester,476,MID,20
+Diakhaby,Huddersfield,361,MID,19
+Hudson-Odoi,Chelsea,492,MID,18
+Wilshere,West Ham,355,MID,17
+McDonald,Fulham,512,MID,17
+Quina,Watford,543,MID,17
+Murphy,Newcastle,273,MID,16
+Amartey,Leicester,475,MID,15
+Puncheon,Huddersfield,479,MID,15
+Nasri,West Ham,112,MID,14
+Dembélé,Spurs,271,MID,14
+Skipp,Spurs,377,MID,12
+Johansen,Fulham,191,MID,11
+Sims,Southampton,482,MID,11
+Defour,Burnley,169,MID,10
+van La Parra,Huddersfield,253,MID,10
+Elneny,Arsenal,470,MID,10
+Chalobah,Watford,478,MID,10
+Davis,Southampton,255,MID,9
+Iborra,Leicester,264,MID,9
+Carlos Sánchez,West Ham,541,MID,9
+Kebano,Fulham,514,MID,7
+Fàbregas,Chelsea,63,MID,6
+Williams,Huddersfield,461,MID,6
+Suárez,Arsenal,46,MID,4
+Sobhi,Huddersfield,272,MID,4
+Sako,Crystal Palace,285,MID,4
+Slattery,Southampton,302,MID,4
+Nkoudou,Spurs,370,MID,4
+Willock,Arsenal,386,MID,4
+Cissé,Fulham,563,MID,4
+Silva,Leicester,292,MID,3
+Chamberlain,Liverpool,61,MID,2
+Gomes,Man Utd,217,MID,2
+Chong,Man Utd,309,MID,2
+Daly,Huddersfield,311,MID,2
+Rowe,Huddersfield,312,MID,2
+Sabiri,Huddersfield,480,MID,2
+Damour,Cardiff,504,MID,2
+Elliott,Fulham,591,MID,2
+Camacho,Liverpool,214,MID,1
+Markovic,Fulham,216,MID,1
+Diabaté,Leicester,294,MID,1
+Garner,Man Utd,310,MID,1
+Dreher,Crystal Palace,319,MID,1
+Johnson,Southampton,384,MID,1
+Saka,Arsenal,385,MID,1
+McCarthy,Everton,485,MID,1
+Hyndman,Bournemouth,493,MID,1
+Amos,Spurs,562,MID,1
+Robertson,Liverpool,88,DEF,213
+van Dijk,Liverpool,98,DEF,208
+Alexander-Arnold,Liverpool,242,DEF,185
+Laporte,Man City,178,DEF,177
+David Luiz,Chelsea,179,DEF,164
+Alonso,Chelsea,49,DEF,161
+Azpilicueta,Chelsea,48,DEF,158
+Digne,Everton,371,DEF,158
+Walker,Man City,53,DEF,150
+Pereira,Leicester,349,DEF,146
+Doherty,Wolves,524,DEF,144
+van Aanholt,Crystal Palace,144,DEF,140
+Keane,Everton,246,DEF,129
+Coleman,Everton,176,DEF,125
+Aké,Bournemouth,226,DEF,120
+Boly,Wolves,523,DEF,120
+Wan-Bissaka,Crystal Palace,604,DEF,120
+Trippier,Spurs,87,DEF,118
+Chilwell,Leicester,260,DEF,118
+Rüdiger,Chelsea,86,DEF,116
+Duffy,Brighton,391,DEF,115
+Zouma,Everton,250,DEF,112
+Alderweireld,Spurs,106,DEF,107
+Jonny,Wolves,551,DEF,103
+Tarkowski,Burnley,228,DEF,97
+Morrison,Cardiff,343,DEF,97
+Ecuele Manga,Cardiff,500,DEF,97
+Lascelles,Newcastle,222,DEF,95
+Bamba,Cardiff,499,DEF,95
+Coady,Wolves,528,DEF,94
+Schär,Newcastle,365,DEF,93
+Holebas,Watford,413,DEF,93
+Cathcart,Watford,474,DEF,93
+Maguire,Leicester,135,DEF,92
+Rice,West Ham,451,DEF,92
+Shaw,Man Utd,275,DEF,91
+Dunk,Brighton,398,DEF,91
+Schlupp,Crystal Palace,443,DEF,91
+Bennett,Wolves,619,DEF,89
+Sakho,Crystal Palace,245,DEF,88
+Diop,West Ham,521,DEF,87
+Rose,Spurs,108,DEF,86
+Tomkins,Crystal Palace,393,DEF,86
+Lindelöf,Man Utd,277,DEF,85
+Steve Cook,Bournemouth,407,DEF,85
+Stones,Man City,166,DEF,83
+Matip,Liverpool,247,DEF,83
+Taylor,Burnley,468,DEF,82
+Kolasinac,Arsenal,224,DEF,81
+Mee,Burnley,233,DEF,81
+Mustafi,Arsenal,138,DEF,80
+Sánchez,Spurs,89,DEF,78
+Monreal,Arsenal,132,DEF,77
+Evans,Leicester,248,DEF,77
+Bennett,Cardiff,501,DEF,77
+Schindler,Huddersfield,390,DEF,76
+Morgan,Leicester,423,DEF,76
+Young,Man Utd,92,DEF,73
+Otamendi,Man City,50,DEF,70
+Adam Smith,Bournemouth,432,DEF,70
+Vertonghen,Spurs,79,DEF,67
+Zanka,Huddersfield,389,DEF,67
+Dummett,Newcastle,440,DEF,67
+Davies,Spurs,78,DEF,66
+Kiko Femenía,Watford,419,DEF,66
+Sokratis,Arsenal,187,DEF,64
+Lovren,Liverpool,223,DEF,63
+Yedlin,Newcastle,403,DEF,63
+Koscielny,Arsenal,141,DEF,62
+Balbuena,West Ham,537,DEF,61
+Bellerín,Arsenal,131,DEF,60
+Kongolo,Huddersfield,459,DEF,60
+Chambers,Fulham,467,DEF,60
+Mendy,Man City,110,DEF,59
+Kompany,Man City,170,DEF,58
+Mariappa,Watford,427,DEF,57
+Smalling,Man Utd,82,DEF,56
+Bertrand,Southampton,225,DEF,56
+Zabaleta,West Ham,402,DEF,56
+Gomez,Liverpool,238,DEF,55
+Valery,Southampton,572,DEF,54
+Manquillo,Newcastle,446,DEF,53
+Bryan,Fulham,366,DEF,52
+Cédric,Southampton,405,DEF,52
+Janmaat,Watford,262,DEF,50
+Vestergaard,Southampton,359,DEF,50
+Hadergjonaj,Huddersfield,442,DEF,50
+Ream,Fulham,510,DEF,50
+Löwe,Huddersfield,425,DEF,49
+Durm,Huddersfield,542,DEF,49
+Bednarek,Southampton,601,DEF,49
+Ogbonna,West Ham,409,DEF,48
+Bong,Brighton,422,DEF,48
+Stephens,Southampton,426,DEF,47
+Saïss,Wolves,525,DEF,47
+Fernández,Newcastle,544,DEF,47
+Danilo,Man City,142,DEF,46
+Bruno,Brighton,406,DEF,46
+Montoya,Brighton,560,DEF,45
+Daniels,Bournemouth,399,DEF,44
+Yoshida,Southampton,410,DEF,44
+Odoi,Fulham,511,DEF,44
+Jones,Man Utd,136,DEF,43
+Peltier,Cardiff,611,DEF,43
+Clark,Newcastle,420,DEF,42
+Christie,Fulham,545,DEF,42
+Francis,Bournemouth,431,DEF,40
+Bernardo,Brighton,540,DEF,39
+Fredericks,West Ham,350,DEF,38
+Le Marchand,Fulham,547,DEF,38
+Mina,Everton,205,DEF,36
+Kabasele,Watford,416,DEF,36
+Targett,Southampton,548,DEF,36
+Foyth,Spurs,210,DEF,35
+Lejeune,Newcastle,418,DEF,35
+Cresswell,West Ham,134,DEF,34
+Lowton,Burnley,234,DEF,34
+Clyne,Bournemouth,332,DEF,34
+Bardsley,Burnley,455,DEF,33
+Delph,Man City,173,DEF,29
+Hoedt,Southampton,411,DEF,29
+Walker-Peters,Spurs,477,DEF,28
+Dalot,Man Utd,192,DEF,27
+Mepham,Bournemouth,308,DEF,27
+Masina,Watford,520,DEF,26
+Kelly,Crystal Palace,597,DEF,26
+Aurier,Spurs,99,DEF,24
+Holding,Arsenal,463,DEF,24
+Vinagre,Wolves,529,DEF,24
+Stankovic,Huddersfield,621,DEF,24
+Dann,Crystal Palace,458,DEF,23
+Christensen,Chelsea,157,DEF,22
+Emerson,Chelsea,185,DEF,22
+Jagielka,Everton,424,DEF,22
+Mawson,Fulham,369,DEF,19
+Kenny,Everton,444,DEF,19
+Valencia,Man Utd,51,DEF,17
+Bacuna,Cardiff,325,DEF,17
+Bailly,Man Utd,174,DEF,16
+Long,Burnley,428,DEF,16
+Balogun,Brighton,496,DEF,15
+Darmian,Man Utd,289,DEF,14
+Lichtsteiner,Arsenal,340,DEF,14
+Fosu-Mensah,Fulham,550,DEF,14
+Ward,Crystal Palace,534,DEF,13
+Simpson,Leicester,435,DEF,12
+Simpson,Bournemouth,607,DEF,10
+Zappacosta,Chelsea,171,DEF,9
+Söyüncü,Leicester,362,DEF,9
+Smith,Huddersfield,445,DEF,9
+Cunningham,Cardiff,546,DEF,9
+Nordtveit,Fulham,327,DEF,8
+Rico,Bournemouth,555,DEF,8
+Baines,Everton,154,DEF,7
+Ward,Burnley,227,DEF,7
+Gibson,Burnley,372,DEF,6
+Holgate,Everton,453,DEF,5
+Mings,Bournemouth,490,DEF,5
+Jenkinson,Arsenal,326,DEF,4
+Moreno,Liverpool,439,DEF,4
+Mavropanos,Arsenal,335,DEF,3
+Fuchs,Leicester,429,DEF,3
+Britos,Watford,472,DEF,3
+Moses,Chelsea,81,DEF,2
+Cahill,Chelsea,163,DEF,2
+Rojo,Man Utd,293,DEF,2
+Navarro,Watford,519,DEF,2
+Johnson,West Ham,583,DEF,2
+Jazz Richards,Cardiff,612,DEF,2
+Barreca,Newcastle,322,DEF,1
+Prödl,Watford,448,DEF,1
+Souaré,Crystal Palace,532,DEF,1
+Wilmot,Watford,568,DEF,1
+Ramsay,Southampton,575,DEF,1
+Kilman,Wolves,576,DEF,1
+Duhaney,Huddersfield,585,DEF,1
+Alisson,Liverpool,197,GKP,176
+Ederson,Man City,128,GKP,169
+Pickford,Everton,219,GKP,161
+Etheridge,Cardiff,497,GKP,154
+Lloris,Spurs,129,GKP,145
+Fabianski,West Ham,374,GKP,143
+Kepa,Chelsea,208,GKP,142
+Dubravka,Newcastle,268,GKP,131
+Foster,Watford,530,GKP,129
+de Gea,Man Utd,77,GKP,120
+Schmeichel,Leicester,221,GKP,120
+Patrício,Wolves,533,GKP,118
+Leno,Arsenal,339,GKP,106
+Ryan,Brighton,375,GKP,104
+Lössl,Huddersfield,387,GKP,99
+Rico,Fulham,552,GKP,86
+Guaita,Crystal Palace,508,GKP,81
+McCarthy,Southampton,441,GKP,73
+Hart,Burnley,557,GKP,69
+Hennessey,Crystal Palace,392,GKP,67
+Begovic,Bournemouth,388,GKP,63
+Heaton,Burnley,299,GKP,58
+Gunn,Southampton,535,GKP,47
+Boruc,Bournemouth,609,GKP,46
+Cech,Arsenal,220,GKP,24
+Bettinelli,Fulham,509,GKP,15
+Button,Brighton,615,GKP,15
+Caballero,Chelsea,297,GKP,13
+Gazzaniga,Spurs,395,GKP,13
+Travers,Bournemouth,594,GKP,9
+Hamer,Huddersfield,606,GKP,9
+Fabri,Fulham,553,GKP,8
+Ruddy,Wolves,522,GKP,7
+Vorm,Spurs,337,GKP,5
+Forster,Southampton,412,GKP,2
+Coleman,Huddersfield,581,GKP,2
+Speroni,Crystal Palace,596,GKP,1
+Norris,Wolves,616,GKP,1
