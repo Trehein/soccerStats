@@ -1,0 +1,596 @@
+{
+   "Ryan Fraser": {
+      "club": "AFC Bournemouth",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 116
+   },
+   "Junior Stanislas": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 26
+   },
+   "David Brooks": {
+      "club": "AFC Bournemouth",
+      "nationality": "Wales",
+      "position": "MID",
+      "corners": 19
+   },
+   "Jordon Ibe": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 6
+   },
+   "Andrew Surman": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 1
+   },
+   "Granit Xhaka": {
+      "club": "Arsenal",
+      "nationality": "Switzerland",
+      "position": "MID",
+      "corners": 95
+   },
+   "Henrikh Mkhitaryan": {
+      "club": "Arsenal",
+      "nationality": "Armenia",
+      "position": "MID",
+      "corners": 46
+   },
+   "Mesut Özil": {
+      "club": "Arsenal",
+      "nationality": "Germany",
+      "position": "MID",
+      "corners": 38
+   },
+   "Lucas Torreira": {
+      "club": "Arsenal",
+      "nationality": "Uruguay",
+      "position": "MID",
+      "corners": 23
+   },
+   "Matteo Guendouzi": {
+      "club": "Arsenal",
+      "nationality": "France",
+      "position": "MID",
+      "corners": 2
+   },
+   "Alex Iwobi": {
+      "club": "Arsenal",
+      "nationality": "Nigeria",
+      "position": "MID",
+      "corners": 1
+   },
+   "Aaron Ramsey": {
+      "club": "Arsenal",
+      "nationality": "Wales",
+      "position": "MID",
+      "corners": 1
+   },
+   "Pascal Groß": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Germany",
+      "position": "MID",
+      "corners": 61
+   },
+   "Anthony Knockaert": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "France",
+      "position": "MID",
+      "corners": 46
+   },
+   "Solly March": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 38
+   },
+   "Yves Bissouma": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Mali",
+      "position": "MID",
+      "corners": 3
+   },
+   "Beram Kayal": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Israel",
+      "position": "MID",
+      "corners": 2
+   },
+   "Johann Gudmundsson": {
+      "club": "Burnley",
+      "nationality": "Iceland",
+      "position": "MID",
+      "corners": 46
+   },
+   "Ashley Westwood": {
+      "club": "Burnley",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 43
+   },
+   "Robbie Brady": {
+      "club": "Burnley",
+      "nationality": "Ireland",
+      "position": "MID",
+      "corners": 20
+   },
+   "Jeff Hendrick": {
+      "club": "Burnley",
+      "nationality": "Ireland",
+      "position": "MID",
+      "corners": 2
+   },
+   "Jack Cork": {
+      "club": "Burnley",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 1
+   },
+   "Víctor Camarasa": {
+      "club": "Cardiff City",
+      "nationality": "Spain",
+      "position": "MID",
+      "corners": 77
+   },
+   "Joe Ralls": {
+      "club": "Cardiff City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 49
+   },
+   "Josh Murphy": {
+      "club": "Cardiff City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 12
+   },
+   "Leandro Bacuna": {
+      "club": "Cardiff City",
+      "nationality": "Curacao",
+      "position": "MID",
+      "corners": 1
+   },
+   "Ruben Loftus-Cheek": {
+      "club": "Chelsea",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 2
+   },
+   "Cesc Fàbregas": {
+      "club": "Chelsea",
+      "nationality": "Spain",
+      "position": "MID",
+      "corners": 1
+   },
+   "Mateo Kovacic": {
+      "club": "Chelsea",
+      "nationality": "Croatia",
+      "position": "MID",
+      "corners": 1
+   },
+   "Luka Milivojevic": {
+      "club": "Crystal Palace",
+      "nationality": "Serbia",
+      "position": "MID",
+      "corners": 143
+   },
+   "Andros Townsend": {
+      "club": "Crystal Palace",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 38
+   },
+   "Max Meyer": {
+      "club": "Crystal Palace",
+      "nationality": "Germany",
+      "position": "MID",
+      "corners": 19
+   },
+   "James McArthur": {
+      "club": "Crystal Palace",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 1
+   },
+   "Gylfi Sigurdsson": {
+      "club": "Everton",
+      "nationality": "Iceland",
+      "position": "MID",
+      "corners": 105
+   },
+   "Bernard": {
+      "club": "Everton",
+      "nationality": "Brazil",
+      "position": "MID",
+      "corners": 4
+   },
+   "Jean Michael Seri": {
+      "club": "Fulham",
+      "nationality": "Cote D'Ivoire",
+      "position": "MID",
+      "corners": 93
+   },
+   "Ryan Sessegnon": {
+      "club": "Fulham",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 27
+   },
+   "Ryan Babel": {
+      "club": "Fulham",
+      "nationality": "Netherlands",
+      "position": "MID",
+      "corners": 15
+   },
+   "Tom Cairney": {
+      "club": "Fulham",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 5
+   },
+   "Stefan Johansen": {
+      "club": "Fulham",
+      "nationality": "Norway",
+      "position": "MID",
+      "corners": 2
+   },
+   "André Schürrle": {
+      "club": "Fulham",
+      "nationality": "Germany",
+      "position": "MID",
+      "corners": 2
+   },
+   "Aaron Mooy": {
+      "club": "Huddersfield Town",
+      "nationality": "Australia",
+      "position": "MID",
+      "corners": 75
+   },
+   "Alex Pritchard": {
+      "club": "Huddersfield Town",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 23
+   },
+   "Juninho Bacuna": {
+      "club": "Huddersfield Town",
+      "nationality": "Netherlands",
+      "position": "MID",
+      "corners": 16
+   },
+   "Isaac Mbenza": {
+      "club": "Huddersfield Town",
+      "nationality": "Belgium",
+      "position": "MID",
+      "corners": 5
+   },
+   "Jason Puncheon": {
+      "club": "Huddersfield Town",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 5
+   },
+   "Philip Billing": {
+      "club": "Huddersfield Town",
+      "nationality": "Denmark",
+      "position": "MID",
+      "corners": 2
+   },
+   "James Maddison": {
+      "club": "Leicester City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 163
+   },
+   "Rachid Ghezzal": {
+      "club": "Leicester City",
+      "nationality": "Algeria",
+      "position": "MID",
+      "corners": 25
+   },
+   "Demarai Gray": {
+      "club": "Leicester City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 9
+   },
+   "Marc Albrighton": {
+      "club": "Leicester City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 8
+   },
+   "Youri Tielemans": {
+      "club": "Leicester City",
+      "nationality": "Belgium",
+      "position": "MID",
+      "corners": 1
+   },
+   "James Milner": {
+      "club": "Liverpool",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 92
+   },
+   "Georginio Wijnaldum": {
+      "club": "Liverpool",
+      "nationality": "Netherlands",
+      "position": "MID",
+      "corners": 7
+   },
+   "Adam Lallana": {
+      "club": "Liverpool",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 4
+   },
+   "Naby Keita": {
+      "club": "Liverpool",
+      "nationality": "Guinea",
+      "position": "MID",
+      "corners": 2
+   },
+   "Ilkay Gündogan": {
+      "club": "Manchester City",
+      "nationality": "Germany",
+      "position": "MID",
+      "corners": 81
+   },
+   "Kevin De Bruyne": {
+      "club": "Manchester City",
+      "nationality": "Belgium",
+      "position": "MID",
+      "corners": 51
+   },
+   "Riyad Mahrez": {
+      "club": "Manchester City",
+      "nationality": "Algeria",
+      "position": "MID",
+      "corners": 44
+   },
+   "Bernardo Silva": {
+      "club": "Manchester City",
+      "nationality": "Portugal",
+      "position": "MID",
+      "corners": 25
+   },
+   "David Silva": {
+      "club": "Manchester City",
+      "nationality": "Spain",
+      "position": "MID",
+      "corners": 23
+   },
+   "Phil Foden": {
+      "club": "Manchester City",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 3
+   },
+   "Juan Mata": {
+      "club": "Manchester United",
+      "nationality": "Spain",
+      "position": "MID",
+      "corners": 35
+   },
+   "Andreas Pereira": {
+      "club": "Manchester United",
+      "nationality": "Brazil",
+      "position": "MID",
+      "corners": 6
+   },
+   "Fred": {
+      "club": "Manchester United",
+      "nationality": "Brazil",
+      "position": "MID",
+      "corners": 4
+   },
+   "Ander Herrera": {
+      "club": "Manchester United",
+      "nationality": "Spain",
+      "position": "MID",
+      "corners": 2
+   },
+   "Jesse Lingard": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 2
+   },
+   "Matt Ritchie": {
+      "club": "Newcastle United",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 102
+   },
+   "Ki Sung-yueng": {
+      "club": "Newcastle United",
+      "nationality": "South Korea",
+      "position": "MID",
+      "corners": 38
+   },
+   "Jonjo Shelvey": {
+      "club": "Newcastle United",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 31
+   },
+   "Kenedy": {
+      "club": "Newcastle United",
+      "nationality": "Brazil",
+      "position": "MID",
+      "corners": 5
+   },
+   "Christian Atsu": {
+      "club": "Newcastle United",
+      "nationality": "Ghana",
+      "position": "MID",
+      "corners": 3
+   },
+   "Miguel Almirón": {
+      "club": "Newcastle United",
+      "nationality": "Paraguay",
+      "position": "MID",
+      "corners": 1
+   },
+   "James Ward-Prowse": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 92
+   },
+   "Mohamed Elyounoussi": {
+      "club": "Southampton",
+      "nationality": "Norway",
+      "position": "MID",
+      "corners": 24
+   },
+   "Stuart Armstrong": {
+      "club": "Southampton",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 13
+   },
+   "Nathan Redmond": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 11
+   },
+   "Pierre-Emile Højbjerg": {
+      "club": "Southampton",
+      "nationality": "Denmark",
+      "position": "MID",
+      "corners": 2
+   },
+   "Christian Eriksen": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Denmark",
+      "position": "MID",
+      "corners": 67
+   },
+   "Erik Lamela": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Argentina",
+      "position": "MID",
+      "corners": 20
+   },
+   "Dele Alli": {
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 3
+   },
+   "Harry Winks": {
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 2
+   },
+   "Roberto Pereyra": {
+      "club": "Watford",
+      "nationality": "Argentina",
+      "position": "MID",
+      "corners": 17
+   },
+   "Ken Sema": {
+      "club": "Watford",
+      "nationality": "Sweden",
+      "position": "MID",
+      "corners": 5
+   },
+   "Will Hughes": {
+      "club": "Watford",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 3
+   },
+   "Tom Cleverley": {
+      "club": "Watford",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 2
+   },
+   "Etienne Capoue": {
+      "club": "Watford",
+      "nationality": "France",
+      "position": "MID",
+      "corners": 1
+   },
+   "Abdoulaye Doucouré": {
+      "club": "Watford",
+      "nationality": "France",
+      "position": "MID",
+      "corners": 1
+   },
+   "Robert Snodgrass": {
+      "club": "West Ham United",
+      "nationality": "Scotland",
+      "position": "MID",
+      "corners": 115
+   },
+   "Felipe Anderson": {
+      "club": "West Ham United",
+      "nationality": "Brazil",
+      "position": "MID",
+      "corners": 49
+   },
+   "Manuel Lanzini": {
+      "club": "West Ham United",
+      "nationality": "Argentina",
+      "position": "MID",
+      "corners": 6
+   },
+   "Grady Diangana": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 5
+   },
+   "Jack Wilshere": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 2
+   },
+   "Samir Nasri": {
+      "club": "West Ham United",
+      "nationality": "France",
+      "position": "MID",
+      "corners": 1
+   },
+   "Mark Noble": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 1
+   },
+   "João Moutinho": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Portugal",
+      "position": "MID",
+      "corners": 159
+   },
+   "Morgan Gibbs-White": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "England",
+      "position": "MID",
+      "corners": 9
+   },
+   "Hélder Costa": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Portugal",
+      "position": "MID",
+      "corners": 6
+   },
+   "Rúben Neves": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Portugal",
+      "position": "MID",
+      "corners": 2
+   }
+}
