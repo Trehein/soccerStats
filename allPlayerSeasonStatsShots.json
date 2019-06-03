@@ -1,0 +1,4258 @@
+{
+   "Joshua King": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Norway",
+         "position": "FWD",
+         "shots": 72,
+         "shotsOnTarget": 23,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Callum Wilson": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 65,
+         "shotsOnTarget": 30,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Lys Mousset": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 12,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 58
+      }
+   ],
+   "Dominic Solanke": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 11,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Sam Surridge": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Jermain Defoe": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Pierre-Emerick Aubameyang": [
+      {
+         "club": "Arsenal",
+         "nationality": "Gabon",
+         "position": "FWD",
+         "shots": 94,
+         "shotsOnTarget": 40,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Alexandre Lacazette": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 81,
+         "shotsOnTarget": 30,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Danny Welbeck": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 4,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Eddie Nketiah": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Glenn Murray": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 54,
+         "shotsOnTarget": 21,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Jürgen Locadia": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "shots": 28,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Alireza Jahanbakhsh": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Iran",
+         "position": "FWD",
+         "shots": 21,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Florin Andone": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Romania",
+         "position": "FWD",
+         "shots": 19,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 42
+      }
+   ],
+   "José Izquierdo": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Colombia",
+         "position": "FWD",
+         "shots": 15,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Ashley Barnes": [
+      {
+         "club": "Burnley",
+         "nationality": "Austria",
+         "position": "FWD",
+         "shots": 65,
+         "shotsOnTarget": 30,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Chris Wood": [
+      {
+         "club": "Burnley",
+         "nationality": "New Zealand",
+         "position": "FWD",
+         "shots": 59,
+         "shotsOnTarget": 23,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Dwight McNeil": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 27,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Sam Vokes": [
+      {
+         "club": "Burnley",
+         "nationality": "Wales",
+         "position": "FWD",
+         "shots": 22,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Matej Vydra": [
+      {
+         "club": "Burnley",
+         "nationality": "Czech Republic",
+         "position": "FWD",
+         "shots": 6,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Peter Crouch": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Tom Heaton": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "David Junior Hoilett": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Canada",
+         "position": "FWD",
+         "shots": 40,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Nathaniel Mendez-Laing": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 20,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Oumar Niasse": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "shots": 17,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 35
+      },
+      {
+         "club": "Everton",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Kenneth Zohore": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Denmark",
+         "position": "FWD",
+         "shots": 17,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 47
+      }
+   ],
+   "Danny Ward": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 11,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 55
+      }
+   ],
+   "Rhys Healey": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Eden Hazard": [
+      {
+         "club": "Chelsea",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 93,
+         "shotsOnTarget": 43,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Willian": [
+      {
+         "club": "Chelsea",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "shots": 62,
+         "shotsOnTarget": 22,
+         "shotsOnTargetPercent": 35
+      }
+   ],
+   "Pedro": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 57,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 44
+      }
+   ],
+   "Gonzalo Higuaín": [
+      {
+         "club": "Chelsea",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "shots": 46,
+         "shotsOnTarget": 15,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Álvaro Morata": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 35,
+         "shotsOnTarget": 16,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Olivier Giroud": [
+      {
+         "club": "Chelsea",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 32,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Callum Hudson-Odoi": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 6,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Wilfried Zaha": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Cote D'Ivoire",
+         "position": "FWD",
+         "shots": 73,
+         "shotsOnTarget": 27,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Jordan Ayew": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Ghana",
+         "position": "FWD",
+         "shots": 27,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Michy Batshuayi": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 27,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Christian Benteke": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 26,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Connor Wickham": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Alexander Sørloth": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Norway",
+         "position": "FWD",
+         "shots": 4,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Richarlison": [
+      {
+         "club": "Everton",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "shots": 83,
+         "shotsOnTarget": 29,
+         "shotsOnTargetPercent": 35
+      }
+   ],
+   "Dominic Calvert-Lewin": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 52,
+         "shotsOnTarget": 16,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Theo Walcott": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 43,
+         "shotsOnTarget": 21,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "Cenk Tosun": [
+      {
+         "club": "Everton",
+         "nationality": "Turkey",
+         "position": "FWD",
+         "shots": 37,
+         "shotsOnTarget": 17,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Ademola Lookman": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 12,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Aleksandar Mitrovic": [
+      {
+         "club": "Fulham",
+         "nationality": "Serbia",
+         "position": "FWD",
+         "shots": 131,
+         "shotsOnTarget": 48,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Luciano Vietto": [
+      {
+         "club": "Fulham",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "shots": 24,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Aboubakar Kamara": [
+      {
+         "club": "Fulham",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 21,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 48
+      }
+   ],
+   "Floyd Ayité": [
+      {
+         "club": "Fulham",
+         "nationality": "Togo",
+         "position": "FWD",
+         "shots": 7,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Steve Mounie": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Benin",
+         "position": "FWD",
+         "shots": 61,
+         "shotsOnTarget": 23,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Laurent Depoitre": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 30,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Karlan Grant": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 21,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 57
+      }
+   ],
+   "Elias Kachunga": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "FWD",
+         "shots": 14,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Adama Diakhaby": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 7,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Jamie Vardy": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 79,
+         "shotsOnTarget": 40,
+         "shotsOnTargetPercent": 51
+      }
+   ],
+   "Kelechi Iheanacho": [
+      {
+         "club": "Leicester City",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "shots": 18,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Shinji Okazaki": [
+      {
+         "club": "Leicester City",
+         "nationality": "Japan",
+         "position": "FWD",
+         "shots": 5,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 80
+      }
+   ],
+   "Mohamed Salah": [
+      {
+         "club": "Liverpool",
+         "nationality": "Egypt",
+         "position": "FWD",
+         "shots": 137,
+         "shotsOnTarget": 64,
+         "shotsOnTargetPercent": 47
+      }
+   ],
+   "Sadio Mané": [
+      {
+         "club": "Liverpool",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "shots": 87,
+         "shotsOnTarget": 42,
+         "shotsOnTargetPercent": 48
+      }
+   ],
+   "Roberto Firmino": [
+      {
+         "club": "Liverpool",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "shots": 75,
+         "shotsOnTarget": 34,
+         "shotsOnTargetPercent": 45
+      }
+   ],
+   "Xherdan Shaqiri": [
+      {
+         "club": "Liverpool",
+         "nationality": "Switzerland",
+         "position": "FWD",
+         "shots": 26,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Daniel Sturridge": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 18,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Divock Origi": [
+      {
+         "club": "Liverpool",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 13,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "Sergio Agüero": [
+      {
+         "club": "Manchester City",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "shots": 118,
+         "shotsOnTarget": 43,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Raheem Sterling": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 77,
+         "shotsOnTarget": 39,
+         "shotsOnTargetPercent": 51
+      }
+   ],
+   "Leroy Sané": [
+      {
+         "club": "Manchester City",
+         "nationality": "Germany",
+         "position": "FWD",
+         "shots": 56,
+         "shotsOnTarget": 24,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Gabriel Jesus": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "shots": 43,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 58
+      }
+   ],
+   "Marcus Rashford": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 84,
+         "shotsOnTarget": 40,
+         "shotsOnTargetPercent": 48
+      }
+   ],
+   "Romelu Lukaku": [
+      {
+         "club": "Manchester United",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "shots": 55,
+         "shotsOnTarget": 32,
+         "shotsOnTargetPercent": 58
+      }
+   ],
+   "Anthony Martial": [
+      {
+         "club": "Manchester United",
+         "nationality": "France",
+         "position": "FWD",
+         "shots": 39,
+         "shotsOnTarget": 23,
+         "shotsOnTargetPercent": 59
+      }
+   ],
+   "Alexis Sánchez": [
+      {
+         "club": "Manchester United",
+         "nationality": "Chile",
+         "position": "FWD",
+         "shots": 17,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 53
+      }
+   ],
+   "Mason Greenwood": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 7,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 57
+      }
+   ],
+   "Salomón Rondón": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Venezuela",
+         "position": "FWD",
+         "shots": 89,
+         "shotsOnTarget": 29,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Ayoze Pérez": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 55,
+         "shotsOnTarget": 28,
+         "shotsOnTargetPercent": 51
+      }
+   ],
+   "Joselu": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 17,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Yoshinori Muto": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Japan",
+         "position": "FWD",
+         "shots": 6,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Danny Ings": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 55,
+         "shotsOnTarget": 23,
+         "shotsOnTargetPercent": 42
+      }
+   ],
+   "Charlie Austin": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 32,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 28
+      }
+   ],
+   "Shane Long": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "shots": 30,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Manolo Gabbiadini": [
+      {
+         "club": "Southampton",
+         "nationality": "Italy",
+         "position": "FWD",
+         "shots": 20,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Michael Obafemi": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "shots": 7,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Harry Kane": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 102,
+         "shotsOnTarget": 46,
+         "shotsOnTargetPercent": 45
+      }
+   ],
+   "Son Heung-Min": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "South Korea",
+         "position": "FWD",
+         "shots": 74,
+         "shotsOnTarget": 29,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Fernando Llorente": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 24,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Vincent Janssen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Troy Deeney": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 64,
+         "shotsOnTarget": 30,
+         "shotsOnTargetPercent": 47
+      }
+   ],
+   "Gerard Deulofeu": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 60,
+         "shotsOnTarget": 22,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Andre Gray": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 35,
+         "shotsOnTarget": 17,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "Isaac Success": [
+      {
+         "club": "Watford",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "shots": 29,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 34
+      }
+   ],
+   "Stefano Okaka": [
+      {
+         "club": "Watford",
+         "nationality": "Italy",
+         "position": "FWD",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Marko Arnautovic": [
+      {
+         "club": "West Ham United",
+         "nationality": "Austria",
+         "position": "FWD",
+         "shots": 62,
+         "shotsOnTarget": 32,
+         "shotsOnTargetPercent": 52
+      }
+   ],
+   "Chicharito": [
+      {
+         "club": "West Ham United",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "shots": 37,
+         "shotsOnTarget": 18,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "Andy Carroll": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "FWD",
+         "shots": 14,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Lucas Pérez": [
+      {
+         "club": "West Ham United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 9,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Andriy Yarmolenko": [
+      {
+         "club": "West Ham United",
+         "nationality": "Ukraine",
+         "position": "FWD",
+         "shots": 9,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Xande Silva": [
+      {
+         "club": "West Ham United",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Raúl Jiménez": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "shots": 111,
+         "shotsOnTarget": 35,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Hélder Costa": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "shots": 25,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 28
+      }
+   ],
+   "Adama Traoré": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Spain",
+         "position": "FWD",
+         "shots": 19,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Ivan Cavaleiro": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "shots": 13,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Ryan Fraser": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 51,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "David Brooks": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Wales",
+         "position": "MID",
+         "shots": 41,
+         "shotsOnTarget": 20,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "Junior Stanislas": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 34,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Jefferson Lerma": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Colombia",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 26
+      }
+   ],
+   "Dan Gosling": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 21,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Jordon Ibe": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Andrew Surman": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Lewis Cook": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Henrikh Mkhitaryan": [
+      {
+         "club": "Arsenal",
+         "nationality": "Armenia",
+         "position": "MID",
+         "shots": 49,
+         "shotsOnTarget": 14,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Alex Iwobi": [
+      {
+         "club": "Arsenal",
+         "nationality": "Nigeria",
+         "position": "MID",
+         "shots": 35,
+         "shotsOnTarget": 14,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Aaron Ramsey": [
+      {
+         "club": "Arsenal",
+         "nationality": "Wales",
+         "position": "MID",
+         "shots": 33,
+         "shotsOnTarget": 13,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Granit Xhaka": [
+      {
+         "club": "Arsenal",
+         "nationality": "Switzerland",
+         "position": "MID",
+         "shots": 29,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 41
+      }
+   ],
+   "Lucas Torreira": [
+      {
+         "club": "Arsenal",
+         "nationality": "Uruguay",
+         "position": "MID",
+         "shots": 25,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Matteo Guendouzi": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 16,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Mesut Özil": [
+      {
+         "club": "Arsenal",
+         "nationality": "Germany",
+         "position": "MID",
+         "shots": 11,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 55
+      }
+   ],
+   "Mohamed Elneny": [
+      {
+         "club": "Arsenal",
+         "nationality": "Egypt",
+         "position": "MID",
+         "shots": 7,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Ainsley Maitland-Niles": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 60
+      }
+   ],
+   "Joe Willock": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Solly March": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 43,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Yves Bissouma": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Mali",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 10
+      }
+   ],
+   "Anthony Knockaert": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 27,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Pascal Groß": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Germany",
+         "position": "MID",
+         "shots": 24,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Davy Pröpper": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 15,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Dale Stephens": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 11,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 9
+      }
+   ],
+   "Beram Kayal": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Israel",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Johann Gudmundsson": [
+      {
+         "club": "Burnley",
+         "nationality": "Iceland",
+         "position": "MID",
+         "shots": 33,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Ashley Westwood": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 22,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Jeff Hendrick": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Jack Cork": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 17,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 12
+      }
+   ],
+   "Robbie Brady": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "MID",
+         "shots": 12,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 17
+      }
+   ],
+   "Aaron Lennon": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Josh Murphy": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 46,
+         "shotsOnTarget": 15,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Víctor Camarasa": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 41,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Bobby De Cordova-Reid": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 27,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Harry Arter": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Ireland",
+         "position": "MID",
+         "shots": 23,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Joe Ralls": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 23,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Aron Gunnarsson": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Iceland",
+         "position": "MID",
+         "shots": 20,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Leandro Bacuna": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Curacao",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Kadeem Harris": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 60
+      }
+   ],
+   "Loïc Damour": [
+      {
+         "club": "Cardiff City",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Ross Barkley": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 41,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "N'Golo Kanté": [
+      {
+         "club": "Chelsea",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 29,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Mateo Kovacic": [
+      {
+         "club": "Chelsea",
+         "nationality": "Croatia",
+         "position": "MID",
+         "shots": 28,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Ruben Loftus-Cheek": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 28,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Jorginho": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Cesc Fàbregas": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Andros Townsend": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 63,
+         "shotsOnTarget": 19,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Luka Milivojevic": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Serbia",
+         "position": "MID",
+         "shots": 57,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 44
+      }
+   ],
+   "Max Meyer": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Germany",
+         "position": "MID",
+         "shots": 38,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "James McArthur": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 34,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Cheikhou Kouyaté": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Senegal",
+         "position": "MID",
+         "shots": 20,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Aaron Wan-Bissaka": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Gylfi Sigurdsson": [
+      {
+         "club": "Everton",
+         "nationality": "Iceland",
+         "position": "MID",
+         "shots": 86,
+         "shotsOnTarget": 34,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Bernard": [
+      {
+         "club": "Everton",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 23,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "André Gomes": [
+      {
+         "club": "Everton",
+         "nationality": "Portugal",
+         "position": "MID",
+         "shots": 21,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Idrissa Gueye": [
+      {
+         "club": "Everton",
+         "nationality": "Senegal",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Tom Davies": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 7,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Morgan Schneiderlin": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "André Schürrle": [
+      {
+         "club": "Fulham",
+         "nationality": "Germany",
+         "position": "MID",
+         "shots": 55,
+         "shotsOnTarget": 18,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Ryan Sessegnon": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 28,
+         "shotsOnTarget": 11,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Ryan Babel": [
+      {
+         "club": "Fulham",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 27,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Tom Cairney": [
+      {
+         "club": "Fulham",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 24,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "André-Frank Zambo Anguissa": [
+      {
+         "club": "Fulham",
+         "nationality": "Cameroon",
+         "position": "MID",
+         "shots": 21,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Jean Michael Seri": [
+      {
+         "club": "Fulham",
+         "nationality": "Cote D'Ivoire",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Kevin McDonald": [
+      {
+         "club": "Fulham",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Harvey Elliott": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Stefan Johansen": [
+      {
+         "club": "Fulham",
+         "nationality": "Norway",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Alex Pritchard": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 47,
+         "shotsOnTarget": 13,
+         "shotsOnTargetPercent": 28
+      }
+   ],
+   "Aaron Mooy": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Australia",
+         "position": "MID",
+         "shots": 43,
+         "shotsOnTarget": 14,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Philip Billing": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Denmark",
+         "position": "MID",
+         "shots": 42,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Juninho Bacuna": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 42
+      }
+   ],
+   "Isaac Mbenza": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 16,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Jonathan Hogg": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 8,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Jason Puncheon": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 6,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Rajiv van La Parra": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Danny Williams": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "United States",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "James Maddison": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 83,
+         "shotsOnTarget": 28,
+         "shotsOnTargetPercent": 34
+      }
+   ],
+   "Wilfred Ndidi": [
+      {
+         "club": "Leicester City",
+         "nationality": "Nigeria",
+         "position": "MID",
+         "shots": 55,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 16
+      }
+   ],
+   "Demarai Gray": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 47,
+         "shotsOnTarget": 19,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Harvey Barnes": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 40,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Youri Tielemans": [
+      {
+         "club": "Leicester City",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Marc Albrighton": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Rachid Ghezzal": [
+      {
+         "club": "Leicester City",
+         "nationality": "Algeria",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 26
+      }
+   ],
+   "Daniel Amartey": [
+      {
+         "club": "Leicester City",
+         "nationality": "Ghana",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Hamza Choudhury": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Vicente Iborra": [
+      {
+         "club": "Leicester City",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Nampalys Mendy": [
+      {
+         "club": "Leicester City",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Georginio Wijnaldum": [
+      {
+         "club": "Liverpool",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 30,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Naby Keita": [
+      {
+         "club": "Liverpool",
+         "nationality": "Guinea",
+         "position": "MID",
+         "shots": 27,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "James Milner": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 24,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Fabinho": [
+      {
+         "club": "Liverpool",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 17,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Jordan Henderson": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 16,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 6
+      }
+   ],
+   "Adam Lallana": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Alex Oxlade-Chamberlain": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Bernardo Silva": [
+      {
+         "club": "Manchester City",
+         "nationality": "Portugal",
+         "position": "MID",
+         "shots": 62,
+         "shotsOnTarget": 22,
+         "shotsOnTargetPercent": 35
+      }
+   ],
+   "Riyad Mahrez": [
+      {
+         "club": "Manchester City",
+         "nationality": "Algeria",
+         "position": "MID",
+         "shots": 54,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 46
+      }
+   ],
+   "David Silva": [
+      {
+         "club": "Manchester City",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 51,
+         "shotsOnTarget": 20,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Ilkay Gündogan": [
+      {
+         "club": "Manchester City",
+         "nationality": "Germany",
+         "position": "MID",
+         "shots": 43,
+         "shotsOnTarget": 11,
+         "shotsOnTargetPercent": 26
+      }
+   ],
+   "Kevin De Bruyne": [
+      {
+         "club": "Manchester City",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Fernandinho": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 30,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Phil Foden": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 14,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Oleksandr Zinchenko": [
+      {
+         "club": "Manchester City",
+         "nationality": "Ukraine",
+         "position": "MID",
+         "shots": 7,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Paul Pogba": [
+      {
+         "club": "Manchester United",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 105,
+         "shotsOnTarget": 50,
+         "shotsOnTargetPercent": 48
+      }
+   ],
+   "Jesse Lingard": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 32,
+         "shotsOnTarget": 14,
+         "shotsOnTargetPercent": 44
+      }
+   ],
+   "Ander Herrera": [
+      {
+         "club": "Manchester United",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 21,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Juan Mata": [
+      {
+         "club": "Manchester United",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Fred": [
+      {
+         "club": "Manchester United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 17,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 12
+      }
+   ],
+   "Scott McTominay": [
+      {
+         "club": "Manchester United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 15,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Nemanja Matic": [
+      {
+         "club": "Manchester United",
+         "nationality": "Serbia",
+         "position": "MID",
+         "shots": 12,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Andreas Pereira": [
+      {
+         "club": "Manchester United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 8,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Marouane Fellaini": [
+      {
+         "club": "Manchester United",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 7,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Tahith Chong": [
+      {
+         "club": "Manchester United",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Angel Gomes": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Matt Ritchie": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 41,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Kenedy": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 19
+      }
+   ],
+   "Christian Atsu": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Ghana",
+         "position": "MID",
+         "shots": 28,
+         "shotsOnTarget": 14,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Jonjo Shelvey": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 23,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 35
+      }
+   ],
+   "Isaac Hayden": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 22,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Mohamed Diamé": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Senegal",
+         "position": "MID",
+         "shots": 20,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 15
+      }
+   ],
+   "Miguel Almirón": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Paraguay",
+         "position": "MID",
+         "shots": 19,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 42
+      }
+   ],
+   "Ki Sung-yueng": [
+      {
+         "club": "Newcastle United",
+         "nationality": "South Korea",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Sean Longstaff": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 8,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Jacob Murphy": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Nathan Redmond": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 74,
+         "shotsOnTarget": 22,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Pierre-Emile Højbjerg": [
+      {
+         "club": "Southampton",
+         "nationality": "Denmark",
+         "position": "MID",
+         "shots": 53,
+         "shotsOnTarget": 19,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Stuart Armstrong": [
+      {
+         "club": "Southampton",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 32,
+         "shotsOnTarget": 12,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "James Ward-Prowse": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 16,
+         "shotsOnTargetPercent": 52
+      }
+   ],
+   "Mario Lemina": [
+      {
+         "club": "Southampton",
+         "nationality": "Gabon",
+         "position": "MID",
+         "shots": 25,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Mohamed Elyounoussi": [
+      {
+         "club": "Southampton",
+         "nationality": "Norway",
+         "position": "MID",
+         "shots": 20,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Oriol Romeu": [
+      {
+         "club": "Southampton",
+         "nationality": "Spain",
+         "position": "MID",
+         "shots": 10,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Josh Sims": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Callum Slattery": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Christian Eriksen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Denmark",
+         "position": "MID",
+         "shots": 83,
+         "shotsOnTarget": 30,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Lucas Moura": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 45,
+         "shotsOnTarget": 20,
+         "shotsOnTargetPercent": 44
+      }
+   ],
+   "Dele Alli": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 39,
+         "shotsOnTarget": 19,
+         "shotsOnTargetPercent": 49
+      }
+   ],
+   "Erik Lamela": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Argentina",
+         "position": "MID",
+         "shots": 29,
+         "shotsOnTarget": 11,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Moussa Sissoko": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 15,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Eric Dier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Harry Winks": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Victor Wanyama": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Kenya",
+         "position": "MID",
+         "shots": 7,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Oliver Skipp": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Mousa Dembélé": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Roberto Pereyra": [
+      {
+         "club": "Watford",
+         "nationality": "Argentina",
+         "position": "MID",
+         "shots": 57,
+         "shotsOnTarget": 21,
+         "shotsOnTargetPercent": 37
+      }
+   ],
+   "Abdoulaye Doucouré": [
+      {
+         "club": "Watford",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 52,
+         "shotsOnTarget": 17,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Will Hughes": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 31,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Etienne Capoue": [
+      {
+         "club": "Watford",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 18,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Ken Sema": [
+      {
+         "club": "Watford",
+         "nationality": "Sweden",
+         "position": "MID",
+         "shots": 12,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Domingos Quina": [
+      {
+         "club": "Watford",
+         "nationality": "Portugal",
+         "position": "MID",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Tom Cleverley": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 4,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Nathaniel Chalobah": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Michail Antonio": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 65,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Felipe Anderson": [
+      {
+         "club": "West Ham United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 58,
+         "shotsOnTarget": 25,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Robert Snodgrass": [
+      {
+         "club": "West Ham United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "shots": 30,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Declan Rice": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 22,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Mark Noble": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 17,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 47
+      }
+   ],
+   "Pedro Obiang": [
+      {
+         "club": "West Ham United",
+         "nationality": "Equatorial Guinea",
+         "position": "MID",
+         "shots": 15,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 7
+      }
+   ],
+   "Manuel Lanzini": [
+      {
+         "club": "West Ham United",
+         "nationality": "Argentina",
+         "position": "MID",
+         "shots": 11,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Grady Diangana": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 10,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Samir Nasri": [
+      {
+         "club": "West Ham United",
+         "nationality": "France",
+         "position": "MID",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Carlos Sánchez": [
+      {
+         "club": "West Ham United",
+         "nationality": "Colombia",
+         "position": "MID",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Jack Wilshere": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Diogo Jota": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "shots": 58,
+         "shotsOnTarget": 24,
+         "shotsOnTargetPercent": 41
+      }
+   ],
+   "João Moutinho": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "shots": 18,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 17
+      }
+   ],
+   "Leander Dendoncker": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Belgium",
+         "position": "MID",
+         "shots": 17,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 59
+      }
+   ],
+   "Romain Saïss": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Morocco",
+         "position": "MID",
+         "shots": 11,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 45
+      }
+   ],
+   "Léo Bonatini": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Brazil",
+         "position": "MID",
+         "shots": 9,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Morgan Gibbs-White": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "England",
+         "position": "MID",
+         "shots": 8,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Nathan Aké": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 25,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Steve Cook": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 21,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Charlie Daniels": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 12,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Diego Rico": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 9,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Adam Smith": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Simon Francis": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Nathaniel Clyne": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      },
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Chris Mepham": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Wales",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Jack Simpson": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Héctor Bellerín": [
+      {
+         "club": "Arsenal",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 18,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Shkodran Mustafi": [
+      {
+         "club": "Arsenal",
+         "nationality": "Germany",
+         "position": "DEF",
+         "shots": 18,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Sokratis": [
+      {
+         "club": "Arsenal",
+         "nationality": "Greece",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 18
+      }
+   ],
+   "Sead Kolasinac": [
+      {
+         "club": "Arsenal",
+         "nationality": "Bosnia And Herzegovina",
+         "position": "DEF",
+         "shots": 9,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Nacho Monreal": [
+      {
+         "club": "Arsenal",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 57
+      }
+   ],
+   "Laurent Koscielny": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 80
+      }
+   ],
+   "Rob Holding": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Konstantinos Mavropanos": [
+      {
+         "club": "Arsenal",
+         "nationality": "Greece",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Stephan Lichtsteiner": [
+      {
+         "club": "Arsenal",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Shane Duffy": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 37,
+         "shotsOnTarget": 16,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Lewis Dunk": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 20,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Bernardo": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Martín Montoya": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Gaëtan Bong": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Cameroon",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Bruno": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Leon Balogun": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Nigeria",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "James Tarkowski": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 22,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 45
+      }
+   ],
+   "Ben Mee": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 21,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 19
+      }
+   ],
+   "Phil Bardsley": [
+      {
+         "club": "Burnley",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "shots": 12,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 8
+      }
+   ],
+   "Charlie Taylor": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Matthew Lowton": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Ben Gibson": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Kevin Long": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Stephen Ward": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Callum Paterson": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "shots": 41,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Sean Morrison": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 34,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Sol Bamba": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "shots": 22,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Joe Bennett": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 10,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Bruno Ecuele Manga": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Gabon",
+         "position": "DEF",
+         "shots": 10,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Greg Cunningham": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Lee Peltier": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Marcos Alonso": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 45,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 16
+      }
+   ],
+   "David Luiz": [
+      {
+         "club": "Chelsea",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "shots": 34,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Antonio Rüdiger": [
+      {
+         "club": "Chelsea",
+         "nationality": "Germany",
+         "position": "DEF",
+         "shots": 27,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "César Azpilicueta": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 17,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 41
+      }
+   ],
+   "Emerson": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Davide Zappacosta": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Patrick van Aanholt": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 45,
+         "shotsOnTarget": 11,
+         "shotsOnTargetPercent": 24
+      }
+   ],
+   "Jeffrey Schlupp": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Ghana",
+         "position": "DEF",
+         "shots": 28,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "James Tomkins": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 22,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Scott Dann": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 17
+      }
+   ],
+   "Mamadou Sakho": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Martin Kelly": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Joel Ward": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Lucas Digne": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 34,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Michael Keane": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 31,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Kurt Zouma": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 19,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 16
+      }
+   ],
+   "Seamus Coleman": [
+      {
+         "club": "Everton",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 47
+      }
+   ],
+   "Yerry Mina": [
+      {
+         "club": "Everton",
+         "nationality": "Colombia",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Jonjoe Kenny": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Leighton Baines": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Phil Jagielka": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Calum Chambers": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 35,
+         "shotsOnTarget": 11,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Joe Bryan": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 21,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Cyrus Christie": [
+      {
+         "club": "Fulham",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 12,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Denis Odoi": [
+      {
+         "club": "Fulham",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "shots": 10,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 10
+      }
+   ],
+   "Maxime Le Marchand": [
+      {
+         "club": "Fulham",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Timothy Fosu-Mensah": [
+      {
+         "club": "Fulham",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Alfie Mawson": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Neeskens Kebano": [
+      {
+         "club": "Fulham",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Tim Ream": [
+      {
+         "club": "Fulham",
+         "nationality": "United States",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Chris Löwe": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "shots": 18,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Terence Kongolo": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Christopher Schindler": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "shots": 13,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Erik Durm": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "shots": 9,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Jon Gorenc Stankovic": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Slovenia",
+         "position": "DEF",
+         "shots": 9,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Zanka": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Denmark",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Florent Hadergjonaj": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Tommy Smith": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Harry Maguire": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 30,
+         "shotsOnTarget": 13,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Ricardo Pereira": [
+      {
+         "club": "Leicester City",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "shots": 25,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Ben Chilwell": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 22,
+         "shotsOnTarget": 10,
+         "shotsOnTargetPercent": 45
+      }
+   ],
+   "Wes Morgan": [
+      {
+         "club": "Leicester City",
+         "nationality": "Jamaica",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Jonny Evans": [
+      {
+         "club": "Leicester City",
+         "nationality": "Northern Ireland",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Christian Fuchs": [
+      {
+         "club": "Leicester City",
+         "nationality": "Austria",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Çaglar Söyüncü": [
+      {
+         "club": "Leicester City",
+         "nationality": "Turkey",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Virgil van Dijk": [
+      {
+         "club": "Liverpool",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 31,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 26
+      }
+   ],
+   "Trent Alexander-Arnold": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 29,
+         "shotsOnTarget": 9,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Andrew Robertson": [
+      {
+         "club": "Liverpool",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "shots": 16,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 31
+      }
+   ],
+   "Joel Matip": [
+      {
+         "club": "Liverpool",
+         "nationality": "Cameroon",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Dejan Lovren": [
+      {
+         "club": "Liverpool",
+         "nationality": "Croatia",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 17
+      }
+   ],
+   "Joseph Gomez": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Alberto Moreno": [
+      {
+         "club": "Liverpool",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Aymeric Laporte": [
+      {
+         "club": "Manchester City",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 26,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Kyle Walker": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 21,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 19
+      }
+   ],
+   "Nicolás Otamendi": [
+      {
+         "club": "Manchester City",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Danilo": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Benjamin Mendy": [
+      {
+         "club": "Manchester City",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Vincent Kompany": [
+      {
+         "club": "Manchester City",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "John Stones": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Fabian Delph": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 75
+      }
+   ],
+   "Luke Shaw": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 21,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Diogo Dalot": [
+      {
+         "club": "Manchester United",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Ashley Young": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 12,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Chris Smalling": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 18
+      }
+   ],
+   "Victor Lindelöf": [
+      {
+         "club": "Manchester United",
+         "nationality": "Sweden",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Marcos Rojo": [
+      {
+         "club": "Manchester United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 67
+      }
+   ],
+   "Phil Jones": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Eric Bailly": [
+      {
+         "club": "Manchester United",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Antonio Valencia": [
+      {
+         "club": "Manchester United",
+         "nationality": "Ecuador",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Matteo Darmian": [
+      {
+         "club": "Manchester United",
+         "nationality": "Italy",
+         "position": "DEF",
+         "shots": 1,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 100
+      }
+   ],
+   "Fabian Schär": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "shots": 25,
+         "shotsOnTarget": 7,
+         "shotsOnTargetPercent": 28
+      }
+   ],
+   "Jamaal Lascelles": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 9
+      }
+   ],
+   "DeAndre Yedlin": [
+      {
+         "club": "Newcastle United",
+         "nationality": "United States",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 18
+      }
+   ],
+   "Paul Dummett": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Wales",
+         "position": "DEF",
+         "shots": 9,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Ciaran Clark": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 43
+      }
+   ],
+   "Florian Lejeune": [
+      {
+         "club": "Newcastle United",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Federico Fernández": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Javier Manquillo": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 50
+      }
+   ],
+   "Ryan Bertrand": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 16,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Jannik Vestergaard": [
+      {
+         "club": "Southampton",
+         "nationality": "Denmark",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 7
+      }
+   ],
+   "Maya Yoshida": [
+      {
+         "club": "Southampton",
+         "nationality": "Japan",
+         "position": "DEF",
+         "shots": 13,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 23
+      }
+   ],
+   "Matt Targett": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Cédric Soares": [
+      {
+         "club": "Southampton",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "shots": 10,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 30
+      }
+   ],
+   "Jack Stephens": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 71
+      }
+   ],
+   "Wesley Hoedt": [
+      {
+         "club": "Southampton",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 17
+      }
+   ],
+   "Yan Valery": [
+      {
+         "club": "Southampton",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 83
+      }
+   ],
+   "Jan Bednarek": [
+      {
+         "club": "Southampton",
+         "nationality": "Poland",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 20
+      }
+   ],
+   "Toby Alderweireld": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "shots": 19,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 26
+      }
+   ],
+   "Danny Rose": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Jan Vertonghen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 13
+      }
+   ],
+   "Ben Davies": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Wales",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 7
+      }
+   ],
+   "Davinson Sánchez": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Colombia",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 21
+      }
+   ],
+   "Kieran Trippier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Serge Aurier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Juan Foyth": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Kyle Walker-Peters": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 2,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "José Holebas": [
+      {
+         "club": "Watford",
+         "nationality": "Greece",
+         "position": "DEF",
+         "shots": 17,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 29
+      }
+   ],
+   "Craig Cathcart": [
+      {
+         "club": "Watford",
+         "nationality": "Northern Ireland",
+         "position": "DEF",
+         "shots": 13,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 38
+      }
+   ],
+   "Daryl Janmaat": [
+      {
+         "club": "Watford",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 9
+      }
+   ],
+   "Christian Kabasele": [
+      {
+         "club": "Watford",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "shots": 8,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Adrian Mariappa": [
+      {
+         "club": "Watford",
+         "nationality": "Jamaica",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Kiko Femenía": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 6,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 33
+      }
+   ],
+   "Adam Masina": [
+      {
+         "club": "Watford",
+         "nationality": "Italy",
+         "position": "DEF",
+         "shots": 3,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Fabián Balbuena": [
+      {
+         "club": "West Ham United",
+         "nationality": "Paraguay",
+         "position": "DEF",
+         "shots": 19,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 11
+      }
+   ],
+   "Angelo Ogbonna": [
+      {
+         "club": "West Ham United",
+         "nationality": "Italy",
+         "position": "DEF",
+         "shots": 14,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 36
+      }
+   ],
+   "Issa Diop": [
+      {
+         "club": "West Ham United",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 12,
+         "shotsOnTarget": 5,
+         "shotsOnTargetPercent": 42
+      }
+   ],
+   "Aaron Cresswell": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 11,
+         "shotsOnTarget": 0,
+         "shotsOnTargetPercent": 0
+      }
+   ],
+   "Pablo Zabaleta": [
+      {
+         "club": "West Ham United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "shots": 7,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 14
+      }
+   ],
+   "Ryan Fredericks": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 5,
+         "shotsOnTarget": 2,
+         "shotsOnTargetPercent": 40
+      }
+   ],
+   "Arthur Masuaku": [
+      {
+         "club": "West Ham United",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 1,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Rúben Neves": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "shots": 74,
+         "shotsOnTarget": 16,
+         "shotsOnTargetPercent": 22
+      }
+   ],
+   "Matt Doherty": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "shots": 46,
+         "shotsOnTarget": 18,
+         "shotsOnTargetPercent": 39
+      }
+   ],
+   "Jonny": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Spain",
+         "position": "DEF",
+         "shots": 25,
+         "shotsOnTarget": 8,
+         "shotsOnTargetPercent": 32
+      }
+   ],
+   "Willy Boly": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "France",
+         "position": "DEF",
+         "shots": 24,
+         "shotsOnTarget": 6,
+         "shotsOnTargetPercent": 25
+      }
+   ],
+   "Ryan Bennett": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "England",
+         "position": "DEF",
+         "shots": 15,
+         "shotsOnTarget": 4,
+         "shotsOnTargetPercent": 27
+      }
+   ],
+   "Rúben Vinagre": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "shots": 4,
+         "shotsOnTarget": 3,
+         "shotsOnTargetPercent": 75
+      }
+   ]
+}
