@@ -1,0 +1,1488 @@
+{
+   "Ryan Fraser": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 3171
+      }
+   ],
+   "Jefferson Lerma": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Colombia",
+         "position": "MID",
+         "minutesPlayed": 2510
+      }
+   ],
+   "David Brooks": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Wales",
+         "position": "MID",
+         "minutesPlayed": 2276
+      }
+   ],
+   "Dan Gosling": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1738
+      }
+   ],
+   "Andrew Surman": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1439
+      }
+   ],
+   "Junior Stanislas": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1025
+      }
+   ],
+   "Jordon Ibe": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 796
+      }
+   ],
+   "Lewis Cook": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 722
+      }
+   ],
+   "Emerson Hyndman": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "United States",
+         "position": "MID",
+         "minutesPlayed": 37
+      }
+   ],
+   "Granit Xhaka": [
+      {
+         "club": "Arsenal",
+         "nationality": "Switzerland",
+         "position": "MID",
+         "minutesPlayed": 2501
+      }
+   ],
+   "Lucas Torreira": [
+      {
+         "club": "Arsenal",
+         "nationality": "Uruguay",
+         "position": "MID",
+         "minutesPlayed": 2379
+      }
+   ],
+   "Matteo Guendouzi": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 2142
+      }
+   ],
+   "Alex Iwobi": [
+      {
+         "club": "Arsenal",
+         "nationality": "Nigeria",
+         "position": "MID",
+         "minutesPlayed": 1972
+      }
+   ],
+   "Mesut Özil": [
+      {
+         "club": "Arsenal",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 1741
+      }
+   ],
+   "Henrikh Mkhitaryan": [
+      {
+         "club": "Arsenal",
+         "nationality": "Armenia",
+         "position": "MID",
+         "minutesPlayed": 1644
+      }
+   ],
+   "Aaron Ramsey": [
+      {
+         "club": "Arsenal",
+         "nationality": "Wales",
+         "position": "MID",
+         "minutesPlayed": 1328
+      }
+   ],
+   "Ainsley Maitland-Niles": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 986
+      }
+   ],
+   "Mohamed Elneny": [
+      {
+         "club": "Arsenal",
+         "nationality": "Egypt",
+         "position": "MID",
+         "minutesPlayed": 379
+      }
+   ],
+   "Denis Suárez": [
+      {
+         "club": "Arsenal",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 67
+      }
+   ],
+   "Joe Willock": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 64
+      }
+   ],
+   "Davy Pröpper": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "minutesPlayed": 2551
+      }
+   ],
+   "Dale Stephens": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2487
+      }
+   ],
+   "Solly March": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2474
+      }
+   ],
+   "Pascal Groß": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 1876
+      }
+   ],
+   "Anthony Knockaert": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 1833
+      }
+   ],
+   "Yves Bissouma": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Mali",
+         "position": "MID",
+         "minutesPlayed": 1768
+      }
+   ],
+   "Beram Kayal": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Israel",
+         "position": "MID",
+         "minutesPlayed": 937
+      }
+   ],
+   "Jack Cork": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 3313
+      }
+   ],
+   "Ashley Westwood": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2822
+      }
+   ],
+   "Jeff Hendrick": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "MID",
+         "minutesPlayed": 2070
+      }
+   ],
+   "Johann Gudmundsson": [
+      {
+         "club": "Burnley",
+         "nationality": "Iceland",
+         "position": "MID",
+         "minutesPlayed": 1749
+      }
+   ],
+   "Aaron Lennon": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1215
+      }
+   ],
+   "Robbie Brady": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "MID",
+         "minutesPlayed": 715
+      }
+   ],
+   "Steven Defour": [
+      {
+         "club": "Burnley",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 452
+      }
+   ],
+   "Víctor Camarasa": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 2578
+      }
+   ],
+   "Aron Gunnarsson": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Iceland",
+         "position": "MID",
+         "minutesPlayed": 2275
+      }
+   ],
+   "Harry Arter": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Ireland",
+         "position": "MID",
+         "minutesPlayed": 2006
+      }
+   ],
+   "Joe Ralls": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1960
+      }
+   ],
+   "Josh Murphy": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1822
+      }
+   ],
+   "Bobby De Cordova-Reid": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1422
+      }
+   ],
+   "Leandro Bacuna": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Curacao",
+         "position": "MID",
+         "minutesPlayed": 554
+      }
+   ],
+   "Kadeem Harris": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 366
+      }
+   ],
+   "Loïc Damour": [
+      {
+         "club": "Cardiff City",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 21
+      }
+   ],
+   "Jorginho": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "MID",
+         "minutesPlayed": 3165
+      }
+   ],
+   "N'Golo Kanté": [
+      {
+         "club": "Chelsea",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 3095
+      }
+   ],
+   "Mateo Kovacic": [
+      {
+         "club": "Chelsea",
+         "nationality": "Croatia",
+         "position": "MID",
+         "minutesPlayed": 1744
+      }
+   ],
+   "Ross Barkley": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1241
+      }
+   ],
+   "Ruben Loftus-Cheek": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 983
+      }
+   ],
+   "Cesc Fàbregas": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 175
+      }
+   ],
+   "Victor Moses": [
+      {
+         "club": "Chelsea",
+         "nationality": "Nigeria",
+         "position": "MID",
+         "minutesPlayed": 26
+      }
+   ],
+   "Luka Milivojevic": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Serbia",
+         "position": "MID",
+         "minutesPlayed": 3420
+      }
+   ],
+   "Aaron Wan-Bissaka": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 3135
+      }
+   ],
+   "James McArthur": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 3072
+      }
+   ],
+   "Andros Townsend": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 3016
+      }
+   ],
+   "Cheikhou Kouyaté": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Senegal",
+         "position": "MID",
+         "minutesPlayed": 1897
+      }
+   ],
+   "Max Meyer": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 1410
+      }
+   ],
+   "Bakary Sako": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Mali",
+         "position": "MID",
+         "minutesPlayed": 26
+      }
+   ],
+   "Jason Puncheon": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 11
+      },
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 383
+      }
+   ],
+   "Luke Dreher": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1
+      }
+   ],
+   "Gylfi Sigurdsson": [
+      {
+         "club": "Everton",
+         "nationality": "Iceland",
+         "position": "MID",
+         "minutesPlayed": 3127
+      }
+   ],
+   "Idrissa Gueye": [
+      {
+         "club": "Everton",
+         "nationality": "Senegal",
+         "position": "MID",
+         "minutesPlayed": 2825
+      }
+   ],
+   "Bernard": [
+      {
+         "club": "Everton",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 2127
+      }
+   ],
+   "André Gomes": [
+      {
+         "club": "Everton",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 1986
+      }
+   ],
+   "Tom Davies": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 976
+      }
+   ],
+   "Morgan Schneiderlin": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 835
+      }
+   ],
+   "James McCarthy": [
+      {
+         "club": "Everton",
+         "nationality": "Ireland",
+         "position": "MID",
+         "minutesPlayed": 14
+      }
+   ],
+   "Ryan Sessegnon": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2294
+      }
+   ],
+   "Jean Michael Seri": [
+      {
+         "club": "Fulham",
+         "nationality": "Cote D'Ivoire",
+         "position": "MID",
+         "minutesPlayed": 2250
+      }
+   ],
+   "Tom Cairney": [
+      {
+         "club": "Fulham",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 2198
+      }
+   ],
+   "André Schürrle": [
+      {
+         "club": "Fulham",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 1649
+      }
+   ],
+   "André-Frank Zambo Anguissa": [
+      {
+         "club": "Fulham",
+         "nationality": "Cameroon",
+         "position": "MID",
+         "minutesPlayed": 1519
+      }
+   ],
+   "Ryan Babel": [
+      {
+         "club": "Fulham",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "minutesPlayed": 1260
+      }
+   ],
+   "Kevin McDonald": [
+      {
+         "club": "Fulham",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 842
+      }
+   ],
+   "Stefan Johansen": [
+      {
+         "club": "Fulham",
+         "nationality": "Norway",
+         "position": "MID",
+         "minutesPlayed": 411
+      }
+   ],
+   "Ibrahima Cissé": [
+      {
+         "club": "Fulham",
+         "nationality": "Guinea",
+         "position": "MID",
+         "minutesPlayed": 87
+      }
+   ],
+   "Lazar Markovic": [
+      {
+         "club": "Fulham",
+         "nationality": "Serbia",
+         "position": "MID",
+         "minutesPlayed": 45
+      }
+   ],
+   "Harvey Elliott": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 18
+      }
+   ],
+   "Jonathan Hogg": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2375
+      }
+   ],
+   "Aaron Mooy": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Australia",
+         "position": "MID",
+         "minutesPlayed": 2327
+      }
+   ],
+   "Philip Billing": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Denmark",
+         "position": "MID",
+         "minutesPlayed": 2190
+      }
+   ],
+   "Alex Pritchard": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2089
+      }
+   ],
+   "Juninho Bacuna": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "minutesPlayed": 1415
+      }
+   ],
+   "Isaac Mbenza": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 982
+      }
+   ],
+   "Rajiv van La Parra": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "minutesPlayed": 407
+      }
+   ],
+   "Danny Williams": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "United States",
+         "position": "MID",
+         "minutesPlayed": 95
+      }
+   ],
+   "Ramadan Sobhi": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Egypt",
+         "position": "MID",
+         "minutesPlayed": 75
+      }
+   ],
+   "Matty Daly": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 73
+      }
+   ],
+   "Aaron Rowe": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 69
+      }
+   ],
+   "Abdelhamid Sabiri": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 48
+      }
+   ],
+   "Wilfred Ndidi": [
+      {
+         "club": "Leicester City",
+         "nationality": "Nigeria",
+         "position": "MID",
+         "minutesPlayed": 3298
+      }
+   ],
+   "James Maddison": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2848
+      }
+   ],
+   "Nampalys Mendy": [
+      {
+         "club": "Leicester City",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 2088
+      }
+   ],
+   "Demarai Gray": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1996
+      }
+   ],
+   "Marc Albrighton": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1626
+      }
+   ],
+   "Youri Tielemans": [
+      {
+         "club": "Leicester City",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 1091
+      }
+   ],
+   "Harvey Barnes": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1009
+      }
+   ],
+   "Rachid Ghezzal": [
+      {
+         "club": "Leicester City",
+         "nationality": "Algeria",
+         "position": "MID",
+         "minutesPlayed": 735
+      }
+   ],
+   "Daniel Amartey": [
+      {
+         "club": "Leicester City",
+         "nationality": "Ghana",
+         "position": "MID",
+         "minutesPlayed": 639
+      }
+   ],
+   "Hamza Choudhury": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 596
+      }
+   ],
+   "Vicente Iborra": [
+      {
+         "club": "Leicester City",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 226
+      }
+   ],
+   "Adrien Silva": [
+      {
+         "club": "Leicester City",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 88
+      }
+   ],
+   "Fousseni Diabaté": [
+      {
+         "club": "Leicester City",
+         "nationality": "Mali",
+         "position": "MID",
+         "minutesPlayed": 55
+      }
+   ],
+   "Georginio Wijnaldum": [
+      {
+         "club": "Liverpool",
+         "nationality": "Netherlands",
+         "position": "MID",
+         "minutesPlayed": 2736
+      }
+   ],
+   "Fabinho": [
+      {
+         "club": "Liverpool",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 2012
+      }
+   ],
+   "Jordan Henderson": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1982
+      }
+   ],
+   "James Milner": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1786
+      }
+   ],
+   "Naby Keita": [
+      {
+         "club": "Liverpool",
+         "nationality": "Guinea",
+         "position": "MID",
+         "minutesPlayed": 1394
+      }
+   ],
+   "Adam Lallana": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 465
+      }
+   ],
+   "Bernardo Silva": [
+      {
+         "club": "Manchester City",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 2853
+      }
+   ],
+   "David Silva": [
+      {
+         "club": "Manchester City",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 2409
+      }
+   ],
+   "Fernandinho": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 2381
+      }
+   ],
+   "Ilkay Gündogan": [
+      {
+         "club": "Manchester City",
+         "nationality": "Germany",
+         "position": "MID",
+         "minutesPlayed": 2135
+      }
+   ],
+   "Riyad Mahrez": [
+      {
+         "club": "Manchester City",
+         "nationality": "Algeria",
+         "position": "MID",
+         "minutesPlayed": 1337
+      }
+   ],
+   "Oleksandr Zinchenko": [
+      {
+         "club": "Manchester City",
+         "nationality": "Ukraine",
+         "position": "MID",
+         "minutesPlayed": 1153
+      }
+   ],
+   "Kevin De Bruyne": [
+      {
+         "club": "Manchester City",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 974
+      }
+   ],
+   "Phil Foden": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 329
+      }
+   ],
+   "Paul Pogba": [
+      {
+         "club": "Manchester United",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 3009
+      }
+   ],
+   "Nemanja Matic": [
+      {
+         "club": "Manchester United",
+         "nationality": "Serbia",
+         "position": "MID",
+         "minutesPlayed": 2440
+      }
+   ],
+   "Jesse Lingard": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1669
+      }
+   ],
+   "Ander Herrera": [
+      {
+         "club": "Manchester United",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 1404
+      }
+   ],
+   "Juan Mata": [
+      {
+         "club": "Manchester United",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 1293
+      }
+   ],
+   "Fred": [
+      {
+         "club": "Manchester United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 1042
+      }
+   ],
+   "Scott McTominay": [
+      {
+         "club": "Manchester United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 862
+      }
+   ],
+   "Marouane Fellaini": [
+      {
+         "club": "Manchester United",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 746
+      }
+   ],
+   "Andreas Pereira": [
+      {
+         "club": "Manchester United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 594
+      }
+   ],
+   "Matt Ritchie": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 2939
+      }
+   ],
+   "Mohamed Diamé": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Senegal",
+         "position": "MID",
+         "minutesPlayed": 2166
+      }
+   ],
+   "Isaac Hayden": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1864
+      }
+   ],
+   "Christian Atsu": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Ghana",
+         "position": "MID",
+         "minutesPlayed": 1488
+      }
+   ],
+   "Kenedy": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 1343
+      }
+   ],
+   "Ki Sung-yueng": [
+      {
+         "club": "Newcastle United",
+         "nationality": "South Korea",
+         "position": "MID",
+         "minutesPlayed": 1302
+      }
+   ],
+   "Jonjo Shelvey": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 944
+      }
+   ],
+   "Miguel Almirón": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Paraguay",
+         "position": "MID",
+         "minutesPlayed": 763
+      }
+   ],
+   "Sean Longstaff": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 687
+      }
+   ],
+   "Jacob Murphy": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 300
+      }
+   ],
+   "Nathan Redmond": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 3275
+      }
+   ],
+   "Pierre-Emile Højbjerg": [
+      {
+         "club": "Southampton",
+         "nationality": "Denmark",
+         "position": "MID",
+         "minutesPlayed": 2764
+      }
+   ],
+   "Oriol Romeu": [
+      {
+         "club": "Southampton",
+         "nationality": "Spain",
+         "position": "MID",
+         "minutesPlayed": 2139
+      }
+   ],
+   "James Ward-Prowse": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1942
+      }
+   ],
+   "Mario Lemina": [
+      {
+         "club": "Southampton",
+         "nationality": "Gabon",
+         "position": "MID",
+         "minutesPlayed": 1614
+      }
+   ],
+   "Stuart Armstrong": [
+      {
+         "club": "Southampton",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 1431
+      }
+   ],
+   "Mohamed Elyounoussi": [
+      {
+         "club": "Southampton",
+         "nationality": "Norway",
+         "position": "MID",
+         "minutesPlayed": 790
+      }
+   ],
+   "Josh Sims": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 209
+      }
+   ],
+   "Callum Slattery": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 110
+      }
+   ],
+   "Steven Davis": [
+      {
+         "club": "Southampton",
+         "nationality": "Northern Ireland",
+         "position": "MID",
+         "minutesPlayed": 97
+      }
+   ],
+   "Tyreke Johnson": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1
+      }
+   ],
+   "Christian Eriksen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Denmark",
+         "position": "MID",
+         "minutesPlayed": 2771
+      }
+   ],
+   "Moussa Sissoko": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 2337
+      }
+   ],
+   "Lucas Moura": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 2128
+      }
+   ],
+   "Dele Alli": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1833
+      }
+   ],
+   "Harry Winks": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1592
+      }
+   ],
+   "Eric Dier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 1509
+      }
+   ],
+   "Erik Lamela": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Argentina",
+         "position": "MID",
+         "minutesPlayed": 972
+      }
+   ],
+   "Mousa Dembélé": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 515
+      }
+   ],
+   "Victor Wanyama": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Kenya",
+         "position": "MID",
+         "minutesPlayed": 513
+      }
+   ],
+   "Oliver Skipp": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 216
+      }
+   ],
+   "Georges-Kévin Nkoudou": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 4
+      }
+   ],
+   "Luke Amos": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2
+      }
+   ],
+   "Abdoulaye Doucouré": [
+      {
+         "club": "Watford",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 3062
+      }
+   ],
+   "Etienne Capoue": [
+      {
+         "club": "Watford",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 2946
+      }
+   ],
+   "Roberto Pereyra": [
+      {
+         "club": "Watford",
+         "nationality": "Argentina",
+         "position": "MID",
+         "minutesPlayed": 2821
+      }
+   ],
+   "Will Hughes": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2433
+      }
+   ],
+   "Ken Sema": [
+      {
+         "club": "Watford",
+         "nationality": "Sweden",
+         "position": "MID",
+         "minutesPlayed": 755
+      }
+   ],
+   "Tom Cleverley": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 471
+      }
+   ],
+   "Domingos Quina": [
+      {
+         "club": "Watford",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 334
+      }
+   ],
+   "Nathaniel Chalobah": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 267
+      }
+   ],
+   "Felipe Anderson": [
+      {
+         "club": "West Ham United",
+         "nationality": "Brazil",
+         "position": "MID",
+         "minutesPlayed": 3051
+      }
+   ],
+   "Mark Noble": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2308
+      }
+   ],
+   "Robert Snodgrass": [
+      {
+         "club": "West Ham United",
+         "nationality": "Scotland",
+         "position": "MID",
+         "minutesPlayed": 2221
+      }
+   ],
+   "Michail Antonio": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 2099
+      }
+   ],
+   "Pedro Obiang": [
+      {
+         "club": "West Ham United",
+         "nationality": "Equatorial Guinea",
+         "position": "MID",
+         "minutesPlayed": 1120
+      }
+   ],
+   "Manuel Lanzini": [
+      {
+         "club": "West Ham United",
+         "nationality": "Argentina",
+         "position": "MID",
+         "minutesPlayed": 689
+      }
+   ],
+   "Grady Diangana": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 605
+      }
+   ],
+   "Jack Wilshere": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 389
+      }
+   ],
+   "Samir Nasri": [
+      {
+         "club": "West Ham United",
+         "nationality": "France",
+         "position": "MID",
+         "minutesPlayed": 245
+      }
+   ],
+   "Carlos Sánchez": [
+      {
+         "club": "West Ham United",
+         "nationality": "Colombia",
+         "position": "MID",
+         "minutesPlayed": 240
+      }
+   ],
+   "Ben Johnson": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 63
+      }
+   ],
+   "Conor Coady": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 3420
+      }
+   ],
+   "João Moutinho": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 3038
+      }
+   ],
+   "Rúben Neves": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 3009
+      }
+   ],
+   "Diogo Jota": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 2368
+      }
+   ],
+   "Leander Dendoncker": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Belgium",
+         "position": "MID",
+         "minutesPlayed": 1469
+      }
+   ],
+   "Hélder Costa": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "MID",
+         "minutesPlayed": 1345
+      }
+   ],
+   "Romain Saïss": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Morocco",
+         "position": "MID",
+         "minutesPlayed": 1144
+      }
+   ],
+   "Morgan Gibbs-White": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "England",
+         "position": "MID",
+         "minutesPlayed": 650
+      }
+   ]
+}
