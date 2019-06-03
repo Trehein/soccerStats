@@ -1,0 +1,1384 @@
+{
+   "Nathan Aké": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 1696
+      }
+   ],
+   "Steve Cook": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1501
+      }
+   ],
+   "Adam Smith": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 872
+      }
+   ],
+   "Charlie Daniels": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 840
+      }
+   ],
+   "Simon Francis": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 654
+      }
+   ],
+   "Nathaniel Clyne": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 459
+      },
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 59
+      }
+   ],
+   "Chris Mepham": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Wales",
+         "position": "DEF",
+         "passes": 405
+      }
+   ],
+   "Diego Rico": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 285
+      }
+   ],
+   "Jack Simpson": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 236
+      }
+   ],
+   "Tyrone Mings": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 87
+      }
+   ],
+   "Shkodran Mustafi": [
+      {
+         "club": "Arsenal",
+         "nationality": "Germany",
+         "position": "DEF",
+         "passes": 1765
+      }
+   ],
+   "Sokratis": [
+      {
+         "club": "Arsenal",
+         "nationality": "Greece",
+         "position": "DEF",
+         "passes": 1387
+      }
+   ],
+   "Nacho Monreal": [
+      {
+         "club": "Arsenal",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 1168
+      }
+   ],
+   "Sead Kolasinac": [
+      {
+         "club": "Arsenal",
+         "nationality": "Bosnia And Herzegovina",
+         "position": "DEF",
+         "passes": 971
+      }
+   ],
+   "Laurent Koscielny": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 891
+      }
+   ],
+   "Héctor Bellerín": [
+      {
+         "club": "Arsenal",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 785
+      }
+   ],
+   "Rob Holding": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 614
+      }
+   ],
+   "Stephan Lichtsteiner": [
+      {
+         "club": "Arsenal",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "passes": 480
+      }
+   ],
+   "Konstantinos Mavropanos": [
+      {
+         "club": "Arsenal",
+         "nationality": "Greece",
+         "position": "DEF",
+         "passes": 137
+      }
+   ],
+   "Carl Jenkinson": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 75
+      }
+   ],
+   "Lewis Dunk": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1490
+      }
+   ],
+   "Shane Duffy": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 1305
+      }
+   ],
+   "Martín Montoya": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 858
+      }
+   ],
+   "Bernardo": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "passes": 785
+      }
+   ],
+   "Gaëtan Bong": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Cameroon",
+         "position": "DEF",
+         "passes": 602
+      }
+   ],
+   "Bruno": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 510
+      }
+   ],
+   "Leon Balogun": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Nigeria",
+         "position": "DEF",
+         "passes": 216
+      }
+   ],
+   "Ben Mee": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1502
+      }
+   ],
+   "Charlie Taylor": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1175
+      }
+   ],
+   "James Tarkowski": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1135
+      }
+   ],
+   "Matthew Lowton": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 638
+      }
+   ],
+   "Phil Bardsley": [
+      {
+         "club": "Burnley",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "passes": 555
+      }
+   ],
+   "Kevin Long": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 168
+      }
+   ],
+   "Stephen Ward": [
+      {
+         "club": "Burnley",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 113
+      }
+   ],
+   "Ben Gibson": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 33
+      }
+   ],
+   "Bruno Ecuele Manga": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Gabon",
+         "position": "DEF",
+         "passes": 957
+      }
+   ],
+   "Sean Morrison": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 737
+      }
+   ],
+   "Joe Bennett": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 694
+      }
+   ],
+   "Callum Paterson": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "passes": 552
+      }
+   ],
+   "Sol Bamba": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "passes": 550
+      }
+   ],
+   "Lee Peltier": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 342
+      }
+   ],
+   "Greg Cunningham": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 179
+      }
+   ],
+   "Jazz Richards": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Wales",
+         "position": "DEF",
+         "passes": 26
+      }
+   ],
+   "David Luiz": [
+      {
+         "club": "Chelsea",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "passes": 2620
+      }
+   ],
+   "Antonio Rüdiger": [
+      {
+         "club": "Chelsea",
+         "nationality": "Germany",
+         "position": "DEF",
+         "passes": 2537
+      }
+   ],
+   "César Azpilicueta": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 2483
+      }
+   ],
+   "Marcos Alonso": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 1881
+      }
+   ],
+   "Andreas Christensen": [
+      {
+         "club": "Chelsea",
+         "nationality": "Denmark",
+         "position": "DEF",
+         "passes": 458
+      }
+   ],
+   "Emerson": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 436
+      }
+   ],
+   "Davide Zappacosta": [
+      {
+         "club": "Chelsea",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 75
+      }
+   ],
+   "Gary Cahill": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 18
+      }
+   ],
+   "Patrick van Aanholt": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 1610
+      }
+   ],
+   "Mamadou Sakho": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1321
+      }
+   ],
+   "James Tomkins": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1111
+      }
+   ],
+   "Jeffrey Schlupp": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Ghana",
+         "position": "DEF",
+         "passes": 630
+      }
+   ],
+   "Martin Kelly": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 357
+      }
+   ],
+   "Scott Dann": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 264
+      }
+   ],
+   "Joel Ward": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 190
+      }
+   ],
+   "Pape Souaré": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Senegal",
+         "position": "DEF",
+         "passes": 3
+      }
+   ],
+   "Michael Keane": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1592
+      }
+   ],
+   "Lucas Digne": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1457
+      }
+   ],
+   "Kurt Zouma": [
+      {
+         "club": "Everton",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1442
+      }
+   ],
+   "Seamus Coleman": [
+      {
+         "club": "Everton",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 1194
+      }
+   ],
+   "Yerry Mina": [
+      {
+         "club": "Everton",
+         "nationality": "Colombia",
+         "position": "DEF",
+         "passes": 504
+      }
+   ],
+   "Jonjoe Kenny": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 427
+      }
+   ],
+   "Mason Holgate": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 253
+      }
+   ],
+   "Phil Jagielka": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 192
+      }
+   ],
+   "Leighton Baines": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 191
+      }
+   ],
+   "Calum Chambers": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1484
+      }
+   ],
+   "Maxime Le Marchand": [
+      {
+         "club": "Fulham",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1386
+      }
+   ],
+   "Denis Odoi": [
+      {
+         "club": "Fulham",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "passes": 1332
+      }
+   ],
+   "Tim Ream": [
+      {
+         "club": "Fulham",
+         "nationality": "United States",
+         "position": "DEF",
+         "passes": 1053
+      }
+   ],
+   "Joe Bryan": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 951
+      }
+   ],
+   "Cyrus Christie": [
+      {
+         "club": "Fulham",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 884
+      }
+   ],
+   "Alfie Mawson": [
+      {
+         "club": "Fulham",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 477
+      }
+   ],
+   "Timothy Fosu-Mensah": [
+      {
+         "club": "Fulham",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 406
+      }
+   ],
+   "Håvard Nordtveit": [
+      {
+         "club": "Fulham",
+         "nationality": "Norway",
+         "position": "DEF",
+         "passes": 225
+      }
+   ],
+   "Neeskens Kebano": [
+      {
+         "club": "Fulham",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "DEF",
+         "passes": 29
+      }
+   ],
+   "Christopher Schindler": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "passes": 1551
+      }
+   ],
+   "Zanka": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Denmark",
+         "position": "DEF",
+         "passes": 1173
+      }
+   ],
+   "Terence Kongolo": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 1149
+      }
+   ],
+   "Chris Löwe": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "passes": 840
+      }
+   ],
+   "Erik Durm": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "DEF",
+         "passes": 774
+      }
+   ],
+   "Florent Hadergjonaj": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "passes": 726
+      }
+   ],
+   "Tommy Smith": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 486
+      }
+   ],
+   "Jon Gorenc Stankovic": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Slovenia",
+         "position": "DEF",
+         "passes": 294
+      }
+   ],
+   "Demeaco Duhaney": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 19
+      }
+   ],
+   "Harry Maguire": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1747
+      }
+   ],
+   "Ben Chilwell": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1684
+      }
+   ],
+   "Ricardo Pereira": [
+      {
+         "club": "Leicester City",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "passes": 1532
+      }
+   ],
+   "Jonny Evans": [
+      {
+         "club": "Leicester City",
+         "nationality": "Northern Ireland",
+         "position": "DEF",
+         "passes": 1029
+      }
+   ],
+   "Wes Morgan": [
+      {
+         "club": "Leicester City",
+         "nationality": "Jamaica",
+         "position": "DEF",
+         "passes": 892
+      }
+   ],
+   "Çaglar Söyüncü": [
+      {
+         "club": "Leicester City",
+         "nationality": "Turkey",
+         "position": "DEF",
+         "passes": 220
+      }
+   ],
+   "Christian Fuchs": [
+      {
+         "club": "Leicester City",
+         "nationality": "Austria",
+         "position": "DEF",
+         "passes": 118
+      }
+   ],
+   "Danny Simpson": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 110
+      }
+   ],
+   "Virgil van Dijk": [
+      {
+         "club": "Liverpool",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 3037
+      }
+   ],
+   "Andrew Robertson": [
+      {
+         "club": "Liverpool",
+         "nationality": "Scotland",
+         "position": "DEF",
+         "passes": 2396
+      }
+   ],
+   "Trent Alexander-Arnold": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1697
+      }
+   ],
+   "Joel Matip": [
+      {
+         "club": "Liverpool",
+         "nationality": "Cameroon",
+         "position": "DEF",
+         "passes": 1341
+      }
+   ],
+   "Dejan Lovren": [
+      {
+         "club": "Liverpool",
+         "nationality": "Croatia",
+         "position": "DEF",
+         "passes": 821
+      }
+   ],
+   "Joseph Gomez": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 787
+      }
+   ],
+   "Alberto Moreno": [
+      {
+         "club": "Liverpool",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 105
+      }
+   ],
+   "Aymeric Laporte": [
+      {
+         "club": "Manchester City",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 2998
+      }
+   ],
+   "Kyle Walker": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 2389
+      }
+   ],
+   "John Stones": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1751
+      }
+   ],
+   "Nicolás Otamendi": [
+      {
+         "club": "Manchester City",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "passes": 1245
+      }
+   ],
+   "Vincent Kompany": [
+      {
+         "club": "Manchester City",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "passes": 1227
+      }
+   ],
+   "Danilo": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "DEF",
+         "passes": 767
+      }
+   ],
+   "Fabian Delph": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 693
+      }
+   ],
+   "Benjamin Mendy": [
+      {
+         "club": "Manchester City",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 650
+      }
+   ],
+   "Luke Shaw": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1658
+      }
+   ],
+   "Victor Lindelöf": [
+      {
+         "club": "Manchester United",
+         "nationality": "Sweden",
+         "position": "DEF",
+         "passes": 1490
+      }
+   ],
+   "Ashley Young": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1376
+      }
+   ],
+   "Chris Smalling": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 954
+      }
+   ],
+   "Phil Jones": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 754
+      }
+   ],
+   "Diogo Dalot": [
+      {
+         "club": "Manchester United",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "passes": 423
+      }
+   ],
+   "Eric Bailly": [
+      {
+         "club": "Manchester United",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "passes": 302
+      }
+   ],
+   "Antonio Valencia": [
+      {
+         "club": "Manchester United",
+         "nationality": "Ecuador",
+         "position": "DEF",
+         "passes": 271
+      }
+   ],
+   "Matteo Darmian": [
+      {
+         "club": "Manchester United",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 175
+      }
+   ],
+   "Marcos Rojo": [
+      {
+         "club": "Manchester United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "passes": 124
+      }
+   ],
+   "Jamaal Lascelles": [
+      {
+         "club": "Newcastle United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1104
+      }
+   ],
+   "Fabian Schär": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Switzerland",
+         "position": "DEF",
+         "passes": 994
+      }
+   ],
+   "Paul Dummett": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Wales",
+         "position": "DEF",
+         "passes": 758
+      }
+   ],
+   "DeAndre Yedlin": [
+      {
+         "club": "Newcastle United",
+         "nationality": "United States",
+         "position": "DEF",
+         "passes": 732
+      }
+   ],
+   "Federico Fernández": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "passes": 611
+      }
+   ],
+   "Florian Lejeune": [
+      {
+         "club": "Newcastle United",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 563
+      }
+   ],
+   "Javier Manquillo": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 352
+      }
+   ],
+   "Ciaran Clark": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 304
+      }
+   ],
+   "Antonio Barreca": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 2
+      }
+   ],
+   "Jannik Vestergaard": [
+      {
+         "club": "Southampton",
+         "nationality": "Denmark",
+         "position": "DEF",
+         "passes": 845
+      }
+   ],
+   "Jan Bednarek": [
+      {
+         "club": "Southampton",
+         "nationality": "Poland",
+         "position": "DEF",
+         "passes": 822
+      }
+   ],
+   "Ryan Bertrand": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 774
+      }
+   ],
+   "Jack Stephens": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 767
+      }
+   ],
+   "Wesley Hoedt": [
+      {
+         "club": "Southampton",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 621
+      }
+   ],
+   "Cédric Soares": [
+      {
+         "club": "Southampton",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "passes": 594
+      }
+   ],
+   "Maya Yoshida": [
+      {
+         "club": "Southampton",
+         "nationality": "Japan",
+         "position": "DEF",
+         "passes": 556
+      }
+   ],
+   "Matt Targett": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 443
+      }
+   ],
+   "Yan Valery": [
+      {
+         "club": "Southampton",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 399
+      }
+   ],
+   "Kayne Ramsay": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 14
+      }
+   ],
+   "Toby Alderweireld": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "passes": 2358
+      }
+   ],
+   "Kieran Trippier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1542
+      }
+   ],
+   "Jan Vertonghen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "passes": 1531
+      }
+   ],
+   "Davinson Sánchez": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Colombia",
+         "position": "DEF",
+         "passes": 1440
+      }
+   ],
+   "Ben Davies": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Wales",
+         "position": "DEF",
+         "passes": 1085
+      }
+   ],
+   "Danny Rose": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 929
+      }
+   ],
+   "Juan Foyth": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "passes": 586
+      }
+   ],
+   "Serge Aurier": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Cote D'Ivoire",
+         "position": "DEF",
+         "passes": 269
+      }
+   ],
+   "Kyle Walker-Peters": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 188
+      }
+   ],
+   "Craig Cathcart": [
+      {
+         "club": "Watford",
+         "nationality": "Northern Ireland",
+         "position": "DEF",
+         "passes": 1280
+      }
+   ],
+   "Kiko Femenía": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 925
+      }
+   ],
+   "Adrian Mariappa": [
+      {
+         "club": "Watford",
+         "nationality": "Jamaica",
+         "position": "DEF",
+         "passes": 882
+      }
+   ],
+   "José Holebas": [
+      {
+         "club": "Watford",
+         "nationality": "Greece",
+         "position": "DEF",
+         "passes": 833
+      }
+   ],
+   "Daryl Janmaat": [
+      {
+         "club": "Watford",
+         "nationality": "Netherlands",
+         "position": "DEF",
+         "passes": 599
+      }
+   ],
+   "Christian Kabasele": [
+      {
+         "club": "Watford",
+         "nationality": "Belgium",
+         "position": "DEF",
+         "passes": 550
+      }
+   ],
+   "Adam Masina": [
+      {
+         "club": "Watford",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 436
+      }
+   ],
+   "Miguel Britos": [
+      {
+         "club": "Watford",
+         "nationality": "Uruguay",
+         "position": "DEF",
+         "passes": 59
+      }
+   ],
+   "Marc Navarro": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 23
+      }
+   ],
+   "Ben Wilmot": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 9
+      }
+   ],
+   "Sebastian Prödl": [
+      {
+         "club": "Watford",
+         "nationality": "Austria",
+         "position": "DEF",
+         "passes": 3
+      }
+   ],
+   "Declan Rice": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1518
+      }
+   ],
+   "Issa Diop": [
+      {
+         "club": "West Ham United",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1134
+      }
+   ],
+   "Arthur Masuaku": [
+      {
+         "club": "West Ham United",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "DEF",
+         "passes": 880
+      }
+   ],
+   "Pablo Zabaleta": [
+      {
+         "club": "West Ham United",
+         "nationality": "Argentina",
+         "position": "DEF",
+         "passes": 860
+      }
+   ],
+   "Fabián Balbuena": [
+      {
+         "club": "West Ham United",
+         "nationality": "Paraguay",
+         "position": "DEF",
+         "passes": 832
+      }
+   ],
+   "Aaron Cresswell": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 812
+      }
+   ],
+   "Angelo Ogbonna": [
+      {
+         "club": "West Ham United",
+         "nationality": "Italy",
+         "position": "DEF",
+         "passes": 795
+      }
+   ],
+   "Ryan Fredericks": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 436
+      }
+   ],
+   "Willy Boly": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "France",
+         "position": "DEF",
+         "passes": 1715
+      }
+   ],
+   "Matt Doherty": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Ireland",
+         "position": "DEF",
+         "passes": 1399
+      }
+   ],
+   "Ryan Bennett": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "England",
+         "position": "DEF",
+         "passes": 1346
+      }
+   ],
+   "Jonny": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Spain",
+         "position": "DEF",
+         "passes": 1075
+      }
+   ],
+   "Rúben Vinagre": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "DEF",
+         "passes": 286
+      }
+   ]
+}

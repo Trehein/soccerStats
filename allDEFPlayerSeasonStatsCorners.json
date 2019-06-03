@@ -1,0 +1,206 @@
+{
+   "Diego Rico": {
+      "club": "AFC Bournemouth",
+      "nationality": "Spain",
+      "position": "DEF",
+      "corners": 12
+   },
+   "Adam Smith": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 6
+   },
+   "Charlie Daniels": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 2
+   },
+   "Simon Francis": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Sead Kolasinac": {
+      "club": "Arsenal",
+      "nationality": "Bosnia And Herzegovina",
+      "position": "DEF",
+      "corners": 3
+   },
+   "Bruno": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Spain",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Charlie Taylor": {
+      "club": "Burnley",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 4
+   },
+   "Joe Bennett": {
+      "club": "Cardiff City",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Patrick van Aanholt": {
+      "club": "Crystal Palace",
+      "nationality": "Netherlands",
+      "position": "DEF",
+      "corners": 2
+   },
+   "Lucas Digne": {
+      "club": "Everton",
+      "nationality": "France",
+      "position": "DEF",
+      "corners": 89
+   },
+   "Leighton Baines": {
+      "club": "Everton",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 8
+   },
+   "Joe Bryan": {
+      "club": "Fulham",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 15
+   },
+   "Chris Löwe": {
+      "club": "Huddersfield Town",
+      "nationality": "Germany",
+      "position": "DEF",
+      "corners": 34
+   },
+   "Erik Durm": {
+      "club": "Huddersfield Town",
+      "nationality": "Germany",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Ben Chilwell": {
+      "club": "Leicester City",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 4
+   },
+   "Trent Alexander-Arnold": {
+      "club": "Liverpool",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 74
+   },
+   "Andrew Robertson": {
+      "club": "Liverpool",
+      "nationality": "Scotland",
+      "position": "DEF",
+      "corners": 4
+   },
+   "Kyle Walker": {
+      "club": "Manchester City",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Ashley Young": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 102
+   },
+   "Luke Shaw": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 15
+   },
+   "Diogo Dalot": {
+      "club": "Manchester United",
+      "nationality": "Portugal",
+      "position": "DEF",
+      "corners": 3
+   },
+   "Paul Dummett": {
+      "club": "Newcastle United",
+      "nationality": "Wales",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Ryan Bertrand": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 30
+   },
+   "Matt Targett": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 20
+   },
+   "Cédric Soares": {
+      "club": "Southampton",
+      "nationality": "Portugal",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Kieran Trippier": {
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 73
+   },
+   "Danny Rose": {
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 17
+   },
+   "Ben Davies": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Wales",
+      "position": "DEF",
+      "corners": 7
+   },
+   "José Holebas": {
+      "club": "Watford",
+      "nationality": "Greece",
+      "position": "DEF",
+      "corners": 115
+   },
+   "Adam Masina": {
+      "club": "Watford",
+      "nationality": "Italy",
+      "position": "DEF",
+      "corners": 16
+   },
+   "Kiko Femenía": {
+      "club": "Watford",
+      "nationality": "Spain",
+      "position": "DEF",
+      "corners": 7
+   },
+   "Aaron Cresswell": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "DEF",
+      "corners": 8
+   },
+   "Arthur Masuaku": {
+      "club": "West Ham United",
+      "nationality": "The Democratic Republic Of Congo",
+      "position": "DEF",
+      "corners": 1
+   },
+   "Rúben Vinagre": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Portugal",
+      "position": "DEF",
+      "corners": 2
+   }
+}

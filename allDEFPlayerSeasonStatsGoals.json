@@ -1,0 +1,452 @@
+{
+   "Nathan Aké": {
+      "club": "AFC Bournemouth",
+      "nationality": "Netherlands",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Steve Cook": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Charlie Daniels": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Adam Smith": {
+      "club": "AFC Bournemouth",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Laurent Koscielny": {
+      "club": "Arsenal",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Shkodran Mustafi": {
+      "club": "Arsenal",
+      "nationality": "Germany",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Nacho Monreal": {
+      "club": "Arsenal",
+      "nationality": "Spain",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Sokratis": {
+      "club": "Arsenal",
+      "nationality": "Greece",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Shane Duffy": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Ireland",
+      "position": "DEF",
+      "goals": 5
+   },
+   "Lewis Dunk": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Leon Balogun": {
+      "club": "Brighton and Hove Albion",
+      "nationality": "Nigeria",
+      "position": "DEF",
+      "goals": 1
+   },
+   "James Tarkowski": {
+      "club": "Burnley",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Ben Gibson": {
+      "club": "Burnley",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Sol Bamba": {
+      "club": "Cardiff City",
+      "nationality": "Cote D'Ivoire",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Callum Paterson": {
+      "club": "Cardiff City",
+      "nationality": "Scotland",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Sean Morrison": {
+      "club": "Cardiff City",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "David Luiz": {
+      "club": "Chelsea",
+      "nationality": "Brazil",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Marcos Alonso": {
+      "club": "Chelsea",
+      "nationality": "Spain",
+      "position": "DEF",
+      "goals": 2
+   },
+   "César Azpilicueta": {
+      "club": "Chelsea",
+      "nationality": "Spain",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Antonio Rüdiger": {
+      "club": "Chelsea",
+      "nationality": "Germany",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Jeffrey Schlupp": {
+      "club": "Crystal Palace",
+      "nationality": "Ghana",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Patrick van Aanholt": {
+      "club": "Crystal Palace",
+      "nationality": "Netherlands",
+      "position": "DEF",
+      "goals": 3
+   },
+   "James Tomkins": {
+      "club": "Crystal Palace",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Joel Ward": {
+      "club": "Crystal Palace",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Lucas Digne": {
+      "club": "Everton",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Seamus Coleman": {
+      "club": "Everton",
+      "nationality": "Ireland",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Kurt Zouma": {
+      "club": "Everton",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Phil Jagielka": {
+      "club": "Everton",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Michael Keane": {
+      "club": "Everton",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Yerry Mina": {
+      "club": "Everton",
+      "nationality": "Colombia",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Calum Chambers": {
+      "club": "Fulham",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Zanka": {
+      "club": "Huddersfield Town",
+      "nationality": "Denmark",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Terence Kongolo": {
+      "club": "Huddersfield Town",
+      "nationality": "Netherlands",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Christopher Schindler": {
+      "club": "Huddersfield Town",
+      "nationality": "Germany",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Jon Gorenc Stankovic": {
+      "club": "Huddersfield Town",
+      "nationality": "Slovenia",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Harry Maguire": {
+      "club": "Leicester City",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Wes Morgan": {
+      "club": "Leicester City",
+      "nationality": "Jamaica",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Ricardo Pereira": {
+      "club": "Leicester City",
+      "nationality": "Portugal",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Jonny Evans": {
+      "club": "Leicester City",
+      "nationality": "Northern Ireland",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Virgil van Dijk": {
+      "club": "Liverpool",
+      "nationality": "Netherlands",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Trent Alexander-Arnold": {
+      "club": "Liverpool",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Dejan Lovren": {
+      "club": "Liverpool",
+      "nationality": "Croatia",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Joel Matip": {
+      "club": "Liverpool",
+      "nationality": "Cameroon",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Aymeric Laporte": {
+      "club": "Manchester City",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Danilo": {
+      "club": "Manchester City",
+      "nationality": "Brazil",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Vincent Kompany": {
+      "club": "Manchester City",
+      "nationality": "Belgium",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Kyle Walker": {
+      "club": "Manchester City",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Ashley Young": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Victor Lindelöf": {
+      "club": "Manchester United",
+      "nationality": "Sweden",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Luke Shaw": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Chris Smalling": {
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Fabian Schär": {
+      "club": "Newcastle United",
+      "nationality": "Switzerland",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Ciaran Clark": {
+      "club": "Newcastle United",
+      "nationality": "Ireland",
+      "position": "DEF",
+      "goals": 3
+   },
+   "DeAndre Yedlin": {
+      "club": "Newcastle United",
+      "nationality": "United States",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Yan Valery": {
+      "club": "Southampton",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Cédric Soares": {
+      "club": "Southampton",
+      "nationality": "Portugal",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Ryan Bertrand": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Jack Stephens": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Matt Targett": {
+      "club": "Southampton",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Juan Foyth": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Argentina",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Davinson Sánchez": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Colombia",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Kieran Trippier": {
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Jan Vertonghen": {
+      "club": "Tottenham Hotspur",
+      "nationality": "Belgium",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Craig Cathcart": {
+      "club": "Watford",
+      "nationality": "Northern Ireland",
+      "position": "DEF",
+      "goals": 3
+   },
+   "José Holebas": {
+      "club": "Watford",
+      "nationality": "Greece",
+      "position": "DEF",
+      "goals": 3
+   },
+   "Kiko Femenía": {
+      "club": "Watford",
+      "nationality": "Spain",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Declan Rice": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 2
+   },
+   "Fabián Balbuena": {
+      "club": "West Ham United",
+      "nationality": "Paraguay",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Issa Diop": {
+      "club": "West Ham United",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Ryan Fredericks": {
+      "club": "West Ham United",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Angelo Ogbonna": {
+      "club": "West Ham United",
+      "nationality": "Italy",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Willy Boly": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "France",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Matt Doherty": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Ireland",
+      "position": "DEF",
+      "goals": 4
+   },
+   "Ryan Bennett": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "England",
+      "position": "DEF",
+      "goals": 1
+   },
+   "Jonny": {
+      "club": "Wolverhampton Wanderers",
+      "nationality": "Spain",
+      "position": "DEF",
+      "goals": 1
+   }
+}
