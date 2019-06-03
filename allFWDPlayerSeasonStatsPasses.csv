@@ -1,0 +1,105 @@
+player,club,nationality,position,passes
+Joshua King,AFC Bournemouth,Norway,FWD,802
+Callum Wilson,AFC Bournemouth,England,FWD,440
+Lys Mousset,AFC Bournemouth,France,FWD,121
+Dominic Solanke,AFC Bournemouth,England,FWD,99
+Sam Surridge,AFC Bournemouth,England,FWD,5
+Jermain Defoe,AFC Bournemouth,England,FWD,3
+Alexandre Lacazette,Arsenal,France,FWD,771
+Pierre-Emerick Aubameyang,Arsenal,Gabon,FWD,692
+Danny Welbeck,Arsenal,England,FWD,54
+Eddie Nketiah,Arsenal,England,FWD,20
+Glenn Murray,Brighton and Hove Albion,England,FWD,606
+Jürgen Locadia,Brighton and Hove Albion,Netherlands,FWD,331
+Alireza Jahanbakhsh,Brighton and Hove Albion,Iran,FWD,277
+José Izquierdo,Brighton and Hove Albion,Colombia,FWD,205
+Florin Andone,Brighton and Hove Albion,Romania,FWD,165
+Chris Wood,Burnley,New Zealand,FWD,599
+Ashley Barnes,Burnley,Austria,FWD,518
+Dwight McNeil,Burnley,England,FWD,453
+Sam Vokes,Burnley,Wales,FWD,268
+Matej Vydra,Burnley,Czech Republic,FWD,73
+Peter Crouch,Burnley,England,FWD,28
+David Junior Hoilett,Cardiff City,Canada,FWD,443
+Nathaniel Mendez-Laing,Cardiff City,England,FWD,255
+Oumar Niasse,Cardiff City,Senegal,FWD,167
+Kenneth Zohore,Cardiff City,Denmark,FWD,136
+Danny Ward,Cardiff City,England,FWD,92
+Gary Madine,Cardiff City,England,FWD,12
+Rhys Healey,Cardiff City,England,FWD,7
+Eden Hazard,Chelsea,Belgium,FWD,1819
+Willian,Chelsea,Brazil,FWD,1230
+Pedro,Chelsea,Spain,FWD,1066
+Gonzalo Higuaín,Chelsea,Argentina,FWD,316
+Olivier Giroud,Chelsea,France,FWD,261
+Álvaro Morata,Chelsea,Spain,FWD,229
+Callum Hudson-Odoi,Chelsea,England,FWD,207
+Wilfried Zaha,Crystal Palace,Cote D'Ivoire,FWD,1006
+Jordan Ayew,Crystal Palace,Ghana,FWD,265
+Christian Benteke,Crystal Palace,Belgium,FWD,241
+Michy Batshuayi,Crystal Palace,Belgium,FWD,163
+Alexander Sørloth,Crystal Palace,Norway,FWD,59
+Connor Wickham,Crystal Palace,England,FWD,11
+Richarlison,Everton,Brazil,FWD,793
+Theo Walcott,Everton,England,FWD,576
+Dominic Calvert-Lewin,Everton,England,FWD,430
+Cenk Tosun,Everton,Turkey,FWD,258
+Ademola Lookman,Everton,England,FWD,253
+Oumar Niasse,Everton,Senegal,FWD,22
+Aleksandar Mitrovic,Fulham,Serbia,FWD,1026
+Luciano Vietto,Fulham,Argentina,FWD,386
+Aboubakar Kamara,Fulham,France,FWD,226
+Floyd Ayité,Fulham,Togo,FWD,192
+Steve Mounie,Huddersfield Town,Benin,FWD,557
+Elias Kachunga,Huddersfield Town,The Democratic Republic Of Congo,FWD,296
+Laurent Depoitre,Huddersfield Town,Belgium,FWD,274
+Karlan Grant,Huddersfield Town,England,FWD,212
+Adama Diakhaby,Huddersfield Town,France,FWD,147
+Collin Quaner,Huddersfield Town,Germany,FWD,17
+Jamie Vardy,Leicester City,England,FWD,416
+Kelechi Iheanacho,Leicester City,Nigeria,FWD,276
+Shinji Okazaki,Leicester City,Japan,FWD,94
+Roberto Firmino,Liverpool,Brazil,FWD,1279
+Sadio Mané,Liverpool,Senegal,FWD,1184
+Mohamed Salah,Liverpool,Egypt,FWD,1079
+Xherdan Shaqiri,Liverpool,Switzerland,FWD,639
+Daniel Sturridge,Liverpool,England,FWD,190
+Divock Origi,Liverpool,Belgium,FWD,108
+Raheem Sterling,Manchester City,England,FWD,1263
+Leroy Sané,Manchester City,Germany,FWD,847
+Sergio Agüero,Manchester City,Argentina,FWD,771
+Gabriel Jesus,Manchester City,Brazil,FWD,357
+Anthony Martial,Manchester United,France,FWD,707
+Marcus Rashford,Manchester United,England,FWD,666
+Romelu Lukaku,Manchester United,Belgium,FWD,534
+Alexis Sánchez,Manchester United,Chile,FWD,382
+Mason Greenwood,Manchester United,England,FWD,60
+Ayoze Pérez,Newcastle United,Spain,FWD,779
+Salomón Rondón,Newcastle United,Venezuela,FWD,735
+Joselu,Newcastle United,Spain,FWD,208
+Yoshinori Muto,Newcastle United,Japan,FWD,113
+Danny Ings,Southampton,England,FWD,392
+Shane Long,Southampton,Ireland,FWD,305
+Charlie Austin,Southampton,England,FWD,197
+Manolo Gabbiadini,Southampton,Italy,FWD,121
+Michael Obafemi,Southampton,Ireland,FWD,18
+Sam Gallagher,Southampton,England,FWD,6
+Son Heung-Min,Tottenham Hotspur,South Korea,FWD,752
+Harry Kane,Tottenham Hotspur,England,FWD,551
+Fernando Llorente,Tottenham Hotspur,Spain,FWD,223
+Vincent Janssen,Tottenham Hotspur,Netherlands,FWD,9
+Troy Deeney,Watford,England,FWD,827
+Gerard Deulofeu,Watford,Spain,FWD,718
+Isaac Success,Watford,Nigeria,FWD,349
+Andre Gray,Watford,England,FWD,236
+Stefano Okaka,Watford,Italy,FWD,14
+Marko Arnautovic,West Ham United,Austria,FWD,640
+Chicharito,West Ham United,Mexico,FWD,322
+Andriy Yarmolenko,West Ham United,Ukraine,FWD,203
+Lucas Pérez,West Ham United,Spain,FWD,143
+Andy Carroll,West Ham United,England,FWD,136
+Xande Silva,West Ham United,Portugal,FWD,4
+Raúl Jiménez,Wolverhampton Wanderers,Mexico,FWD,1059
+Ivan Cavaleiro,Wolverhampton Wanderers,Portugal,FWD,294
+Adama Traoré,Wolverhampton Wanderers,Spain,FWD,270
+Léo Bonatini,Wolverhampton Wanderers,Brazil,FWD,57
