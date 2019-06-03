@@ -1,0 +1,464 @@
+player,club,nationality,position,touches
+Joshua King,AFC Bournemouth,Norway,FWD,"1,493"
+Callum Wilson,AFC Bournemouth,England,FWD,838
+Lys Mousset,AFC Bournemouth,France,FWD,216
+Dominic Solanke,AFC Bournemouth,England,FWD,195
+Sam Surridge,AFC Bournemouth,England,FWD,9
+Jermain Defoe,AFC Bournemouth,England,FWD,5
+Alexandre Lacazette,Arsenal,France,FWD,"1,313"
+Pierre-Emerick Aubameyang,Arsenal,Gabon,FWD,"1,132"
+Danny Welbeck,Arsenal,England,FWD,87
+Eddie Nketiah,Arsenal,England,FWD,37
+Glenn Murray,Brighton and Hove Albion,England,FWD,978
+Jürgen Locadia,Brighton and Hove Albion,Netherlands,FWD,525
+Alireza Jahanbakhsh,Brighton and Hove Albion,Iran,FWD,514
+Florin Andone,Brighton and Hove Albion,Romania,FWD,401
+José Izquierdo,Brighton and Hove Albion,Colombia,FWD,345
+Ashley Barnes,Burnley,Austria,FWD,984
+Chris Wood,Burnley,New Zealand,FWD,976
+Dwight McNeil,Burnley,England,FWD,871
+Sam Vokes,Burnley,Wales,FWD,399
+Matej Vydra,Burnley,Czech Republic,FWD,138
+Peter Crouch,Burnley,England,FWD,42
+David Junior Hoilett,Cardiff City,Canada,FWD,960
+Nathaniel Mendez-Laing,Cardiff City,England,FWD,514
+Oumar Niasse,Cardiff City,Senegal,FWD,410
+Kenneth Zohore,Cardiff City,Denmark,FWD,265
+Danny Ward,Cardiff City,England,FWD,159
+Rhys Healey,Cardiff City,England,FWD,25
+Gary Madine,Cardiff City,England,FWD,18
+Eden Hazard,Chelsea,Belgium,FWD,"2,678"
+Willian,Chelsea,Brazil,FWD,"1,792"
+Pedro,Chelsea,Spain,FWD,"1,438"
+Gonzalo Higuaín,Chelsea,Argentina,FWD,462
+Álvaro Morata,Chelsea,Spain,FWD,384
+Olivier Giroud,Chelsea,France,FWD,371
+Callum Hudson-Odoi,Chelsea,England,FWD,309
+Wilfried Zaha,Crystal Palace,Cote D'Ivoire,FWD,"1,932"
+Jordan Ayew,Crystal Palace,Ghana,FWD,562
+Christian Benteke,Crystal Palace,Belgium,FWD,381
+Michy Batshuayi,Crystal Palace,Belgium,FWD,273
+Alexander Sørloth,Crystal Palace,Norway,FWD,95
+Connor Wickham,Crystal Palace,England,FWD,29
+Richarlison,Everton,Brazil,FWD,"1,496"
+Theo Walcott,Everton,England,FWD,985
+Dominic Calvert-Lewin,Everton,England,FWD,802
+Cenk Tosun,Everton,Turkey,FWD,445
+Ademola Lookman,Everton,England,FWD,439
+Oumar Niasse,Everton,Senegal,FWD,46
+Aleksandar Mitrovic,Fulham,Serbia,FWD,"1,684"
+Luciano Vietto,Fulham,Argentina,FWD,592
+Aboubakar Kamara,Fulham,France,FWD,379
+Floyd Ayité,Fulham,Togo,FWD,303
+Steve Mounie,Huddersfield Town,Benin,FWD,855
+Elias Kachunga,Huddersfield Town,The Democratic Republic Of Congo,FWD,500
+Laurent Depoitre,Huddersfield Town,Belgium,FWD,467
+Karlan Grant,Huddersfield Town,England,FWD,364
+Adama Diakhaby,Huddersfield Town,France,FWD,273
+Collin Quaner,Huddersfield Town,Germany,FWD,22
+Jamie Vardy,Leicester City,England,FWD,757
+Kelechi Iheanacho,Leicester City,Nigeria,FWD,419
+Shinji Okazaki,Leicester City,Japan,FWD,169
+Mohamed Salah,Liverpool,Egypt,FWD,"1,819"
+Sadio Mané,Liverpool,Senegal,FWD,"1,806"
+Roberto Firmino,Liverpool,Brazil,FWD,"1,762"
+Xherdan Shaqiri,Liverpool,Switzerland,FWD,849
+Daniel Sturridge,Liverpool,England,FWD,276
+Divock Origi,Liverpool,Belgium,FWD,186
+Raheem Sterling,Manchester City,England,FWD,"1,958"
+Leroy Sané,Manchester City,Germany,FWD,"1,345"
+Sergio Agüero,Manchester City,Argentina,FWD,"1,241"
+Gabriel Jesus,Manchester City,Brazil,FWD,598
+Marcus Rashford,Manchester United,England,FWD,"1,227"
+Anthony Martial,Manchester United,France,FWD,"1,047"
+Romelu Lukaku,Manchester United,Belgium,FWD,855
+Alexis Sánchez,Manchester United,Chile,FWD,580
+Mason Greenwood,Manchester United,England,FWD,91
+Ayoze Pérez,Newcastle United,Spain,FWD,"1,433"
+Salomón Rondón,Newcastle United,Venezuela,FWD,"1,248"
+Joselu,Newcastle United,Spain,FWD,322
+Yoshinori Muto,Newcastle United,Japan,FWD,228
+Danny Ings,Southampton,England,FWD,720
+Shane Long,Southampton,Ireland,FWD,558
+Charlie Austin,Southampton,England,FWD,368
+Manolo Gabbiadini,Southampton,Italy,FWD,203
+Michael Obafemi,Southampton,Ireland,FWD,51
+Sam Gallagher,Southampton,England,FWD,15
+Son Heung-Min,Tottenham Hotspur,South Korea,FWD,"1,182"
+Harry Kane,Tottenham Hotspur,England,FWD,"1,033"
+Fernando Llorente,Tottenham Hotspur,Spain,FWD,341
+Vincent Janssen,Tottenham Hotspur,Netherlands,FWD,20
+Troy Deeney,Watford,England,FWD,"1,245"
+Gerard Deulofeu,Watford,Spain,FWD,"1,191"
+Isaac Success,Watford,Nigeria,FWD,611
+Andre Gray,Watford,England,FWD,432
+Stefano Okaka,Watford,Italy,FWD,25
+Marko Arnautovic,West Ham United,Austria,FWD,916
+Chicharito,West Ham United,Mexico,FWD,508
+Andriy Yarmolenko,West Ham United,Ukraine,FWD,283
+Andy Carroll,West Ham United,England,FWD,221
+Lucas Pérez,West Ham United,Spain,FWD,205
+Xande Silva,West Ham United,Portugal,FWD,9
+Raúl Jiménez,Wolverhampton Wanderers,Mexico,FWD,"1,669"
+Adama Traoré,Wolverhampton Wanderers,Spain,FWD,629
+Ivan Cavaleiro,Wolverhampton Wanderers,Portugal,FWD,494
+Léo Bonatini,Wolverhampton Wanderers,Brazil,FWD,84
+Jefferson Lerma,AFC Bournemouth,Colombia,MID,"2,005"
+Ryan Fraser,AFC Bournemouth,Scotland,MID,"1,894"
+David Brooks,AFC Bournemouth,Wales,MID,"1,343"
+Dan Gosling,AFC Bournemouth,England,MID,"1,274"
+Andrew Surman,AFC Bournemouth,England,MID,990
+Junior Stanislas,AFC Bournemouth,England,MID,714
+Lewis Cook,AFC Bournemouth,England,MID,504
+Jordon Ibe,AFC Bournemouth,England,MID,437
+Emerson Hyndman,AFC Bournemouth,United States,MID,34
+Granit Xhaka,Arsenal,Switzerland,MID,"2,784"
+Lucas Torreira,Arsenal,Uruguay,MID,"2,056"
+Matteo Guendouzi,Arsenal,France,MID,"1,965"
+Alex Iwobi,Arsenal,Nigeria,MID,"1,415"
+Mesut Özil,Arsenal,Germany,MID,"1,384"
+Henrikh Mkhitaryan,Arsenal,Armenia,MID,"1,197"
+Aaron Ramsey,Arsenal,Wales,MID,"1,029"
+Ainsley Maitland-Niles,Arsenal,England,MID,782
+Mohamed Elneny,Arsenal,Egypt,MID,341
+Denis Suárez,Arsenal,Spain,MID,59
+Joe Willock,Arsenal,England,MID,31
+Dale Stephens,Brighton and Hove Albion,England,MID,"1,709"
+Davy Pröpper,Brighton and Hove Albion,Netherlands,MID,"1,632"
+Solly March,Brighton and Hove Albion,England,MID,"1,413"
+Pascal Groß,Brighton and Hove Albion,Germany,MID,"1,195"
+Yves Bissouma,Brighton and Hove Albion,Mali,MID,"1,140"
+Anthony Knockaert,Brighton and Hove Albion,France,MID,"1,060"
+Beram Kayal,Brighton and Hove Albion,Israel,MID,445
+Ashley Westwood,Burnley,England,MID,"1,867"
+Jack Cork,Burnley,England,MID,"1,788"
+Jeff Hendrick,Burnley,Ireland,MID,946
+Johann Gudmundsson,Burnley,Iceland,MID,940
+Aaron Lennon,Burnley,England,MID,472
+Robbie Brady,Burnley,Ireland,MID,404
+Steven Defour,Burnley,Belgium,MID,298
+Víctor Camarasa,Cardiff City,Spain,MID,"1,426"
+Aron Gunnarsson,Cardiff City,Iceland,MID,"1,254"
+Joe Ralls,Cardiff City,England,MID,"1,098"
+Harry Arter,Cardiff City,Ireland,MID,920
+Josh Murphy,Cardiff City,England,MID,809
+Bobby De Cordova-Reid,Cardiff City,England,MID,541
+Leandro Bacuna,Cardiff City,Curacao,MID,254
+Kadeem Harris,Cardiff City,England,MID,186
+Loïc Damour,Cardiff City,France,MID,15
+Jorginho,Chelsea,Italy,MID,"3,551"
+N'Golo Kanté,Chelsea,France,MID,"2,562"
+Mateo Kovacic,Chelsea,Croatia,MID,"1,812"
+Ross Barkley,Chelsea,England,MID,"1,194"
+Ruben Loftus-Cheek,Chelsea,England,MID,874
+Cesc Fàbregas,Chelsea,Spain,MID,223
+Victor Moses,Chelsea,Nigeria,MID,21
+Luka Milivojevic,Crystal Palace,Serbia,MID,"2,718"
+Aaron Wan-Bissaka,Crystal Palace,England,MID,"2,286"
+James McArthur,Crystal Palace,Scotland,MID,"1,987"
+Andros Townsend,Crystal Palace,England,MID,"1,848"
+Cheikhou Kouyaté,Crystal Palace,Senegal,MID,"1,082"
+Max Meyer,Crystal Palace,Germany,MID,935
+Bakary Sako,Crystal Palace,Mali,MID,20
+Jason Puncheon,Crystal Palace,England,MID,14
+Luke Dreher,Crystal Palace,England,MID,3
+Idrissa Gueye,Everton,Senegal,MID,"2,287"
+Gylfi Sigurdsson,Everton,Iceland,MID,"1,717"
+André Gomes,Everton,Portugal,MID,"1,563"
+Bernard,Everton,Brazil,MID,"1,298"
+Tom Davies,Everton,England,MID,682
+Morgan Schneiderlin,Everton,France,MID,673
+James McCarthy,Everton,Ireland,MID,10
+Jean Michael Seri,Fulham,Cote D'Ivoire,MID,"2,004"
+Tom Cairney,Fulham,Scotland,MID,"1,749"
+André-Frank Zambo Anguissa,Fulham,Cameroon,MID,"1,394"
+Ryan Sessegnon,Fulham,England,MID,"1,236"
+André Schürrle,Fulham,Germany,MID,895
+Ryan Babel,Fulham,Netherlands,MID,725
+Kevin McDonald,Fulham,Scotland,MID,670
+Stefan Johansen,Fulham,Norway,MID,307
+Ibrahima Cissé,Fulham,Guinea,MID,46
+Lazar Markovic,Fulham,Serbia,MID,40
+Harvey Elliott,Fulham,England,MID,15
+Jonathan Hogg,Huddersfield Town,England,MID,"1,924"
+Aaron Mooy,Huddersfield Town,Australia,MID,"1,796"
+Philip Billing,Huddersfield Town,Denmark,MID,"1,724"
+Alex Pritchard,Huddersfield Town,England,MID,"1,395"
+Juninho Bacuna,Huddersfield Town,Netherlands,MID,"1,061"
+Isaac Mbenza,Huddersfield Town,Belgium,MID,382
+Jason Puncheon,Huddersfield Town,England,MID,284
+Rajiv van La Parra,Huddersfield Town,Netherlands,MID,211
+Ramadan Sobhi,Huddersfield Town,Egypt,MID,69
+Danny Williams,Huddersfield Town,United States,MID,39
+Aaron Rowe,Huddersfield Town,England,MID,37
+Matty Daly,Huddersfield Town,England,MID,15
+Abdelhamid Sabiri,Huddersfield Town,Germany,MID,14
+Wilfred Ndidi,Leicester City,Nigeria,MID,"2,695"
+James Maddison,Leicester City,England,MID,"2,098"
+Nampalys Mendy,Leicester City,France,MID,"1,362"
+Marc Albrighton,Leicester City,England,MID,"1,084"
+Demarai Gray,Leicester City,England,MID,"1,066"
+Youri Tielemans,Leicester City,Belgium,MID,829
+Rachid Ghezzal,Leicester City,Algeria,MID,626
+Daniel Amartey,Leicester City,Ghana,MID,530
+Harvey Barnes,Leicester City,England,MID,528
+Hamza Choudhury,Leicester City,England,MID,338
+Vicente Iborra,Leicester City,Spain,MID,173
+Adrien Silva,Leicester City,Portugal,MID,95
+Fousseni Diabaté,Leicester City,Mali,MID,22
+Georginio Wijnaldum,Liverpool,Netherlands,MID,"2,144"
+Jordan Henderson,Liverpool,England,MID,"2,050"
+James Milner,Liverpool,England,MID,"1,915"
+Fabinho,Liverpool,Brazil,MID,"1,914"
+Naby Keita,Liverpool,Guinea,MID,"1,301"
+Adam Lallana,Liverpool,England,MID,413
+Alex Oxlade-Chamberlain,Liverpool,England,MID,20
+Fernandinho,Manchester City,Brazil,MID,"2,436"
+David Silva,Manchester City,Spain,MID,"2,407"
+Ilkay Gündogan,Manchester City,Germany,MID,"2,371"
+Bernardo Silva,Manchester City,Portugal,MID,"2,286"
+Oleksandr Zinchenko,Manchester City,Ukraine,MID,"1,509"
+Riyad Mahrez,Manchester City,Algeria,MID,"1,126"
+Kevin De Bruyne,Manchester City,Belgium,MID,"1,012"
+Phil Foden,Manchester City,England,MID,295
+Paul Pogba,Manchester United,France,MID,"2,747"
+Nemanja Matic,Manchester United,Serbia,MID,"2,202"
+Ander Herrera,Manchester United,Spain,MID,"1,258"
+Jesse Lingard,Manchester United,England,MID,"1,040"
+Fred,Manchester United,Brazil,MID,988
+Juan Mata,Manchester United,Spain,MID,906
+Scott McTominay,Manchester United,Scotland,MID,582
+Marouane Fellaini,Manchester United,Belgium,MID,569
+Andreas Pereira,Manchester United,Brazil,MID,463
+Matt Ritchie,Newcastle United,Scotland,MID,"2,050"
+Mohamed Diamé,Newcastle United,Senegal,MID,"1,136"
+Isaac Hayden,Newcastle United,England,MID,"1,084"
+Kenedy,Newcastle United,Brazil,MID,864
+Jonjo Shelvey,Newcastle United,England,MID,809
+Ki Sung-yueng,Newcastle United,South Korea,MID,795
+Christian Atsu,Newcastle United,Ghana,MID,713
+Miguel Almirón,Newcastle United,Paraguay,MID,409
+Sean Longstaff,Newcastle United,England,MID,398
+Jacob Murphy,Newcastle United,England,MID,120
+Pierre-Emile Højbjerg,Southampton,Denmark,MID,"2,364"
+Nathan Redmond,Southampton,England,MID,"1,894"
+Oriol Romeu,Southampton,Spain,MID,"1,472"
+James Ward-Prowse,Southampton,England,MID,"1,180"
+Mario Lemina,Southampton,Gabon,MID,"1,154"
+Stuart Armstrong,Southampton,Scotland,MID,904
+Mohamed Elyounoussi,Southampton,Norway,MID,410
+Steven Davis,Southampton,Northern Ireland,MID,82
+Josh Sims,Southampton,England,MID,82
+Callum Slattery,Southampton,England,MID,60
+Christian Eriksen,Tottenham Hotspur,Denmark,MID,"2,392"
+Moussa Sissoko,Tottenham Hotspur,France,MID,"1,739"
+Harry Winks,Tottenham Hotspur,England,MID,"1,594"
+Dele Alli,Tottenham Hotspur,England,MID,"1,408"
+Eric Dier,Tottenham Hotspur,England,MID,"1,285"
+Lucas Moura,Tottenham Hotspur,Brazil,MID,"1,200"
+Erik Lamela,Tottenham Hotspur,Argentina,MID,650
+Victor Wanyama,Tottenham Hotspur,Kenya,MID,414
+Mousa Dembélé,Tottenham Hotspur,Belgium,MID,376
+Oliver Skipp,Tottenham Hotspur,England,MID,180
+Georges-Kévin Nkoudou,Tottenham Hotspur,France,MID,6
+Luke Amos,Tottenham Hotspur,England,MID,4
+Abdoulaye Doucouré,Watford,France,MID,"2,436"
+Etienne Capoue,Watford,France,MID,"2,298"
+Roberto Pereyra,Watford,Argentina,MID,"1,703"
+Will Hughes,Watford,England,MID,"1,535"
+Ken Sema,Watford,Sweden,MID,419
+Tom Cleverley,Watford,England,MID,297
+Domingos Quina,Watford,Portugal,MID,294
+Nathaniel Chalobah,Watford,England,MID,156
+Felipe Anderson,West Ham United,Brazil,MID,"2,535"
+Mark Noble,West Ham United,England,MID,"1,848"
+Robert Snodgrass,West Ham United,Scotland,MID,"1,556"
+Michail Antonio,West Ham United,England,MID,"1,335"
+Pedro Obiang,West Ham United,Equatorial Guinea,MID,723
+Manuel Lanzini,West Ham United,Argentina,MID,574
+Grady Diangana,West Ham United,England,MID,433
+Jack Wilshere,West Ham United,England,MID,282
+Samir Nasri,West Ham United,France,MID,178
+Carlos Sánchez,West Ham United,Colombia,MID,172
+Ben Johnson,West Ham United,England,MID,33
+João Moutinho,Wolverhampton Wanderers,Portugal,MID,"2,500"
+Rúben Neves,Wolverhampton Wanderers,Portugal,MID,"2,445"
+Conor Coady,Wolverhampton Wanderers,England,MID,"1,978"
+Diogo Jota,Wolverhampton Wanderers,Portugal,MID,"1,277"
+Romain Saïss,Wolverhampton Wanderers,Morocco,MID,960
+Leander Dendoncker,Wolverhampton Wanderers,Belgium,MID,858
+Hélder Costa,Wolverhampton Wanderers,Portugal,MID,768
+Morgan Gibbs-White,Wolverhampton Wanderers,England,MID,448
+Nathan Aké,AFC Bournemouth,Netherlands,DEF,"2,243"
+Steve Cook,AFC Bournemouth,England,DEF,"2,032"
+Adam Smith,AFC Bournemouth,England,DEF,"1,439"
+Charlie Daniels,AFC Bournemouth,England,DEF,"1,236"
+Simon Francis,AFC Bournemouth,England,DEF,"1,014"
+Nathaniel Clyne,AFC Bournemouth,England,DEF,740
+Chris Mepham,AFC Bournemouth,Wales,DEF,532
+Diego Rico,AFC Bournemouth,Spain,DEF,498
+Jack Simpson,AFC Bournemouth,England,DEF,310
+Tyrone Mings,AFC Bournemouth,England,DEF,125
+Shkodran Mustafi,Arsenal,Germany,DEF,"2,223"
+Sokratis,Arsenal,Greece,DEF,"1,699"
+Nacho Monreal,Arsenal,Spain,DEF,"1,580"
+Sead Kolasinac,Arsenal,Bosnia And Herzegovina,DEF,"1,469"
+Héctor Bellerín,Arsenal,Spain,DEF,"1,159"
+Laurent Koscielny,Arsenal,France,DEF,"1,082"
+Rob Holding,Arsenal,England,DEF,724
+Stephan Lichtsteiner,Arsenal,Switzerland,DEF,718
+Konstantinos Mavropanos,Arsenal,Greece,DEF,158
+Carl Jenkinson,Arsenal,England,DEF,111
+Lewis Dunk,Brighton and Hove Albion,England,DEF,"1,963"
+Shane Duffy,Brighton and Hove Albion,Ireland,DEF,"1,805"
+Martín Montoya,Brighton and Hove Albion,Spain,DEF,"1,482"
+Bernardo,Brighton and Hove Albion,Brazil,DEF,"1,364"
+Gaëtan Bong,Brighton and Hove Albion,Cameroon,DEF,"1,109"
+Bruno,Brighton and Hove Albion,Spain,DEF,755
+Leon Balogun,Brighton and Hove Albion,Nigeria,DEF,308
+Charlie Taylor,Burnley,England,DEF,"2,285"
+Ben Mee,Burnley,England,DEF,"2,037"
+James Tarkowski,Burnley,England,DEF,"1,731"
+Matthew Lowton,Burnley,England,DEF,"1,199"
+Phil Bardsley,Burnley,Scotland,DEF,"1,021"
+Kevin Long,Burnley,Ireland,DEF,254
+Stephen Ward,Burnley,Ireland,DEF,178
+Ben Gibson,Burnley,England,DEF,39
+Bruno Ecuele Manga,Cardiff City,Gabon,DEF,"1,609"
+Sean Morrison,Cardiff City,England,DEF,"1,388"
+Joe Bennett,Cardiff City,England,DEF,"1,313"
+Sol Bamba,Cardiff City,Cote D'Ivoire,DEF,"1,083"
+Callum Paterson,Cardiff City,Scotland,DEF,856
+Lee Peltier,Cardiff City,England,DEF,623
+Greg Cunningham,Cardiff City,Ireland,DEF,309
+Jazz Richards,Cardiff City,Wales,DEF,51
+César Azpilicueta,Chelsea,Spain,DEF,"3,419"
+David Luiz,Chelsea,Brazil,DEF,"3,042"
+Antonio Rüdiger,Chelsea,Germany,DEF,"2,846"
+Marcos Alonso,Chelsea,Spain,DEF,"2,747"
+Emerson,Chelsea,Italy,DEF,625
+Andreas Christensen,Chelsea,Denmark,DEF,523
+Davide Zappacosta,Chelsea,Italy,DEF,113
+Gary Cahill,Chelsea,England,DEF,19
+Patrick van Aanholt,Crystal Palace,Netherlands,DEF,"2,388"
+Mamadou Sakho,Crystal Palace,France,DEF,"1,632"
+James Tomkins,Crystal Palace,England,DEF,"1,481"
+Jeffrey Schlupp,Crystal Palace,Ghana,DEF,967
+Martin Kelly,Crystal Palace,England,DEF,525
+Scott Dann,Crystal Palace,England,DEF,360
+Joel Ward,Crystal Palace,England,DEF,343
+Pape Souaré,Crystal Palace,Senegal,DEF,5
+Lucas Digne,Everton,France,DEF,"2,627"
+Michael Keane,Everton,England,DEF,"2,016"
+Seamus Coleman,Everton,Ireland,DEF,"1,988"
+Kurt Zouma,Everton,France,DEF,"1,826"
+Jonjoe Kenny,Everton,England,DEF,710
+Yerry Mina,Everton,Colombia,DEF,620
+Mason Holgate,Everton,England,DEF,311
+Leighton Baines,Everton,England,DEF,297
+Phil Jagielka,Everton,England,DEF,228
+Calum Chambers,Fulham,England,DEF,"1,983"
+Denis Odoi,Fulham,Belgium,DEF,"1,871"
+Maxime Le Marchand,Fulham,France,DEF,"1,839"
+Joe Bryan,Fulham,England,DEF,"1,672"
+Cyrus Christie,Fulham,Ireland,DEF,"1,578"
+Tim Ream,Fulham,United States,DEF,"1,263"
+Alfie Mawson,Fulham,England,DEF,628
+Timothy Fosu-Mensah,Fulham,Netherlands,DEF,586
+Håvard Nordtveit,Fulham,Norway,DEF,272
+Neeskens Kebano,Fulham,The Democratic Republic Of Congo,DEF,56
+Christopher Schindler,Huddersfield Town,Germany,DEF,"1,974"
+Terence Kongolo,Huddersfield Town,Netherlands,DEF,"1,691"
+Zanka,Huddersfield Town,Denmark,DEF,"1,488"
+Erik Durm,Huddersfield Town,Germany,DEF,"1,372"
+Chris Löwe,Huddersfield Town,Germany,DEF,"1,343"
+Florent Hadergjonaj,Huddersfield Town,Switzerland,DEF,"1,190"
+Tommy Smith,Huddersfield Town,England,DEF,744
+Jon Gorenc Stankovic,Huddersfield Town,Slovenia,DEF,413
+Demeaco Duhaney,Huddersfield Town,England,DEF,40
+Ben Chilwell,Leicester City,England,DEF,"2,865"
+Ricardo Pereira,Leicester City,Portugal,DEF,"2,679"
+Harry Maguire,Leicester City,England,DEF,"2,137"
+Jonny Evans,Leicester City,Northern Ireland,DEF,"1,341"
+Wes Morgan,Leicester City,Jamaica,DEF,"1,167"
+Çaglar Söyüncü,Leicester City,Turkey,DEF,279
+Danny Simpson,Leicester City,England,DEF,204
+Christian Fuchs,Leicester City,Austria,DEF,190
+Virgil van Dijk,Liverpool,Netherlands,DEF,"3,471"
+Andrew Robertson,Liverpool,Scotland,DEF,"3,223"
+Trent Alexander-Arnold,Liverpool,England,DEF,"2,575"
+Joel Matip,Liverpool,Cameroon,DEF,"1,576"
+Joseph Gomez,Liverpool,England,DEF,964
+Dejan Lovren,Liverpool,Croatia,DEF,957
+Alberto Moreno,Liverpool,Spain,DEF,141
+Nathaniel Clyne,Liverpool,England,DEF,105
+Aymeric Laporte,Manchester City,France,DEF,"3,354"
+Kyle Walker,Manchester City,England,DEF,"2,957"
+John Stones,Manchester City,England,DEF,"1,915"
+Nicolás Otamendi,Manchester City,Argentina,DEF,"1,405"
+Vincent Kompany,Manchester City,Belgium,DEF,"1,356"
+Danilo,Manchester City,Brazil,DEF,"1,004"
+Benjamin Mendy,Manchester City,France,DEF,926
+Fabian Delph,Manchester City,England,DEF,865
+Luke Shaw,Manchester United,England,DEF,"2,389"
+Ashley Young,Manchester United,England,DEF,"2,287"
+Victor Lindelöf,Manchester United,Sweden,DEF,"1,794"
+Chris Smalling,Manchester United,England,DEF,"1,232"
+Phil Jones,Manchester United,England,DEF,938
+Diogo Dalot,Manchester United,Portugal,DEF,721
+Eric Bailly,Manchester United,Cote D'Ivoire,DEF,406
+Antonio Valencia,Manchester United,Ecuador,DEF,374
+Matteo Darmian,Manchester United,Italy,DEF,280
+Marcos Rojo,Manchester United,Argentina,DEF,174
+Jamaal Lascelles,Newcastle United,England,DEF,"1,524"
+Fabian Schär,Newcastle United,Switzerland,DEF,"1,467"
+DeAndre Yedlin,Newcastle United,United States,DEF,"1,443"
+Paul Dummett,Newcastle United,Wales,DEF,"1,193"
+Federico Fernández,Newcastle United,Argentina,DEF,834
+Florian Lejeune,Newcastle United,France,DEF,726
+Javier Manquillo,Newcastle United,Spain,DEF,702
+Ciaran Clark,Newcastle United,Ireland,DEF,441
+Antonio Barreca,Newcastle United,Italy,DEF,3
+Ryan Bertrand,Southampton,England,DEF,"1,387"
+Jan Bednarek,Southampton,Poland,DEF,"1,276"
+Jannik Vestergaard,Southampton,Denmark,DEF,"1,263"
+Jack Stephens,Southampton,England,DEF,"1,048"
+Cédric Soares,Southampton,Portugal,DEF,"1,000"
+Yan Valery,Southampton,France,DEF,931
+Matt Targett,Southampton,England,DEF,837
+Wesley Hoedt,Southampton,Netherlands,DEF,831
+Maya Yoshida,Southampton,Japan,DEF,795
+Kayne Ramsay,Southampton,England,DEF,28
+Toby Alderweireld,Tottenham Hotspur,Belgium,DEF,"2,719"
+Kieran Trippier,Tottenham Hotspur,England,DEF,"2,343"
+Jan Vertonghen,Tottenham Hotspur,Belgium,DEF,"1,836"
+Davinson Sánchez,Tottenham Hotspur,Colombia,DEF,"1,699"
+Ben Davies,Tottenham Hotspur,Wales,DEF,"1,602"
+Danny Rose,Tottenham Hotspur,England,DEF,"1,569"
+Juan Foyth,Tottenham Hotspur,Argentina,DEF,779
+Serge Aurier,Tottenham Hotspur,Cote D'Ivoire,DEF,456
+Kyle Walker-Peters,Tottenham Hotspur,England,DEF,288
+José Holebas,Watford,Greece,DEF,"1,742"
+Craig Cathcart,Watford,Northern Ireland,DEF,"1,675"
+Kiko Femenía,Watford,Spain,DEF,"1,464"
+Adrian Mariappa,Watford,Jamaica,DEF,"1,138"
+Daryl Janmaat,Watford,Netherlands,DEF,"1,032"
+Christian Kabasele,Watford,Belgium,DEF,807
+Adam Masina,Watford,Italy,DEF,731
+Miguel Britos,Watford,Uruguay,DEF,86
+Marc Navarro,Watford,Spain,DEF,45
+Ben Wilmot,Watford,England,DEF,13
+Sebastian Prödl,Watford,Austria,DEF,3
+Declan Rice,West Ham United,England,DEF,"1,942"
+Issa Diop,West Ham United,France,DEF,"1,591"
+Pablo Zabaleta,West Ham United,Argentina,DEF,"1,501"
+Arthur Masuaku,West Ham United,The Democratic Republic Of Congo,DEF,"1,437"
+Aaron Cresswell,West Ham United,England,DEF,"1,314"
+Fabián Balbuena,West Ham United,Paraguay,DEF,"1,185"
+Angelo Ogbonna,West Ham United,Italy,DEF,"1,059"
+Ryan Fredericks,West Ham United,England,DEF,736
+Matt Doherty,Wolverhampton Wanderers,Ireland,DEF,"2,374"
+Willy Boly,Wolverhampton Wanderers,France,DEF,"2,236"
+Jonny,Wolverhampton Wanderers,Spain,DEF,"1,916"
+Ryan Bennett,Wolverhampton Wanderers,England,DEF,"1,754"
+Rúben Vinagre,Wolverhampton Wanderers,Portugal,DEF,555
