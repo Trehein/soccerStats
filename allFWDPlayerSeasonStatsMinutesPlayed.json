@@ -1,0 +1,840 @@
+{
+   "Joshua King": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Norway",
+         "position": "FWD",
+         "minutesPlayed": 2970
+      }
+   ],
+   "Callum Wilson": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2534
+      }
+   ],
+   "Lys Mousset": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 350
+      }
+   ],
+   "Dominic Solanke": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 340
+      }
+   ],
+   "Jermain Defoe": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 22
+      }
+   ],
+   "Sam Surridge": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 11
+      }
+   ],
+   "Pierre-Emerick Aubameyang": [
+      {
+         "club": "Arsenal",
+         "nationality": "Gabon",
+         "position": "FWD",
+         "minutesPlayed": 2731
+      }
+   ],
+   "Alexandre Lacazette": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 2505
+      }
+   ],
+   "Danny Welbeck": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 147
+      }
+   ],
+   "Eddie Nketiah": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 63
+      }
+   ],
+   "Bukayo Saka": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 7
+      }
+   ],
+   "Glenn Murray": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2512
+      }
+   ],
+   "Jürgen Locadia": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "minutesPlayed": 1229
+      }
+   ],
+   "Alireza Jahanbakhsh": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Iran",
+         "position": "FWD",
+         "minutesPlayed": 1019
+      }
+   ],
+   "Florin Andone": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Romania",
+         "position": "FWD",
+         "minutesPlayed": 873
+      }
+   ],
+   "José Izquierdo": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Colombia",
+         "position": "FWD",
+         "minutesPlayed": 794
+      }
+   ],
+   "Chris Wood": [
+      {
+         "club": "Burnley",
+         "nationality": "New Zealand",
+         "position": "FWD",
+         "minutesPlayed": 2594
+      }
+   ],
+   "Ashley Barnes": [
+      {
+         "club": "Burnley",
+         "nationality": "Austria",
+         "position": "FWD",
+         "minutesPlayed": 2386
+      }
+   ],
+   "Dwight McNeil": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 1597
+      }
+   ],
+   "Sam Vokes": [
+      {
+         "club": "Burnley",
+         "nationality": "Wales",
+         "position": "FWD",
+         "minutesPlayed": 914
+      }
+   ],
+   "Matej Vydra": [
+      {
+         "club": "Burnley",
+         "nationality": "Czech Republic",
+         "position": "FWD",
+         "minutesPlayed": 313
+      }
+   ],
+   "Peter Crouch": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 86
+      }
+   ],
+   "David Junior Hoilett": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Canada",
+         "position": "FWD",
+         "minutesPlayed": 2142
+      }
+   ],
+   "Nathaniel Mendez-Laing": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 986
+      }
+   ],
+   "Oumar Niasse": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "minutesPlayed": 940
+      },
+      {
+         "club": "Everton",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "minutesPlayed": 58
+      }
+   ],
+   "Kenneth Zohore": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Denmark",
+         "position": "FWD",
+         "minutesPlayed": 746
+      }
+   ],
+   "Danny Ward": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 440
+      }
+   ],
+   "Rhys Healey": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 49
+      }
+   ],
+   "Gary Madine": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 32
+      }
+   ],
+   "Eden Hazard": [
+      {
+         "club": "Chelsea",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 2925
+      }
+   ],
+   "Willian": [
+      {
+         "club": "Chelsea",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "minutesPlayed": 2108
+      }
+   ],
+   "Pedro": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 1780
+      }
+   ],
+   "Gonzalo Higuaín": [
+      {
+         "club": "Chelsea",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "minutesPlayed": 1092
+      }
+   ],
+   "Álvaro Morata": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 943
+      }
+   ],
+   "Olivier Giroud": [
+      {
+         "club": "Chelsea",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 833
+      }
+   ],
+   "Callum Hudson-Odoi": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 391
+      }
+   ],
+   "Wilfried Zaha": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Cote D'Ivoire",
+         "position": "FWD",
+         "minutesPlayed": 3040
+      }
+   ],
+   "Jordan Ayew": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Ghana",
+         "position": "FWD",
+         "minutesPlayed": 1187
+      }
+   ],
+   "Christian Benteke": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 813
+      }
+   ],
+   "Michy Batshuayi": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 756
+      }
+   ],
+   "Alexander Sørloth": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Norway",
+         "position": "FWD",
+         "minutesPlayed": 173
+      }
+   ],
+   "Connor Wickham": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 61
+      }
+   ],
+   "Richarlison": [
+      {
+         "club": "Everton",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "minutesPlayed": 2678
+      }
+   ],
+   "Theo Walcott": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2122
+      }
+   ],
+   "Dominic Calvert-Lewin": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 1775
+      }
+   ],
+   "Cenk Tosun": [
+      {
+         "club": "Everton",
+         "nationality": "Turkey",
+         "position": "FWD",
+         "minutesPlayed": 1050
+      }
+   ],
+   "Ademola Lookman": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 601
+      }
+   ],
+   "Aleksandar Mitrovic": [
+      {
+         "club": "Fulham",
+         "nationality": "Serbia",
+         "position": "FWD",
+         "minutesPlayed": 3281
+      }
+   ],
+   "Luciano Vietto": [
+      {
+         "club": "Fulham",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "minutesPlayed": 985
+      }
+   ],
+   "Aboubakar Kamara": [
+      {
+         "club": "Fulham",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 690
+      }
+   ],
+   "Floyd Ayité": [
+      {
+         "club": "Fulham",
+         "nationality": "Togo",
+         "position": "FWD",
+         "minutesPlayed": 468
+      }
+   ],
+   "Steve Mounie": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Benin",
+         "position": "FWD",
+         "minutesPlayed": 1776
+      }
+   ],
+   "Elias Kachunga": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "FWD",
+         "minutesPlayed": 1181
+      }
+   ],
+   "Laurent Depoitre": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 1062
+      }
+   ],
+   "Karlan Grant": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 874
+      }
+   ],
+   "Adama Diakhaby": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 553
+      }
+   ],
+   "Collin Quaner": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "FWD",
+         "minutesPlayed": 37
+      }
+   ],
+   "Jamie Vardy": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2728
+      }
+   ],
+   "Kelechi Iheanacho": [
+      {
+         "club": "Leicester City",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "minutesPlayed": 930
+      }
+   ],
+   "Shinji Okazaki": [
+      {
+         "club": "Leicester City",
+         "nationality": "Japan",
+         "position": "FWD",
+         "minutesPlayed": 270
+      }
+   ],
+   "Mohamed Salah": [
+      {
+         "club": "Liverpool",
+         "nationality": "Egypt",
+         "position": "FWD",
+         "minutesPlayed": 3256
+      }
+   ],
+   "Sadio Mané": [
+      {
+         "club": "Liverpool",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "minutesPlayed": 3085
+      }
+   ],
+   "Roberto Firmino": [
+      {
+         "club": "Liverpool",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "minutesPlayed": 2617
+      }
+   ],
+   "Xherdan Shaqiri": [
+      {
+         "club": "Liverpool",
+         "nationality": "Switzerland",
+         "position": "FWD",
+         "minutesPlayed": 1058
+      }
+   ],
+   "Daniel Sturridge": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 499
+      }
+   ],
+   "Divock Origi": [
+      {
+         "club": "Liverpool",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 367
+      }
+   ],
+   "Raheem Sterling": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2776
+      }
+   ],
+   "Sergio Agüero": [
+      {
+         "club": "Manchester City",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "minutesPlayed": 2479
+      }
+   ],
+   "Leroy Sané": [
+      {
+         "club": "Manchester City",
+         "nationality": "Germany",
+         "position": "FWD",
+         "minutesPlayed": 1867
+      }
+   ],
+   "Gabriel Jesus": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "minutesPlayed": 1021
+      }
+   ],
+   "Marcus Rashford": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2342
+      }
+   ],
+   "Romelu Lukaku": [
+      {
+         "club": "Manchester United",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "minutesPlayed": 2130
+      }
+   ],
+   "Anthony Martial": [
+      {
+         "club": "Manchester United",
+         "nationality": "France",
+         "position": "FWD",
+         "minutesPlayed": 1624
+      }
+   ],
+   "Alexis Sánchez": [
+      {
+         "club": "Manchester United",
+         "nationality": "Chile",
+         "position": "FWD",
+         "minutesPlayed": 877
+      }
+   ],
+   "Mason Greenwood": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 115
+      }
+   ],
+   "Ayoze Pérez": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 2927
+      }
+   ],
+   "Salomón Rondón": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Venezuela",
+         "position": "FWD",
+         "minutesPlayed": 2608
+      }
+   ],
+   "Joselu": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 587
+      }
+   ],
+   "Yoshinori Muto": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Japan",
+         "position": "FWD",
+         "minutesPlayed": 517
+      }
+   ],
+   "Danny Ings": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 1666
+      }
+   ],
+   "Shane Long": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "minutesPlayed": 1270
+      }
+   ],
+   "Charlie Austin": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 980
+      }
+   ],
+   "Manolo Gabbiadini": [
+      {
+         "club": "Southampton",
+         "nationality": "Italy",
+         "position": "FWD",
+         "minutesPlayed": 470
+      }
+   ],
+   "Michael Obafemi": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "minutesPlayed": 136
+      }
+   ],
+   "Sam Gallagher": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 32
+      }
+   ],
+   "Harry Kane": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2427
+      }
+   ],
+   "Son Heung-Min": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "South Korea",
+         "position": "FWD",
+         "minutesPlayed": 2045
+      }
+   ],
+   "Fernando Llorente": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 684
+      }
+   ],
+   "Vincent Janssen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "minutesPlayed": 36
+      }
+   ],
+   "Troy Deeney": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 2547
+      }
+   ],
+   "Gerard Deulofeu": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 2079
+      }
+   ],
+   "Andre Gray": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 1360
+      }
+   ],
+   "Isaac Success": [
+      {
+         "club": "Watford",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "minutesPlayed": 1039
+      }
+   ],
+   "Stefano Okaka": [
+      {
+         "club": "Watford",
+         "nationality": "Italy",
+         "position": "FWD",
+         "minutesPlayed": 22
+      }
+   ],
+   "Marko Arnautovic": [
+      {
+         "club": "West Ham United",
+         "nationality": "Austria",
+         "position": "FWD",
+         "minutesPlayed": 1999
+      }
+   ],
+   "Chicharito": [
+      {
+         "club": "West Ham United",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "minutesPlayed": 1337
+      }
+   ],
+   "Lucas Pérez": [
+      {
+         "club": "West Ham United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 466
+      }
+   ],
+   "Andriy Yarmolenko": [
+      {
+         "club": "West Ham United",
+         "nationality": "Ukraine",
+         "position": "FWD",
+         "minutesPlayed": 460
+      }
+   ],
+   "Andy Carroll": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "FWD",
+         "minutesPlayed": 455
+      }
+   ],
+   "Xande Silva": [
+      {
+         "club": "West Ham United",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "minutesPlayed": 17
+      }
+   ],
+   "Raúl Jiménez": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "minutesPlayed": 3122
+      }
+   ],
+   "Adama Traoré": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Spain",
+         "position": "FWD",
+         "minutesPlayed": 892
+      }
+   ],
+   "Ivan Cavaleiro": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "minutesPlayed": 683
+      }
+   ],
+   "Léo Bonatini": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "minutesPlayed": 130
+      }
+   ]
+}

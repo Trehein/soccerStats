@@ -1,0 +1,832 @@
+{
+   "Joshua King": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "Norway",
+         "position": "FWD",
+         "touches": 1493
+      }
+   ],
+   "Callum Wilson": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 838
+      }
+   ],
+   "Lys Mousset": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 216
+      }
+   ],
+   "Dominic Solanke": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 195
+      }
+   ],
+   "Sam Surridge": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 9
+      }
+   ],
+   "Jermain Defoe": [
+      {
+         "club": "AFC Bournemouth",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 5
+      }
+   ],
+   "Alexandre Lacazette": [
+      {
+         "club": "Arsenal",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 1313
+      }
+   ],
+   "Pierre-Emerick Aubameyang": [
+      {
+         "club": "Arsenal",
+         "nationality": "Gabon",
+         "position": "FWD",
+         "touches": 1132
+      }
+   ],
+   "Danny Welbeck": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 87
+      }
+   ],
+   "Eddie Nketiah": [
+      {
+         "club": "Arsenal",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 37
+      }
+   ],
+   "Glenn Murray": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 978
+      }
+   ],
+   "Jürgen Locadia": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "touches": 525
+      }
+   ],
+   "Alireza Jahanbakhsh": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Iran",
+         "position": "FWD",
+         "touches": 514
+      }
+   ],
+   "Florin Andone": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Romania",
+         "position": "FWD",
+         "touches": 401
+      }
+   ],
+   "José Izquierdo": [
+      {
+         "club": "Brighton and Hove Albion",
+         "nationality": "Colombia",
+         "position": "FWD",
+         "touches": 345
+      }
+   ],
+   "Ashley Barnes": [
+      {
+         "club": "Burnley",
+         "nationality": "Austria",
+         "position": "FWD",
+         "touches": 984
+      }
+   ],
+   "Chris Wood": [
+      {
+         "club": "Burnley",
+         "nationality": "New Zealand",
+         "position": "FWD",
+         "touches": 976
+      }
+   ],
+   "Dwight McNeil": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 871
+      }
+   ],
+   "Sam Vokes": [
+      {
+         "club": "Burnley",
+         "nationality": "Wales",
+         "position": "FWD",
+         "touches": 399
+      }
+   ],
+   "Matej Vydra": [
+      {
+         "club": "Burnley",
+         "nationality": "Czech Republic",
+         "position": "FWD",
+         "touches": 138
+      }
+   ],
+   "Peter Crouch": [
+      {
+         "club": "Burnley",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 42
+      }
+   ],
+   "David Junior Hoilett": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Canada",
+         "position": "FWD",
+         "touches": 960
+      }
+   ],
+   "Nathaniel Mendez-Laing": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 514
+      }
+   ],
+   "Oumar Niasse": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "touches": 410
+      },
+      {
+         "club": "Everton",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "touches": 46
+      }
+   ],
+   "Kenneth Zohore": [
+      {
+         "club": "Cardiff City",
+         "nationality": "Denmark",
+         "position": "FWD",
+         "touches": 265
+      }
+   ],
+   "Danny Ward": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 159
+      }
+   ],
+   "Rhys Healey": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 25
+      }
+   ],
+   "Gary Madine": [
+      {
+         "club": "Cardiff City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 18
+      }
+   ],
+   "Eden Hazard": [
+      {
+         "club": "Chelsea",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 2678
+      }
+   ],
+   "Willian": [
+      {
+         "club": "Chelsea",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "touches": 1792
+      }
+   ],
+   "Pedro": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 1438
+      }
+   ],
+   "Gonzalo Higuaín": [
+      {
+         "club": "Chelsea",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "touches": 462
+      }
+   ],
+   "Álvaro Morata": [
+      {
+         "club": "Chelsea",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 384
+      }
+   ],
+   "Olivier Giroud": [
+      {
+         "club": "Chelsea",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 371
+      }
+   ],
+   "Callum Hudson-Odoi": [
+      {
+         "club": "Chelsea",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 309
+      }
+   ],
+   "Wilfried Zaha": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Cote D'Ivoire",
+         "position": "FWD",
+         "touches": 1932
+      }
+   ],
+   "Jordan Ayew": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Ghana",
+         "position": "FWD",
+         "touches": 562
+      }
+   ],
+   "Christian Benteke": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 381
+      }
+   ],
+   "Michy Batshuayi": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 273
+      }
+   ],
+   "Alexander Sørloth": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "Norway",
+         "position": "FWD",
+         "touches": 95
+      }
+   ],
+   "Connor Wickham": [
+      {
+         "club": "Crystal Palace",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 29
+      }
+   ],
+   "Richarlison": [
+      {
+         "club": "Everton",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "touches": 1496
+      }
+   ],
+   "Theo Walcott": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 985
+      }
+   ],
+   "Dominic Calvert-Lewin": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 802
+      }
+   ],
+   "Cenk Tosun": [
+      {
+         "club": "Everton",
+         "nationality": "Turkey",
+         "position": "FWD",
+         "touches": 445
+      }
+   ],
+   "Ademola Lookman": [
+      {
+         "club": "Everton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 439
+      }
+   ],
+   "Aleksandar Mitrovic": [
+      {
+         "club": "Fulham",
+         "nationality": "Serbia",
+         "position": "FWD",
+         "touches": 1684
+      }
+   ],
+   "Luciano Vietto": [
+      {
+         "club": "Fulham",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "touches": 592
+      }
+   ],
+   "Aboubakar Kamara": [
+      {
+         "club": "Fulham",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 379
+      }
+   ],
+   "Floyd Ayité": [
+      {
+         "club": "Fulham",
+         "nationality": "Togo",
+         "position": "FWD",
+         "touches": 303
+      }
+   ],
+   "Steve Mounie": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Benin",
+         "position": "FWD",
+         "touches": 855
+      }
+   ],
+   "Elias Kachunga": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "The Democratic Republic Of Congo",
+         "position": "FWD",
+         "touches": 500
+      }
+   ],
+   "Laurent Depoitre": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 467
+      }
+   ],
+   "Karlan Grant": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 364
+      }
+   ],
+   "Adama Diakhaby": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 273
+      }
+   ],
+   "Collin Quaner": [
+      {
+         "club": "Huddersfield Town",
+         "nationality": "Germany",
+         "position": "FWD",
+         "touches": 22
+      }
+   ],
+   "Jamie Vardy": [
+      {
+         "club": "Leicester City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 757
+      }
+   ],
+   "Kelechi Iheanacho": [
+      {
+         "club": "Leicester City",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "touches": 419
+      }
+   ],
+   "Shinji Okazaki": [
+      {
+         "club": "Leicester City",
+         "nationality": "Japan",
+         "position": "FWD",
+         "touches": 169
+      }
+   ],
+   "Mohamed Salah": [
+      {
+         "club": "Liverpool",
+         "nationality": "Egypt",
+         "position": "FWD",
+         "touches": 1819
+      }
+   ],
+   "Sadio Mané": [
+      {
+         "club": "Liverpool",
+         "nationality": "Senegal",
+         "position": "FWD",
+         "touches": 1806
+      }
+   ],
+   "Roberto Firmino": [
+      {
+         "club": "Liverpool",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "touches": 1762
+      }
+   ],
+   "Xherdan Shaqiri": [
+      {
+         "club": "Liverpool",
+         "nationality": "Switzerland",
+         "position": "FWD",
+         "touches": 849
+      }
+   ],
+   "Daniel Sturridge": [
+      {
+         "club": "Liverpool",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 276
+      }
+   ],
+   "Divock Origi": [
+      {
+         "club": "Liverpool",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 186
+      }
+   ],
+   "Raheem Sterling": [
+      {
+         "club": "Manchester City",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 1958
+      }
+   ],
+   "Leroy Sané": [
+      {
+         "club": "Manchester City",
+         "nationality": "Germany",
+         "position": "FWD",
+         "touches": 1345
+      }
+   ],
+   "Sergio Agüero": [
+      {
+         "club": "Manchester City",
+         "nationality": "Argentina",
+         "position": "FWD",
+         "touches": 1241
+      }
+   ],
+   "Gabriel Jesus": [
+      {
+         "club": "Manchester City",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "touches": 598
+      }
+   ],
+   "Marcus Rashford": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 1227
+      }
+   ],
+   "Anthony Martial": [
+      {
+         "club": "Manchester United",
+         "nationality": "France",
+         "position": "FWD",
+         "touches": 1047
+      }
+   ],
+   "Romelu Lukaku": [
+      {
+         "club": "Manchester United",
+         "nationality": "Belgium",
+         "position": "FWD",
+         "touches": 855
+      }
+   ],
+   "Alexis Sánchez": [
+      {
+         "club": "Manchester United",
+         "nationality": "Chile",
+         "position": "FWD",
+         "touches": 580
+      }
+   ],
+   "Mason Greenwood": [
+      {
+         "club": "Manchester United",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 91
+      }
+   ],
+   "Ayoze Pérez": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 1433
+      }
+   ],
+   "Salomón Rondón": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Venezuela",
+         "position": "FWD",
+         "touches": 1248
+      }
+   ],
+   "Joselu": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 322
+      }
+   ],
+   "Yoshinori Muto": [
+      {
+         "club": "Newcastle United",
+         "nationality": "Japan",
+         "position": "FWD",
+         "touches": 228
+      }
+   ],
+   "Danny Ings": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 720
+      }
+   ],
+   "Shane Long": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "touches": 558
+      }
+   ],
+   "Charlie Austin": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 368
+      }
+   ],
+   "Manolo Gabbiadini": [
+      {
+         "club": "Southampton",
+         "nationality": "Italy",
+         "position": "FWD",
+         "touches": 203
+      }
+   ],
+   "Michael Obafemi": [
+      {
+         "club": "Southampton",
+         "nationality": "Ireland",
+         "position": "FWD",
+         "touches": 51
+      }
+   ],
+   "Sam Gallagher": [
+      {
+         "club": "Southampton",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 15
+      }
+   ],
+   "Son Heung-Min": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "South Korea",
+         "position": "FWD",
+         "touches": 1182
+      }
+   ],
+   "Harry Kane": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 1033
+      }
+   ],
+   "Fernando Llorente": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 341
+      }
+   ],
+   "Vincent Janssen": [
+      {
+         "club": "Tottenham Hotspur",
+         "nationality": "Netherlands",
+         "position": "FWD",
+         "touches": 20
+      }
+   ],
+   "Troy Deeney": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 1245
+      }
+   ],
+   "Gerard Deulofeu": [
+      {
+         "club": "Watford",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 1191
+      }
+   ],
+   "Isaac Success": [
+      {
+         "club": "Watford",
+         "nationality": "Nigeria",
+         "position": "FWD",
+         "touches": 611
+      }
+   ],
+   "Andre Gray": [
+      {
+         "club": "Watford",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 432
+      }
+   ],
+   "Stefano Okaka": [
+      {
+         "club": "Watford",
+         "nationality": "Italy",
+         "position": "FWD",
+         "touches": 25
+      }
+   ],
+   "Marko Arnautovic": [
+      {
+         "club": "West Ham United",
+         "nationality": "Austria",
+         "position": "FWD",
+         "touches": 916
+      }
+   ],
+   "Chicharito": [
+      {
+         "club": "West Ham United",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "touches": 508
+      }
+   ],
+   "Andriy Yarmolenko": [
+      {
+         "club": "West Ham United",
+         "nationality": "Ukraine",
+         "position": "FWD",
+         "touches": 283
+      }
+   ],
+   "Andy Carroll": [
+      {
+         "club": "West Ham United",
+         "nationality": "England",
+         "position": "FWD",
+         "touches": 221
+      }
+   ],
+   "Lucas Pérez": [
+      {
+         "club": "West Ham United",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 205
+      }
+   ],
+   "Xande Silva": [
+      {
+         "club": "West Ham United",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "touches": 9
+      }
+   ],
+   "Raúl Jiménez": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Mexico",
+         "position": "FWD",
+         "touches": 1669
+      }
+   ],
+   "Adama Traoré": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Spain",
+         "position": "FWD",
+         "touches": 629
+      }
+   ],
+   "Ivan Cavaleiro": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Portugal",
+         "position": "FWD",
+         "touches": 494
+      }
+   ],
+   "Léo Bonatini": [
+      {
+         "club": "Wolverhampton Wanderers",
+         "nationality": "Brazil",
+         "position": "FWD",
+         "touches": 84
+      }
+   ]
+}
